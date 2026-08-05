@@ -1,6 +1,7 @@
 {
   "schemaVersion": 3,
   "network": {
+    "origin": "http://192.168.0.103",
     "launcherPath": "/Launcher/",
     "serverPort": 7777,
     "characterApiPort": 7788,
