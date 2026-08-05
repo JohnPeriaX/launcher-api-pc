@@ -7,6 +7,9 @@
     "ip": "168.222.28.116",
     "port": 7777
   },
+  "clientPackages": {
+  "defaultSampVersion": "R1"
+  },
   "content": {
     "customerConfigUrl": "http://192.168.0.103/Launcher/config.json",
     "manifestUrl": "http://192.168.0.103/Launcher/files.json",
