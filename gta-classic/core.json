@@ -1,1 +1,84 @@
-
+{
+  "schemaVersion": 3,
+  "network": {
+    "origin": "http://192.168.0.103",
+    "launcherPath": "/Launcher/",
+    "serverPort": 7777
+  },
+  "launcher": {
+    "version": "1.0.3",
+    "update": {
+      "installerUrl": "",
+      "size": 0,
+      "sha256": "",
+      "releaseDate": "2026-08-04T20:00:00+07:00",
+      "channel": "stable",
+      "notes": "",
+      "changelog": {
+        "th": [],
+        "en": []
+      }
+    }
+  },
+  "server": {
+    "name": "Los Santos Roleplay",
+    "password": ""
+  },
+  "content": {
+    "customerConfigUrl": "http://192.168.0.103/Launcher/config.json",
+    "manifestUrl": "http://192.168.0.103/Launcher/files.json",
+    "gameBaseUrl": "http://192.168.0.103/Launcher/DataGame/",
+    "about": {
+      "eyebrow": "ABOUT",
+      "title": "เกี่ยวกับ Launcher",
+      "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์ของ Los Santos Roleplay",
+      "versionLabel": "VERSION",
+      "copyright": "© 2026 LS:RP TH"
+    },
+    "news": {
+      "version": 1,
+      "updatedAt": "",
+      "items": []
+    }
+  },
+  "clientPackages": {
+    "source": "open.mp",
+    "downloadBeforePatch": true,
+    "defaultSampVersion": "037R4_samp.dll",
+    "sampClientsArchive": {
+      "type": "7z",
+      "url": "https://assets.open.mp/samp_clients.7z",
+      "checksum": "5572377f1c6f9fbcb673a8cf26c19984",
+      "extract": true,
+      "extractTo": ".lsrp-runtime/openmp"
+    },
+    "openmpPlugin": {
+      "url": "",
+      "checksum": "",
+      "apiBase": "https://api.open.mp/",
+      "endpoint": "/launcher",
+      "buildVersion": "6"
+    }
+  },
+  "ui": {
+    "titleMain": "LOS SANTOS",
+    "titleAccent": "ROLEPLAY",
+    "version": "SEASON 1",
+    "logoPath": "/assets/omp-mark.png",
+    "showPlayerListPopup": true,
+    "allowCopyServerAddress": true
+  },
+  "background": {
+    "enabled": false,
+    "useRemote": false,
+    "url": "",
+    "version": "1"
+  },
+  "social": {
+    "discord": "",
+    "facebook": "",
+    "facebookGroup": "",
+    "website": "",
+    "tiktok": ""
+  }
+}
