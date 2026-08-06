@@ -33,6 +33,6 @@
   },
   "clientPackages": {
     "defaultSampVersion": "R1",
-    "disableOmpClient": true
+    "disableOmpClient": false
   }
 }
