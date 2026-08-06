@@ -1,18 +1,38 @@
 {
   "schemaVersion": 3,
   "launcher": {
-    "version": "1.0.4"
+    "version": "1.0.3",
+    "update": {
+      "mandatory": true,
+      "installerUrl": "",
+      "size": 0,
+      "sha256": "",
+      "releaseDate": "",
+      "channel": "stable",
+      "notes": "มีตัวเปิดเกมเวอร์ชันใหม่ กรุณาอัปเดตก่อนใช้งานต่อ",
+      "changelog": {
+        "th": [
+          "ดาวน์โหลดตัวเปิดเกมเวอร์ชันใหม่",
+          "เปิดไฟล์เพื่อติดตั้งเวอร์ชันใหม่"
+        ],
+        "en": [
+          "Download the new launcher version",
+          "Open the installer to finish the update"
+        ]
+      }
+    }
   },
   "server": {
-    "ip": "168.222.28.116",
+    "ip": "192.168.0.103",
     "port": 7777
-  },
-  "clientPackages": {
-  "defaultSampVersion": "R1"
   },
   "content": {
     "customerConfigUrl": "http://192.168.0.103/Launcher/config.json",
     "manifestUrl": "http://192.168.0.103/Launcher/files.json",
     "gameBaseUrl": "http://192.168.0.103/Launcher/DataGame/"
+  },
+  "clientPackages": {
+    "defaultSampVersion": "R1",
+    "disableOmpClient": true
   }
 }
