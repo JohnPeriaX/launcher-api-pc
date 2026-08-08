@@ -1,10 +1,9 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 5,
   "launcher": {
     "version": "1.0.3",
     "update": {
       "mandatory": true,
-      "installerUrl": "",
       "size": 0,
       "sha256": "",
       "releaseDate": "",
@@ -22,17 +21,20 @@
       }
     }
   },
-  "server": {
-    "ip": "168.222.28.116",
-    "port": 7777
-  },
-  "content": {
-    "customerConfigUrl": "http://192.168.0.103/Launcher/config.json",
-    "manifestUrl": "http://192.168.0.103/Launcher/files.json",
-    "gameBaseUrl": "http://192.168.0.103/Launcher/DataGame/"
-  },
   "clientPackages": {
     "defaultSampVersion": "R1",
-    "disableOmpClient": false
+    "disableOmpClient": true
+  },
+  "protectedConfig": {
+    "format": "lsrp-sealed-v1",
+    "url": "https://raw.githubusercontent.com/JohnPeriaX/launcher-api-pc/main/gta-classic/core.sealed"
+  },
+  "licensing": {
+    "required": true,
+    "serverId": "GTA_CLASSIC",
+    "endpoint": "https://launcher-license-api.johnperia-job.workers.dev/v1/session",
+    "allowDevBypass": true,
+    "offlineGraceHours": 0,
+    "format": "lsrp-license-session-v2"
   }
 }
