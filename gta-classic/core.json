@@ -1,25 +1,7 @@
 {
   "schemaVersion": 5,
   "launcher": {
-    "version": "1.0.3",
-    "update": {
-      "mandatory": true,
-      "size": 0,
-      "sha256": "",
-      "releaseDate": "",
-      "channel": "stable",
-      "notes": "มีตัวเปิดเกมเวอร์ชันใหม่ กรุณาอัปเดตก่อนใช้งานต่อ",
-      "changelog": {
-        "th": [
-          "ดาวน์โหลดตัวเปิดเกมเวอร์ชันใหม่",
-          "เปิดไฟล์เพื่อติดตั้งเวอร์ชันใหม่"
-        ],
-        "en": [
-          "Download the new launcher version",
-          "Open the installer to finish the update"
-        ]
-      }
-    }
+    "version": "1.0.0"
   },
   "clientPackages": {
     "defaultSampVersion": "R1",
@@ -32,9 +14,8 @@
   "licensing": {
     "required": true,
     "serverId": "GTA_CLASSIC",
-    "endpoint": "https://launcher-license-api.johnperia-job.workers.dev/v1/session",
     "allowDevBypass": true,
-    "offlineGraceHours": 0,
+    "offlineGraceHours": 12,
     "format": "lsrp-license-session-v2"
   }
 }

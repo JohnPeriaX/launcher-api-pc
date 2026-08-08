@@ -1,44 +1,54 @@
 {
-  "schemaVersion": 1,
-  "server": {
-    "name": "Los Santos Roleplay"
-  },
-  "characterApi": {
-    "baseUrl": "http://192.168.0.103:7788/api/v1"
-  },
-  "social": {
-    "discord": "",
-    "facebook": "",
-    "facebookGroup": "",
-    "website": "",
-    "tiktok": ""
-  },
-  "ui": {
-    "titleMain": "LOS SANTOS",
-    "titleAccent": "ROLEPLAY",
-    "version": "SEASON 1",
-    "logoPath": "/assets/omp-mark.png",
-    "showPlayerListPopup": true,
-    "allowCopyServerAddress": true
-  },
   "background": {
-    "enabled": false,
-    "useRemote": false,
+    "enabled": true,
     "url": "",
+    "useRemote": true,
     "version": "1"
   },
   "content": {
     "about": {
-      "eyebrow": "ABOUT",
-      "title": "เกี่ยวกับ Launcher",
+      "copyright": "© 2026",
       "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์เกม",
-      "versionLabel": "VERSION",
-      "copyright": "© 2026 LS:RP TH"
+      "eyebrow": "TEST",
+      "title": "เกี่ยวกับ Launcher",
+      "versionLabel": "VERSION"
     },
     "news": {
-      "version": 1,
-      "updatedAt": "",
-      "items": []
+      "items": [
+        {
+          "body": "",
+          "category": "NEWS",
+          "date": "2026-08-05",
+          "enabled": true,
+          "featured": false,
+          "id": "news-0",
+          "image": "",
+          "summary": "",
+          "title": "ทดสอบ",
+          "url": ""
+        }
+      ],
+      "updatedAt": "2026-08-10T12:49:27.374Z",
+      "version": 1
     }
+  },
+  "schemaVersion": 1,
+  "server": {
+    "name": "GTA-CLASSIC"
+  },
+  "social": {
+    "discord": "https://discord.gg/eGSTBjqza",
+    "facebook": "https://www.facebook.com/profile.php?id=61581436854394",
+    "facebookGroup": "",
+    "tiktok": "",
+    "website": ""
+  },
+  "ui": {
+    "allowCopyServerAddress": true,
+    "logoPath": "/assets/omp-mark.png",
+    "showPlayerListPopup": true,
+    "titleAccent": "ROLEPLAY",
+    "titleMain": "LOS SANTOS",
+    "version": "1.0.0"
   }
 }
