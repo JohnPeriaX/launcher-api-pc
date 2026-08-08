@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "server": {
+    "name": "Los Santos Roleplay"
+  },
+  "characterApi": {
+    "baseUrl": "http://192.168.0.103:7788/api/v1"
+  },
+  "social": {
+    "discord": "",
+    "facebook": "",
+    "facebookGroup": "",
+    "website": "",
+    "tiktok": ""
+  },
+  "ui": {
+    "titleMain": "LOS SANTOS",
+    "titleAccent": "ROLEPLAY",
+    "version": "SEASON 1",
+    "logoPath": "/assets/omp-mark.png",
+    "showPlayerListPopup": true,
+    "allowCopyServerAddress": true
+  },
+  "background": {
+    "enabled": false,
+    "useRemote": false,
+    "url": "",
+    "version": "1"
+  },
+  "content": {
+    "about": {
+      "eyebrow": "ABOUT",
+      "title": "เกี่ยวกับ Launcher",
+      "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์เกม",
+      "versionLabel": "VERSION",
+      "copyright": "© 2026 LS:RP TH"
+    },
+    "news": {
+      "version": 1,
+      "updatedAt": "",
+      "items": []
+    }
+  }
+}
