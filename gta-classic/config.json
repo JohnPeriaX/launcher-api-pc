@@ -1,44 +1,31 @@
 {
   "background": {
-    "enabled": true,
+    "enabled": false,
     "url": "",
-    "useRemote": true,
+    "useRemote": false,
     "version": "1"
   },
   "content": {
     "about": {
       "copyright": "© 2026",
       "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์เกม",
-      "eyebrow": "TEST",
+      "eyebrow": "ABOUT",
       "title": "เกี่ยวกับ Launcher",
       "versionLabel": "VERSION"
     },
     "news": {
-      "items": [
-        {
-          "body": "",
-          "category": "NEWS",
-          "date": "2026-08-05",
-          "enabled": true,
-          "featured": false,
-          "id": "news-0",
-          "image": "",
-          "summary": "",
-          "title": "ทดสอบ",
-          "url": ""
-        }
-      ],
-      "updatedAt": "2026-08-10T12:49:27.374Z",
+      "items": [],
+      "updatedAt": "2026-08-10T16:38:54.795Z",
       "version": 1
     }
   },
   "schemaVersion": 1,
   "server": {
-    "name": "GTA-CLASSIC"
+    "name": "Los Santos Roleplay"
   },
   "social": {
-    "discord": "https://discord.gg/eGSTBjqza",
-    "facebook": "https://www.facebook.com/profile.php?id=61581436854394",
+    "discord": "",
+    "facebook": "",
     "facebookGroup": "",
     "tiktok": "",
     "website": ""
