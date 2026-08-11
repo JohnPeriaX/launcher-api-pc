@@ -1,11 +1,11 @@
 {
   "schemaVersion": 5,
   "launcher": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "release": {
-      "version": "1.0.1",
-      "size": 9154314,
-      "releaseDate": "2026-08-11T09:35:00.000Z",
+      "version": "1.0.0",
+      "size": 9156428,
+      "releaseDate": "2026-08-11T11:23:00.000Z",
       "channel": "stable",
       "notes": "มี Launcher เวอร์ชันใหม่ กรุณาอัปเดตก่อนใช้งานต่อ",
       "changelog": {
