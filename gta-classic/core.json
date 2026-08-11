@@ -4,8 +4,8 @@
     "version": "1.0.0",
     "release": {
       "version": "1.0.0",
-      "size": 9149428,
-      "releaseDate": "2026-08-11T07:40:00.000Z",
+      "size": 9152750,
+      "releaseDate": "2026-08-11T08:44:00.000Z",
       "channel": "stable",
       "notes": "มี Launcher เวอร์ชันใหม่ กรุณาอัปเดตก่อนใช้งานต่อ",
       "changelog": {
@@ -21,12 +21,5 @@
   "protectedConfig": {
     "format": "lsrp-sealed-v1",
     "url": "https://raw.githubusercontent.com/JohnPeriaX/launcher-api-pc/main/gta-classic/core.sealed"
-  },
-  "licensing": {
-    "required": true,
-    "serverId": "GTA_CLASSIC",
-    "allowDevBypass": true,
-    "offlineGraceHours": 12,
-    "format": "lsrp-license-session-v2"
   }
 }
