@@ -1,9 +1,9 @@
 {
   "schemaVersion": 5,
   "launcher": {
-    "version": "1.0.2",
+    "version": "1.0.1",
     "release": {
-      "version": "1.0.2",
+      "version": "1.0.1",
       "size": 9161322,
       "releaseDate": "2026-08-13T04:54:00.000Z",
       "channel": "stable",
