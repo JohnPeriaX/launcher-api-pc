@@ -1,41 +1,40 @@
 {
+  "background": {
+    "enabled": false,
+    "url": "",
+    "useRemote": false,
+    "version": "1"
+  },
+  "content": {
+    "about": {
+      "copyright": "© 2026",
+      "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์เกม",
+      "eyebrow": "ABOUT",
+      "title": "เกี่ยวกับ Launcher",
+      "versionLabel": "VERSION"
+    },
+    "news": {
+      "items": [],
+      "updatedAt": "2026-08-11T10:58:36.097Z",
+      "version": 1
+    }
+  },
   "schemaVersion": 1,
   "server": {
     "name": "Los Santos Roleplay"
   },
   "social": {
-    "discord": "",
-    "facebook": "",
+    "discord": "https://discord.gg/48H2CHerSr",
+    "facebook": "https://www.facebook.com/profile.php?id=61581436854394",
     "facebookGroup": "",
-    "website": "",
-    "tiktok": ""
+    "tiktok": "",
+    "website": ""
   },
   "ui": {
-    "titleMain": "LOS SANTOS",
-    "titleAccent": "ROLEPLAY",
-    "version": "SEASON 1",
-    "logoPath": "/assets/gta-classic-launcher-icon.png",
+    "allowCopyServerAddress": true,
+    "logoPath": "/assets/omp-mark.png",
     "showPlayerListPopup": true,
-    "allowCopyServerAddress": true
-  },
-  "background": {
-    "enabled": false,
-    "useRemote": false,
-    "url": "",
-    "version": "1"
-  },
-  "content": {
-    "about": {
-      "eyebrow": "ABOUT",
-      "title": "เกี่ยวกับ Launcher",
-      "description": "Launcher สำหรับเข้าเมือง อัปเดต และตรวจสอบไฟล์เกม",
-      "versionLabel": "VERSION",
-      "copyright": "© 2026 LS:RP TH"
-    },
-    "news": {
-      "version": 1,
-      "updatedAt": "",
-      "items": []
-    }
+    "titleAccent": "ROLEPLAY",
+    "titleMain": "GTA-CLASSIC"
   }
 }
