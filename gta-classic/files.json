@@ -108,14 +108,49 @@
       "size": 11540668
     },
     {
+      "path": "CLEO.asi",
+      "sha256": "748ea0b36a1580652146c8b443066bdd81ef14556431805b2102f0f1f44caa08",
+      "size": 325120
+    },
+    {
+      "path": "FPSUnlock.cs",
+      "sha256": "8c7f40bb90ac492758dd51863cbc6c46a9993160cd76e93c3e3de96abd02de35",
+      "size": 17929
+    },
+    {
       "path": "FastLoad.asi",
       "sha256": "2d2110cdcdce71c5d9fe7957945310fc9c3f4354cf896a17f5d6ed76fafc585e",
       "size": 88576
     },
     {
+      "path": "FirstPerson.cfg",
+      "sha256": "0b6b60919f438b4e0642a98ed19c2f86f6e03e7c4051d6ef72698e39a4ea93c2",
+      "size": 681
+    },
+    {
+      "path": "FirstPerson.sp",
+      "sha256": "faef4e72710aa4c0e8e5485f21b8b79d1f19b26b7e011e97c57433d46e6ff1f0",
+      "size": 442368
+    },
+    {
+      "path": "FirstPersonModFix.asi",
+      "sha256": "9bea84cfa90488d6088d915f5466677d4d48b4eec5d105fae10f7a206ef3c35e",
+      "size": 163688
+    },
+    {
       "path": "GTAINTERFACE.dll",
       "sha256": "55e7974519205f1f2039fa5b3bcc9c64f5808f841baa9101844605cd09333df4",
       "size": 100864
+    },
+    {
+      "path": "GUI.fp",
+      "sha256": "d3d3e380f86ff7e6869b1c0d46f1daf8ed6cd65fe0ce604a1ce853d5f7d07043",
+      "size": 173056
+    },
+    {
+      "path": "Hooks.asi",
+      "sha256": "bd8accb1ff42c7e365c8c3fdcc5c5b475b5b9ffcb91abccc540153487808ebcf",
+      "size": 15360
     },
     {
       "path": "Leia-me.txt",
@@ -246,6 +281,11 @@
       "path": "anim/ped.ifp",
       "sha256": "f7483f49080a0f833dc73ef09aa2224f99a9e90757fa5c2b7db5505cbef33eac",
       "size": 1433248
+    },
+    {
+      "path": "anticrasher037.cs",
+      "sha256": "f623ecbbac0e0220b4b10c2edeb29b7b8bb6e374da3414c1c1f46feed22f52ab",
+      "size": 18416
     },
     {
       "path": "audio/CONFIG/AudioEventHistory.txt",
@@ -414,8 +454,8 @@
     },
     {
       "path": "bass.dll",
-      "sha256": "3f04620d6627abe5c3b4747faf26603ab7a006c81b2021ab4689bdd7033bb4cd",
-      "size": 92216
+      "sha256": "6e1bf8ea63f9923687709f4e2f0dac7ff558b2ab923e8c8aa147384746e05b1d",
+      "size": 139128
     },
     {
       "path": "bass_fx.dll",
@@ -466,6 +506,21 @@
       "path": "cleo/IntOperations.cleo",
       "sha256": "5897bcd19ac9097f3b730c091623c556a176c82af4f97e3a2c483f62f4819f4f",
       "size": 76800
+    },
+    {
+      "path": "cleo_readme/ASI Loader ReadMe.txt",
+      "sha256": "ea326de87efe0b0c0fe88fad0c70902c1b47284a1289806d0de4d9514c3e0770",
+      "size": 2796
+    },
+    {
+      "path": "cleo_readme/CHANGELOG.html",
+      "sha256": "1dc314dcda131f3063f1520e6758b0e4920592b5909731de7549be407bca9751",
+      "size": 10053
+    },
+    {
+      "path": "cleo_readme/README.md",
+      "sha256": "91f058f3068394bafb17700ce10fed349c2e96f71c291d88d8de84ee7d0c1301",
+      "size": 3449
     },
     {
       "path": "cleo_sdk/CLEO.h",
@@ -1208,6 +1263,16 @@
       "size": 3576
     },
     {
+      "path": "data/fonts/fp_font.dat",
+      "sha256": "493aef7729b27262def62414a5c9728d5300d76f6d25e7ae18672abd43a7d962",
+      "size": 979
+    },
+    {
+      "path": "data/fonts/fp_font.txd",
+      "sha256": "b0332cf7502f14a3642fc431ddd7428abb4d510fc48cdf388d8e949bf633005a",
+      "size": 1048744
+    },
+    {
       "path": "data/furnitur.dat",
       "sha256": "d7184e6ced806097582e38605f7f860e0070d05e8a2bdb84d6d6b0df8a92791a",
       "size": 16480
@@ -1938,6 +2003,11 @@
       "size": 7168
     },
     {
+      "path": "fpsunlimiter.cs",
+      "sha256": "4bb405f2d12461a2021a06fc5c1b86333ac4c6c64ce417341a30708e32eed029",
+      "size": 17593
+    },
+    {
       "path": "gta_sa.exe",
       "sha256": "82f7de60b75b6dda84ef27b7b3941593d20ccdabbfa2b1ea235eb1f9bb991c1f",
       "size": 14383616
@@ -1946,6 +2016,11 @@
       "path": "gtaweap3.ttf",
       "sha256": "086dc4351bf1056d80a73168440ffe4261831bde992e5134902b9bae017dcbe9",
       "size": 103552
+    },
+    {
+      "path": "models/FirstPerson.txd",
+      "sha256": "a690e8fee94914fd1a7f37b2cfff2f8debe74c12ef314e5fdac18112e9eff7dc",
+      "size": 337832
     },
     {
       "path": "models/coll/peds.col",
@@ -2608,6 +2683,16 @@
       "size": 1379
     },
     {
+      "path": "modloader/1 st mod/ganghous02_lax.dff",
+      "sha256": "7c886581ed61a0352e2283bee307a1a3bb38ce9f1885fc4975dd598f3a822be7",
+      "size": 225280
+    },
+    {
+      "path": "modloader/1 st mod/ganghouse1_lax.txd",
+      "sha256": "66902ebf4e8fe35200b75b1d20bfae305d02ca006bedf34ddc1ba05e2204f585",
+      "size": 16594192
+    },
+    {
       "path": "modloader/Animaciones/baseball.ifp",
       "sha256": "7a21928e46d727d4482b9b45b41e91e3da18ee137172a57de47c63a79e5b9be5",
       "size": 68492
@@ -3228,729 +3313,749 @@
       "size": 8388904
     },
     {
+      "path": "modloader/Ghetto Pizzeria/idlewood3_lae.txd",
+      "sha256": "4211cb06b35fe609a9c71a807e9af9496dd0b0076180774d7b4a82448e58fd51",
+      "size": 2735996
+    },
+    {
+      "path": "modloader/Ghetto Pizzeria/lae711block01.dff",
+      "sha256": "31396416d52026dc982450b01a3e44ff96126befa88b805dc43ea38e16f25c69",
+      "size": 1360889
+    },
+    {
       "path": "modloader/HD Intarface/models/fronten2.txd",
       "sha256": "8fbf7a49e3a5174b5847cc2bc0fbc8c35f4dc0bd719d03c937a312acd0f97b21",
       "size": 3933224
     },
     {
+      "path": "modloader/III.VC.SA.LimitAdjuster.asi",
+      "sha256": "db0c745061718e878051e3fd2db4f15a1015506636095d3569105e5284e381c5",
+      "size": 375808
+    },
+    {
+      "path": "modloader/III.VC.SA.LimitAdjuster.ini",
+      "sha256": "47c174fbd5329cdb93de63afb38cf0c3b1bf2e080199710ed88778e62a5fc881",
+      "size": 7489
+    },
+    {
       "path": "modloader/Map/radar00.txd",
-      "sha256": "76397ad2c6802935bd862fae9ec2d50e87e1dfbdee645fac52554babe6de052f",
-      "size": 133120
+      "sha256": "65631f2a8c2ecf12e53b54682a554cf0858435c364879c68e0a67fdb6ddd04dd",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar01.txd",
-      "sha256": "371db0a495ff70487bbf4c7fd8b39f63a57352072b93dd7f8a6de529b9600cf1",
-      "size": 133120
+      "sha256": "2bd06804accbe46207d103655bf4178e8228b3455a867999849c1f9cfc1ef98d",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar02.txd",
-      "sha256": "a32c3d7316cb37514f3be5c690ba299dd8edad688d8172d5c8e9fc823b458591",
-      "size": 133120
+      "sha256": "8770df1ba60d10fb0d32c25699e2539f07ec4f93f9383070afb20dca3af8e895",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar03.txd",
-      "sha256": "be8fa4545da6327addd6c3c301e64210bdb660c6542f7fbb33484eaa7e968353",
-      "size": 133120
+      "sha256": "20810253f26143883a01cad5cc06dcaf2b5933cb95cfb4f30eb2e3c7a06c99fb",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar04.txd",
-      "sha256": "b3bee0bf60f3ec1da44060bc15ac95984e20ab0cb17d5e226a188c48e2fe15ff",
-      "size": 133120
+      "sha256": "a431b2b6ddd373e579019f89c6744f7d4947d1166797ecad84a7f76e07ecf114",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar05.txd",
-      "sha256": "bd5dc0eed88483c5e05e3edb96562a04d09db79974d9ac1e7b39765d018c82fa",
-      "size": 133120
+      "sha256": "5147ad766be17e25a7276acfd1ff0325adac197426c55869bf962b8c4f69d3f0",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar06.txd",
-      "sha256": "39cb9c457cb5a53d2cdd36772fed81f37d5d3df572fe8556a10a0bb5713530f1",
-      "size": 133120
+      "sha256": "493b88a24c8f9e437569ee48264ea45a24c9988f9e194bf50eb2f378729f29b3",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar07.txd",
-      "sha256": "8c4c1d494b2a53112b2cba7be6d22d7e0d8b6c23b812e72d38fdcee08f97ab69",
-      "size": 133120
+      "sha256": "4aeef9394dcc52e73aa914cc9debaf5386f40dc5268e749d2c016f1a78eb5cdc",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar08.txd",
-      "sha256": "6b4a0d921ee6f9e48c99cce19bb2aca9b67e80ee61e4de20c03f603641bbcc36",
-      "size": 133120
+      "sha256": "2299f4e833ab1d60d77d049d809d189949c1984f6484e178fcca9bea5c5ca89b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar09.txd",
-      "sha256": "ba87a6f1215c0b1e246bde9ee6c9d1ac37e82525480411b8ba37053161fb6ee9",
-      "size": 133120
+      "sha256": "1f794c6ff824dadf9f166f915652f6f869dbdf118f9bdf1eb58b80725f19c516",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar10.txd",
-      "sha256": "14c1dee09a5a913ff701c7f6504ab32078f470c3243f7d332ae99e7f0d958bef",
-      "size": 133120
+      "sha256": "eafcce00e4bd9250a0d0c94c41eb098f71097a8ed232d9f8346b09b7f62af69f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar100.txd",
-      "sha256": "3ff22b52562a8fa7472c31c11e4b6d78f9aa843c852afdb4b0234c3f1f52d12a",
-      "size": 133120
+      "sha256": "2455e22521afb88dd98134a96521d8831d877869aca296914271362cf1b0a49b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar101.txd",
-      "sha256": "c3f4b6be7d64e9d0214a56b5ec2d8157ff0e3fcfe04951b0f4c2a40eb00e8689",
-      "size": 133120
+      "sha256": "01fa0242730c08d4ca128b78aa4ffe1d272c05881d9db5f00356c525819aaa9e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar102.txd",
-      "sha256": "41bf1db6d62983fc44bb59a0ab6d5a8fe548835c2f1868d721f560892d06a695",
-      "size": 133120
+      "sha256": "6be3eec319530acdeb6fc3260610014cca922392162758231c55449672068ec4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar103.txd",
-      "sha256": "049e68b8aef9d4f1e9e0d39ce927729250ef6675bff8450f8e68affe5363555f",
-      "size": 133120
+      "sha256": "f6e64c17413ac8b25c0efccd8f4c3c6d44e6ae367fdf55984ab96cffb23d26da",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar104.txd",
-      "sha256": "117e4e9053be0c9b5b75d53983ab0552ea0e6232648582653ad35b255c5d859f",
-      "size": 133120
+      "sha256": "fe4052357c82da49f5746d237c6a8c302003e0797432bbd86049cd5e9eddb5df",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar105.txd",
-      "sha256": "fbb4a44e9f38e74969d2041095598d2e27f376f4c242c2028bf288f8abbb14a8",
-      "size": 133120
+      "sha256": "62ba206037950711d86a39a25009cd719265e6fc7519f7c16948174898b69493",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar106.txd",
-      "sha256": "0237f94f5139fd3b91b9e7fb071ef8f5991aa582757d4e3d2198c20156a53445",
-      "size": 133120
+      "sha256": "6ef6aa903d3b05e0136032229e1ca8e915132eaeedd277ad374513cfa53f97c5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar107.txd",
-      "sha256": "cd2e1c601a08630747766ee20f7d0d79ffc00aecb5c4953ca21c86f74eb10cc9",
-      "size": 133120
+      "sha256": "482d1742b778dfd2068902476359621cc482427aad665d955f819f562c10ab76",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar108.txd",
-      "sha256": "b38789e8fc1bd3d12fe2b1b342d2cefc8fee0a0a7c3904fbcaf57b1c822a175a",
-      "size": 133120
+      "sha256": "715e4ec4b0547950eddc8fa78ff28a0abe37ecb6636e52e816baba1153c95099",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar109.txd",
-      "sha256": "4a5fcdebd2c425a2e1c81eba1c567730825406aa9b4c3b6e108e9232c09f4a10",
-      "size": 133120
+      "sha256": "8e276f75f431b7c893ae9f8b18f7b7f968d6309978364752a041eec2e452b82f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar11.txd",
-      "sha256": "79517491cbc3f2d64c2a0b025babf13f2a74bf1bbdb33f5eb19c4ce98dc9fcb4",
-      "size": 133120
+      "sha256": "dd3ece56fba86cfe052da16839697bac9c96e3327cf806aed1dd2a998aec3f9d",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar110.txd",
-      "sha256": "50dbdd10f73f71ad3fadc642c0c71b053a8f9dca9c9e4f69e70c377decda2595",
-      "size": 133120
+      "sha256": "dcf6ebe7dfca84828e7ea7ebdc083fc1290b935e2ef264091071cfbffe6fd317",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar111.txd",
-      "sha256": "aa622b29b56adfc8f76e3bea47e3bf21370d7e88e77022311540adab6ed7bbb0",
-      "size": 133120
+      "sha256": "96a16ce21a4b96b0c24e8382a5f1087ef9853516f62d3e2473b4c00075de8342",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar112.txd",
-      "sha256": "f827d99c99425413fec67129e3b975aa49ebdc72058c581a61deebb4d5f97570",
-      "size": 133120
+      "sha256": "d05dbfceed7d7da1a030b700bc5aabd6acea9674130eb83c3e11a7aa35c75337",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar113.txd",
-      "sha256": "8fdcc12c70c808062e1689c7be5bd594b50c4f28063c075abb5d22378563a222",
-      "size": 133120
+      "sha256": "a4037a28ff1eaf4f720316121587a263599a07f582fc18bcd4ce93c3b517aa0e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar114.txd",
-      "sha256": "93258f64b06d5993a9ac2b7c6fb10e6fdba0c06acf396dbfb8b9ed6412845ddf",
-      "size": 133120
+      "sha256": "7e65dcd6215c3dcf5a1f3638817801bbb3f8301a0e62695d785abfbb2d3f2240",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar115.txd",
-      "sha256": "9deefcebf3974fd8a0e81fcf8820e845bcb4f556b79777982dfbd6139c182948",
-      "size": 133120
+      "sha256": "cad6f4402bc183658970652be348b66232c5a83c74f7830188b41688ea6720dd",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar116.txd",
-      "sha256": "85275ecbf55f8910ad7dc26cd2b112a1cc01fe05a1460124057ec55cd5725854",
-      "size": 133120
+      "sha256": "55668656a100714034e9027a6b5b00594e89407a84d750e8b5a2fff13674c616",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar117.txd",
-      "sha256": "64e9e23b2d0630a1f2f42d608192db1e7285d58c497a8cb57e21b8e4b5ac73fe",
-      "size": 133120
+      "sha256": "475544ccdda8c86fa56f3472e90b0afe238f953f0da76bef7ce27dec68b908e2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar118.txd",
-      "sha256": "f7e692fec101fdad2b44c73f1b13010961ef1b4d1b4c3da4ca2baf16304d1b1a",
-      "size": 133120
+      "sha256": "b933cbe96a9f04d131ffbcd866f00532602ddaa155328851dcaa9fc5dd52e4b2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar119.txd",
-      "sha256": "b2f4d73336de71c0903155bea71cae672902ba1b2048c659ce308548bed91ca6",
-      "size": 133120
+      "sha256": "951a08dedd6008d990094c69b97d5513b7862ab741b3d271bc1ffb87fdd1826a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar12.txd",
-      "sha256": "4e01482ce74cdfbb4147a54ab282acd527df78a43fdce393d3544b4fd61d67d3",
-      "size": 133120
+      "sha256": "a8ad3d385cc8f4129b38c9bcfccbfea3a0482318e13f1aaf2023241bad0c36b9",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar120.txd",
-      "sha256": "185b54ad0f2ba8e22780f766da593c4b070a9a8a6103cf67617c8924a34f1710",
-      "size": 133120
+      "sha256": "c28ba7f4034403e5b43be86e5f7c1b190add92a02626380bc3126588a4843f05",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar121.txd",
-      "sha256": "727f962f56f43d85df9d8259a9115c4be282603934a864fcd3a4ec60c76964a5",
-      "size": 133120
+      "sha256": "4f1d76db01a2b369e6a607c4824adfc4229b1e132901b07678477952e27d16a4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar122.txd",
-      "sha256": "cac126bca5b1e53363268a2a72de9a18e2ec1ce429acbccff4dc2d50726565a9",
-      "size": 133120
+      "sha256": "78ef3d1e708b0d94c857db3da77cae62c9ec45e93ed16084f3178bba79d557f3",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar123.txd",
-      "sha256": "11d09c8ed47bbc36981d161d736377ca4e540efc5393e32a3df2259b4e50c214",
-      "size": 133120
+      "sha256": "9038204708dc4e32d4b7c48a751bba174151aa1b93938563d93981163a0fa9d7",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar124.txd",
-      "sha256": "19b67cd5a7001e1af6d677f4e168efe0e236475a8f0b305ad80df05c84ee7471",
-      "size": 133120
+      "sha256": "66a5dfb493552fb9a4d5026f58a881e138d724ae447d74b1c858f1a8b9b19dd7",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar125.txd",
-      "sha256": "2410a35a6a6864e56e09b0b09c03cb230b7ad07eb9ecbe5e1fcf13db7d0842f1",
-      "size": 133120
+      "sha256": "2a322cc10210a3af2851e464792f6cc81c73ecefc530d1d69eff2c0295eb7718",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar126.txd",
-      "sha256": "67a611bfcf9d88933e2f56f4b704318a74bc95906fbd295993ec98f1a37691e9",
-      "size": 133120
+      "sha256": "b58b4b56181ed0a44f8b6609a1dc9619b923e541ba86409efe6072bb1c414164",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar127.txd",
-      "sha256": "203a51ca3cb32077d39c046b585818196480c0b99ff39eba0424e8f53eb42920",
-      "size": 133120
+      "sha256": "49067d5b7472e1b9bc66a9e14dfc7caaa30ed62788e154d328f23faf612df2c3",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar128.txd",
-      "sha256": "63a17a0b7dcb153e3a0a5ba47dc5f8a8c766d2a72f441b29f2b57198c3547d0a",
-      "size": 133120
+      "sha256": "86bb5215c00f33e72edd3af19c9a140f68be0067152eb6565cb41761498a1a0e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar129.txd",
-      "sha256": "163b6e4b195560c3f99e8e1d3b7b00b4ba447d74f38e36f70212f410dbbd5a75",
-      "size": 133120
+      "sha256": "e75992ba2221de393d79d3dacc4fb8191aa272d2ab3fff128b1a7da68705b5cb",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar13.txd",
-      "sha256": "90cbacb1171ba3673fb901c397b5c91e6f9a2729a80d82327b92eb61ba44ecb3",
-      "size": 133120
+      "sha256": "2c8abdd1ffe8d407dd46837baf6573d5f85f4e5437eb7e81797bc7bfe6e496ea",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar130.txd",
-      "sha256": "48420d46992d3cf14342321a87affd52726f3b4534c0c1512d1af1b7775745c6",
-      "size": 133120
+      "sha256": "a793fb3397b61deddf0dfbab948bfbd9e47969b2826afb73e0329ecdc81c8ead",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar131.txd",
-      "sha256": "b079d17912aeeb27701c67047ebde27856e522f090da2c14dfe30fd55abfb350",
-      "size": 133120
+      "sha256": "a6e40c6980eae73f9d6535b8de7f8c7e43300ae7ec6050ce8f682f8af589d187",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar132.txd",
-      "sha256": "1c06824ca20822f6d4918f98995e285f419000e2747cea849641360ee6444701",
-      "size": 133120
+      "sha256": "816d32f8f67df11c802e79a0e7956d48092c5ede281a754156c601afc89fe1d4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar133.txd",
-      "sha256": "ede4309660ca30c761cd10b28ecf62ed8b8b174ec4f2d721c2c58cbc3c9dc3a2",
-      "size": 133120
+      "sha256": "4dddaa62b99d9abbdb23f0102ca67da87d70f9206e9790037e7fe5e8620ad944",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar134.txd",
-      "sha256": "2d422b9d2dd0f0f5643669d6362f3b130394cfd69e05c8fb9cbd2610bc059048",
-      "size": 133120
+      "sha256": "2eda542dc8c3c2fd8e4a08c6c770be2bac6b964262c97f498f37e4ad9c9ee02e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar135.txd",
-      "sha256": "108cf4dd97afe59b54527ed2dd98355d8341c3eba0781d876bb8c656732a67a9",
-      "size": 133120
+      "sha256": "0cb12d45ce180c9a366227d20115ff35d614a73014ef6b7dd3216979d0c32842",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar136.txd",
-      "sha256": "1ff27bf1000fc4aa55e8c3f6e66a934957523eee1a900e1e4468c10b4a1c9b75",
-      "size": 133120
+      "sha256": "eb15de707a756133c1bfed64a373db3c2d5356ca95935ed6bb459d67d24da9e4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar137.txd",
-      "sha256": "b9d325dcca5bd22108baf3b589e6379df0ba7eb59d58cd360c6ffbbbb8ba43dc",
-      "size": 133120
+      "sha256": "655f314b36495e983efc8dde163449e370954158dc52759584d1c5f51cb27078",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar138.txd",
-      "sha256": "c4cdf27ed9a3d05a5ed708564b79e54bdd7b3b186d30dcec5b75553f85aee327",
-      "size": 133120
+      "sha256": "3d61933157653145811ef2568eb57ac821835179881c68f6f00072c3130b05c1",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar139.txd",
-      "sha256": "e4bb7c9cfdcf839d208427bdd0f9b367b7282aa6ac3de59e894393894ad10424",
-      "size": 133120
+      "sha256": "d83915afdc79aa32d5bffcc1fec4fc67e3699d0f92665954a8eb3505ed751b20",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar14.txd",
-      "sha256": "d1dfd075f3054fa25108c36b10aecfeb37fd9271770bf049e2ec26ecc454f6fb",
-      "size": 133120
+      "sha256": "8f9eb023b955e82361fca853b8526e3447515fefd047bd87bf6af946e58baef5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar140.txd",
-      "sha256": "824d149216b9fc6ea56103c93929e465e1c4449980927713f916e4958eebefac",
-      "size": 133120
+      "sha256": "afdefa3a2abe82086833ceb391a635d2987f0c9942a1bee003dd21e6fae4788a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar141.txd",
-      "sha256": "24463490637ebfe2ba080d66c94dc731738c954b2e2141e88527d34c4c1caf70",
-      "size": 133120
+      "sha256": "8ed656ab76ec363cdf139c16be66bbd8c85be5662d7a387cc767bf01533d378f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar142.txd",
-      "sha256": "4667a8f9759f45bec187a6eca18f587edca574d97a538adce17b76e47d0942e4",
-      "size": 133120
+      "sha256": "6e5a71cf935ff85703d4d932b521dcc770ebaea910e5089a9e9482ed91656f42",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar143.txd",
-      "sha256": "850e42521cea44a1bbf95cfc0d7e58c29a4c3091b9f67267fe6225d104ffbfdf",
-      "size": 133120
+      "sha256": "a1079912eef85fea72af3b7c80894f0cacb89a000a7f5b7d6c59eec67578ae0c",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar15.txd",
-      "sha256": "97f74c0f603a1b8ee1712d6ed34ee5b6559af80cfb660f49aab7fb6767b3548e",
-      "size": 133120
+      "sha256": "655c764d64f263a8aabc7efe4f03bf4260e5688c1449bfc77a33e7b9871ff58a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar16.txd",
-      "sha256": "ad6f7e0d3ab330c5a9b53896b30be16fb1cb6fe8df39c1250c3a0a824a280ff3",
-      "size": 133120
+      "sha256": "348f33f90724d134b0e8b969e657b9493023de426e9f8fe12774065f2497e7e2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar17.txd",
-      "sha256": "a396b14b942c929b2cd91ef0fa6304d8fdeb364350b1de82ed19583ce823b05e",
-      "size": 133120
+      "sha256": "6b8adaacdba8dd6ff9b878b8a34741e7edd84dd2501f8f2032ddf31c0204f561",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar18.txd",
-      "sha256": "6ce374289e12642d16c8dfa1a544028c74bafbb43160e8eb3c533de49ab86936",
-      "size": 133120
+      "sha256": "567a217e3a39a970a6a5f63b4e12b97a683bb310018202ab68e7ae387f81ce30",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar19.txd",
-      "sha256": "1949dc75fb02bc670fff849ca299d2bf435cff484ce50e786b1a2c27814c92dc",
-      "size": 133120
+      "sha256": "19ed0ddbfcb4f1be3d54895ec11f889de47875dd7876f8b16a10de3698ba9515",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar20.txd",
-      "sha256": "bbc1e72d8638b5fb3576be2e8864ec2f6c50963962b798aaec5c58f105d6af8f",
-      "size": 133120
+      "sha256": "4b5dcda8cc457da81771c31f519d45bdadc8558cbdaf2de3a182aacf6cfe6f4d",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar21.txd",
-      "sha256": "3467553609d886e584ab6209670be757e6faa51f9d72598fa9e6df0f10aedbff",
-      "size": 133120
+      "sha256": "57d76592430f187a9dd327ee93ce0e0c0c65274bb6c101b49ed2df3100607af5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar22.txd",
-      "sha256": "2471c201431175e166e8a3624d02cc6f4d9dc828dd339b939e0933ca7274f96f",
-      "size": 133120
+      "sha256": "040c892d40532397510c91c4d19082ec0d2d266043268a765b894e1a2936cefc",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar23.txd",
-      "sha256": "e25e7eca6436881b59d3fd3bff892095855471014180cafb90c88d85471d7b51",
-      "size": 133120
+      "sha256": "b86d9fa554c68be2cd8494b38087096f518c007cf0034149cb19b17e8117b6eb",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar24.txd",
-      "sha256": "448f5ca0cac8d2404913a654cc6f6eb6b672e14da33e92920ad2017105c50e68",
-      "size": 133120
+      "sha256": "74189f74e11bcff729a994ce28edbf3100a7923ed664d41403c8c15c98452e79",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar25.txd",
-      "sha256": "ef65bb499b93c0c873ef53741e2f932fc944245de828e551b7ffaa921f8fb6fb",
-      "size": 133120
+      "sha256": "9ddb47f0977d10056365b402e23eac39fbb9dbd0ee73a75d9ffc894b1c50cf73",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar26.txd",
-      "sha256": "5d7ce61199634a73ff978fb8c651693821b06ba77d82be891612c5b86a135bfc",
-      "size": 133120
+      "sha256": "874f6813c656656aeff751b9ccea1d5eaa4661b0e860cbefb1493345f031f7b1",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar27.txd",
-      "sha256": "daaa93a7d3f59220f3fc7491010dbba350658ca3d40713c730505ed3eb81cbb7",
-      "size": 133120
+      "sha256": "2f0eba5838b1f0cbb1af6811a134838612628248f4cd7333dbb338febdc55579",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar28.txd",
-      "sha256": "3d04b94aae247f322801350ef7635ba61fc15189c19a9fabd5d116597dfbdfa1",
-      "size": 133120
+      "sha256": "e494dc06ca1a2d9a35e0f851cd94ca082d2153175c4a218e560a435b4aed03e9",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar29.txd",
-      "sha256": "ced9733ecbe0c17be9490cdff638111221743aaed7f365a0ddf39fc6a8cfc0ef",
-      "size": 133120
+      "sha256": "920299cb1d8d7b24fd2dc219a5e5e8ece5a3cd8dc289073bb25284bcf09d2265",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar30.txd",
-      "sha256": "55bcb3cd0a3aafa416cde8507aa9a8abdb34506b48d84eba12c1ead5a1087c79",
-      "size": 133120
+      "sha256": "3c4a3c55551c86bb4bac72c9cb50958b73f2712cf3bbc0ec399b58a0aa46c48f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar31.txd",
-      "sha256": "07008b9183835c4adf48536362d00fa7a9381febdfedc038284223e5b2ea6e47",
-      "size": 133120
+      "sha256": "23c27050d0df8b43d89bd90bd37771c7ef9e363822e97f001e910477185e933f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar32.txd",
-      "sha256": "dfac7d55c1fb1dcce7b874daa21a8ea268621eb2eb06e0839f21e85afe50f71f",
-      "size": 133120
+      "sha256": "7d9a2a827f36d318fd8189ff461fae2967d0e23767e59de129fa999ac4591049",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar33.txd",
-      "sha256": "883351569c38f8d40fecf853d91f9671c1bc48ecf2d76edba7c3a7a51d13f14b",
-      "size": 133120
+      "sha256": "50f8aff39807f652aff2e31c2e248a1d99ddfe63f480ba236494ec381de47670",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar34.txd",
-      "sha256": "ae558067c2aa2a9f771d5ddd6546b0baa94889bb6fffd538be1e9a0f39b5a3ba",
-      "size": 133120
+      "sha256": "602ec639b7eaab42b8a48eba7cbc038875723380d62f839c5c6d86c4241b66d8",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar35.txd",
-      "sha256": "fad41965a197bbc221cbd5b29f317c2af6b6e22c2e7a4e2d79ff05d21bd39359",
-      "size": 133120
+      "sha256": "90c0f8a984c71e659e79090dde9e4a238fc408fc09aa4de2016f11005cbc56af",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar36.txd",
-      "sha256": "8016ac2dba5c480bcd5f68bc8a373039362c78a06e392e65b61d186fd6c25483",
-      "size": 133120
+      "sha256": "7ae732353487f45362ce16c81c4fb4929778b2ce0facf14f32cf703dbe272c3f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar37.txd",
-      "sha256": "5c0a7e54a48224b19462099bc44c0f893cee68df0ac6ae1d5659c03c5093cf3c",
-      "size": 133120
+      "sha256": "fb045c151d57a56ad18aaee6767db8e9b84be1114ddc4be0d1cec546abf9200b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar38.txd",
-      "sha256": "a0a3daf2b25dc0715f24cd3af463b065160715db66506a13b7c61a012560ab93",
-      "size": 133120
+      "sha256": "16a6479d3a6ab1ae68dce2d13ae6520df880cd317505c70f909bd3f71168aed0",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar39.txd",
-      "sha256": "8e7c89ec1f5b1552c1e4f607a94defe5a65986ccf5997a3db9d2a08a5ac6724d",
-      "size": 133120
+      "sha256": "87c6d0b8210f59c0e4273b0939e8552e6a1b426797d8ccadb9b0c8f98b894e0b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar40.txd",
-      "sha256": "d9e7172472907f5c6b00bd69e601591cafbe155e7021fa5e081e183fce17fe14",
-      "size": 133120
+      "sha256": "fcf99b7965d8fb92e6c4b34eeda45c1c89fed1c50421aedb6e3387a3855d5de3",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar41.txd",
-      "sha256": "e38c6bfe15ffd0fa808a128140848ba95ad90462ca4bb739edaf553568660a4f",
-      "size": 133120
+      "sha256": "896a8dab2d3a4ec64599699b192ad4b7b9c1e72e3fc795c6215b1a2eef8a39d7",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar42.txd",
-      "sha256": "dcef78987c67a011110db97558494f752acaadb54c4a0e9d32e8097dcf8a1189",
-      "size": 133120
+      "sha256": "61d1277fd33fe5a3d29d4854e3d26c99d7c768efd00432d4327aff09b8e980a1",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar43.txd",
-      "sha256": "6079cabd94b69bd3db193cb6c656608d21eca18b5f96e54beb1926b0b6cbaa86",
-      "size": 133120
+      "sha256": "348472c6f0de434e68c4b331cc5ceef3daa7a0ea3a480730d9842d5bbe81859e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar44.txd",
-      "sha256": "5fcaa0eb5d384323b05828c9957b25ecbd47a2f5cf02a39b0153a6d0c1b56185",
-      "size": 133120
+      "sha256": "707884b2c9f70f59d899c0d03bd216c2437db5a0f1e0f77095c68b720a3a3333",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar45.txd",
-      "sha256": "50dd4055bf093fb44a0bfacc681cb5c8c3b1f7d2fc3f59b88de1735c5c2163c8",
-      "size": 133120
+      "sha256": "1854645143a9740c905a01d4b35dd9898c3154c0bbee12edc0aaf8b7ecef75b4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar46.txd",
-      "sha256": "7c4be50a4d511e0c973a5dd0bba7c454291357c2a22664161d544d24e39560fa",
-      "size": 133120
+      "sha256": "ac1fb0770200a67634394a636b2ef6eb1947c949e5527faa74d0da2f45255dd5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar47.txd",
-      "sha256": "ce6a6b721b99eab37672a97fdc71e839c2e950e8322a444ea6982ea69ee94689",
-      "size": 133120
+      "sha256": "4c8f416b3509b22fadd97324488a0a2e3bd8090f049cb0f3c2ee72f4066e6b64",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar48.txd",
-      "sha256": "0d8cce01e7daa5700e09e33ba01cd0e5d339a9246cc1278a0a94de3efb5fb1ac",
-      "size": 133120
+      "sha256": "c2b860ee0a009850be59a2dad6a53d5d2aeb4be2798a68e152a1ec6724ab78bc",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar49.txd",
-      "sha256": "32be13810a47f6a2e1b6690a6efa6f0f8b8dc3655ca2c2addf6cbd272f2716e8",
-      "size": 133120
+      "sha256": "15357acc5b4e218300ce21c51d5be4745e0d7affd429c248fe8045c50796d668",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar50.txd",
-      "sha256": "f91c69344f8e8c7c61afbca26e2bedee84dc21e5d60c4419ab475d336c072c8e",
-      "size": 133120
+      "sha256": "c26611e975ef8ee47145e6da6c8d6b686e99bb82bbb6c3755626c2dcf5a89afc",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar51.txd",
-      "sha256": "7c85f2d2574533070d731912d627e16199c975f89d6a1f18c9f73b6f8561d45c",
-      "size": 133120
+      "sha256": "c297ebf9b091c9fd26163ac3acc050a1a8ac33d1f7521437ac50165524de8147",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar52.txd",
-      "sha256": "7457909c6cfbae15193dd3d4f993c7f44cdd4ec8592d0926bd2240340d0fc018",
-      "size": 133120
+      "sha256": "138046c6083c0fd5320fd0cf01efee91af24955c9c9da1a7ef870bf495352d3a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar53.txd",
-      "sha256": "e8847b397b11192f49c68d078871179bf3ac584ee93c878f4ba65589e57947e3",
-      "size": 133120
+      "sha256": "1ebb4a38a150a26174ca76718b7950768e6c6dead68265c552ba94272fd1bfc8",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar54.txd",
-      "sha256": "822ddbd6ebe3b046318b71dc1cf76536cfe4a14aeb30c9f9292f6ae4d107e3f3",
-      "size": 133120
+      "sha256": "3c152e9a25827cc5b1947720b0b85b07c4af229fbff976ef3b1b3e1e0e69a60f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar55.txd",
-      "sha256": "a231e187fcdc2721c44027a481a941cc1463c1874015a84598d6d5ca000f5570",
-      "size": 133120
+      "sha256": "d94b8771f6871c6906d99b37bd8583da6e7f69cefdaac1a6af4d3263a21aa7ff",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar56.txd",
-      "sha256": "b1e30b02c77acbc89e07f8940d88fe495a174e0f48385040bad12c82dd59a401",
-      "size": 133120
+      "sha256": "4b12584164fa1bcbf43922a1681af5f27cba44abf0b01df5f395dfb93f8bb40f",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar57.txd",
-      "sha256": "6e49e55787f904b0215f5cc41d8576b04df011a2803a911eb3f818ccf75f6347",
-      "size": 133120
+      "sha256": "68fc190fd55dd33b27c6ac3948f3c320a9b3c5b6aa3400ba5af0af7a98d11d3a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar58.txd",
-      "sha256": "a86580b6e53657f93358e024ceebfb59750a7323134805542b38fb4028c5a6a3",
-      "size": 133120
+      "sha256": "0e0e45a477f584f9e60d35e02054a641defbad5672e03abfa82c7736578f9383",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar59.txd",
-      "sha256": "0fec31a888dbc640d9da81f84a631e2a19c5bd0035ea1372dcb34799e2b9021d",
-      "size": 133120
+      "sha256": "d3df87f32e411ee654ed40f29132e00159e2b8173476ead4bed0ccdac7610476",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar60.txd",
-      "sha256": "9da858af0710f6a7e9740a9de4729b94a6ed543ae50656e3ae569d708a0e9e0b",
-      "size": 133120
+      "sha256": "5861e63cc320d6c5c129d8dd7a716281f2f16c7a6c505b0c8b563d70d43fbdda",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar61.txd",
-      "sha256": "c0975340e83a9aa7b9bc0a489f54b7955a398707cd76ebd4a28f83075edc79c0",
-      "size": 133120
+      "sha256": "90ca785d566cfb4f4b27c520cbe3ccc349812e8af5cd503767fa94ef1fe0c974",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar62.txd",
-      "sha256": "4c936e4d782436981f9cc601780d2b12e152faa792ba49af9d66067ee893f39e",
-      "size": 133120
+      "sha256": "2e64809c4306a4f13535181efe65948779f26fd452c2f61620576db1697023fb",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar63.txd",
-      "sha256": "5a1817e80e47558d7605ca981ba15ffea867e44cea03979349b86cdc45fb3d5f",
-      "size": 133120
+      "sha256": "fd7f06f57fe7e9dfb2adb854866103030726ac72d6a6ecb1b6e0c0647d9b8e49",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar64.txd",
-      "sha256": "17ea077b0e20fceb01ba0fc4fa7484d3c85820112295ba4268af504973f21ec1",
-      "size": 133120
+      "sha256": "ace8800b300310f3c7278d2da0577a98265d0c30184be4de9d1dbba8d0b967c8",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar65.txd",
-      "sha256": "1786dff096066035ac1aa0eb0368c030165f4df732e3bda57c0bf21826e348e4",
-      "size": 133120
+      "sha256": "991fe6758939eb15d7fba9523897ab291e6bc172dcb831e32592a1f9428c8402",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar66.txd",
-      "sha256": "c8a9ee88f94829e3f58124d45893f7976c217e54c14a515d6bdbeb32fd1eb235",
-      "size": 133120
+      "sha256": "182181125e5e1db18693bd93a800a4585f167f637ada07ea746abb8e5dc329c2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar67.txd",
-      "sha256": "8602463870035e1e6c1447ffc38eade98f9af40e6d3a68572fd9dca492d9b5b1",
-      "size": 133120
+      "sha256": "9a0de571ae801b80a77fdf1a70e7226b8b34eaabcb703e9a181467e449ab0b59",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar68.txd",
-      "sha256": "e8e3ac599d882428defa7bc156f9f9e9205df919641683f968841102666a96cb",
-      "size": 133120
+      "sha256": "f8a9f9fd0db346f046739f3a333cea257291181cd086625c04ba9dd67fe9f8f2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar69.txd",
-      "sha256": "9d951e76fd34f050b5b12d65284c74220e162cd282957e34a9687890b12bacc9",
-      "size": 133120
+      "sha256": "fe9aa15fa3eacfdd5815c88442a9bc351ee380e63dc47c5be238dda2c4f41a42",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar70.txd",
-      "sha256": "aa6292fd8d5106385a888e79732612732d89653525e1751925a14bc4bc4c2376",
-      "size": 133120
+      "sha256": "4f645c624088d0e24dbb8579d35fe2bc1daa5e680a42582796926bfb9db53f1a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar71.txd",
-      "sha256": "19f6d4227c9beb3d16480d98a10fc0ca3813ea76935a808f8f283c0d58ba15b8",
-      "size": 133120
+      "sha256": "0fb48449dc42c1bc41b1eb15432619bbc44d5f72d56876b19e9c40c4eb58773e",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar72.txd",
-      "sha256": "e11a2cc197939f506eebb8927fcc3987776a6fb85793ee114b7494973d5a24da",
-      "size": 133120
+      "sha256": "01280dbeaaf73c5790d27ef5971dd0797be3cbeeaaa89d8fb404d16e3b6ea702",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar73.txd",
-      "sha256": "27c95af4b73a93ceffcb9e34532d491a2871b64b9256c0f87aebe6d00a6d305c",
-      "size": 133120
+      "sha256": "ce8620a8320043f4bd5ca091cf7723a86c20330ffc942f9a9b6e79f0ac1d49a5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar74.txd",
-      "sha256": "b63ea9f9821067664b626a77d2b12116671fcb4df70e7de3364aae1bfab4bf97",
-      "size": 133120
+      "sha256": "999e8160a6234b08c09310392349e09a372c9a2ec171a0792388892c1da51e12",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar75.txd",
-      "sha256": "d9bcded8abb3092cba095d1829996279d432007e1af7eb5523dcff9d895761f1",
-      "size": 133120
+      "sha256": "a5f812c2bc0059ec225033281bfb9fab183cab8253983a5e7a84e5b98ac54753",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar76.txd",
-      "sha256": "33326559acc5ae11956e2f7f47501b126839c13302d1260f86e082046f94b98d",
-      "size": 133120
+      "sha256": "306ddabbf9e579feb4053863ff11d47c5796e9fb932778c3c2add98e219d715b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar77.txd",
-      "sha256": "444c6ee13914508ccdb1c985ed643815637e260ae7621baaecaddc7337ca2a0d",
-      "size": 133120
+      "sha256": "cc80af3d5e327a47d56397c427d43cbfbe54486585a9022543db9b8c5cfbd844",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar78.txd",
-      "sha256": "4621db51b2bb55943020342e337c4274129e44bd1e63675197ed10c28672db6d",
-      "size": 133120
+      "sha256": "dbedb6939f91cabf4ecd16af6f0772c7f232fdeb509b1bff7269d14e0a77be2d",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar79.txd",
-      "sha256": "0bc31347dc1d55a19459f5d4f1a66f466c815716ccc736953e9b07091938f14f",
-      "size": 133120
+      "sha256": "9d328a133af9d0edeab84ed3c93d2baa2ebd5c9191f45e185b87697179e28c9a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar80.txd",
-      "sha256": "3f3ff127d817d3f5db87dea2a8228c1916fb0cb977a3c4ea38c114e218f9a416",
-      "size": 133120
+      "sha256": "5059ae8375e1317876069b369944841c6f636d975eeac638663896f71753645a",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar81.txd",
-      "sha256": "8f5c7016cf67da681058aaf320d920434940f3c269150a84359f397bc45584a4",
-      "size": 133120
+      "sha256": "d770a84ddf65cca011f24e819651f3d1ed1eb4caeaca63c18a50acbdc73219f2",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar82.txd",
-      "sha256": "d628fe35ee8298872c3a3973f30b065c10ad0c48e29585d3d87e5448fd8aba9d",
-      "size": 133120
+      "sha256": "cb89176b7c7d0d74d2055231773eb9c95676d5f5b1bee63c439e11d5ac5750a9",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar83.txd",
-      "sha256": "851ea4f0f559e16abaaa7816390c78fef882960e3fba67ae0022bf131324aa2d",
-      "size": 133120
+      "sha256": "8f407518a40e761903d3e5207013264fcda4c8a7f54f79a130ac54c19926e268",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar84.txd",
-      "sha256": "6a857eec0b619aca7718f45911c533acd1ca34ef9906391bd92b5c78068f9b06",
-      "size": 133120
+      "sha256": "7f8d134a9fed53e4bcf52025e7d1913f106c8089bc6642176e7daa4f46f4a2d4",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar85.txd",
-      "sha256": "59d52c353fea0bf22965aa88a3a5e583a0158170055a01343e258602afcef671",
-      "size": 133120
+      "sha256": "9ce72c6a723028a7fcb566a9af29e6bc1ccdd418ef68258117f144177d9cc83c",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar86.txd",
-      "sha256": "a68ef4cdb53a1cae5c0a57f27ce98905d4d828efc9450fcb3a4d39953b520957",
-      "size": 133120
+      "sha256": "0a5c105b5c7e2588cb3b4e72ad04992e6a51a8245fdddcdbba3b2a63855038b0",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar87.txd",
-      "sha256": "f6f44136af5e50f8b1b5104846d20f3e71456c0231595b71fa5dbdab601a7173",
-      "size": 133120
+      "sha256": "9a4ba64eacb5debc43d9e21876093f769299ebe8f7f1300513bd3c57168c56fd",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar88.txd",
-      "sha256": "493074ee5be7ca980394e5ff3201af99559a87bdf16ff692f3cfb0961b989d90",
-      "size": 133120
+      "sha256": "98a6725008315d672f9011a8907cb1d4f8b4b8fba95e5ebb0a6fad7aea3f8662",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar89.txd",
-      "sha256": "a252d80c8d62110e5c6eb878bbfceab0bbeddb78f98651ea24857a2b46473edb",
-      "size": 133120
+      "sha256": "a0d16496fa6e117d6fbc6c604e62b34d3dcd1b0c0db99d612a306055dbd60644",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar90.txd",
-      "sha256": "cf877c71b4e6d04861905744a70bdc5a90f7d94c40676932cc3e30649f2cb37d",
-      "size": 133120
+      "sha256": "ce2b56149d9592480dbdf4c4f79b00ce685f4df423983eb9e483d539fcee2131",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar91.txd",
-      "sha256": "529cc2567e8ee41ca349b3e815e01d853f0620754f55da011fa173be73d50e50",
-      "size": 133120
+      "sha256": "fab66a3d42ec25d3cfbff807d011eb0bbf2bbbc8dc877f00527ec5e96ea41fd5",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar92.txd",
-      "sha256": "e9df165ad6ebac079836e959e0d4c08b4c693a51bc07fc3b2cf663b241d36f0e",
-      "size": 133120
+      "sha256": "a751f96e548b16a9c1550e0143f928333581cafee9314714f622828164d962ab",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar93.txd",
-      "sha256": "7eeba56f0fcef26597ef2177913608f547366475f6e3c03013e97e100f13712c",
-      "size": 133120
+      "sha256": "cbb838d2f74f5ab9facd364704482ecee5f1a220b5c06baca9302a4089be8a6b",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar94.txd",
-      "sha256": "b091e5b6b7a46a91e0624199dcf4ec11d0fa4d5f9a5b66ad313fc2ddb54cd3ec",
-      "size": 133120
+      "sha256": "a6bdac5c25e843c00d7a96f32b951d6c427eaae65ba14a1ec3a70869c415314c",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar95.txd",
-      "sha256": "6603b383cd52f38598ff26ab29a7d4b5ac23b69b3e1c7497c514b7e88f58831a",
-      "size": 133120
+      "sha256": "ab1b3f06a6b690481b8f96c03575b6c20938dff8aef936eb742cbeaf5557d76c",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar96.txd",
-      "sha256": "7b364c9ea8b2d67ef800b74dcfc5f0f6ef38e51fa9d32dbae4bd2745089477b7",
-      "size": 133120
+      "sha256": "a78a0d6ac3d9fff6e36d22c4546191e8d4e3e7021da9638bcccbd086b1d7fafa",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar97.txd",
-      "sha256": "c2c444129b0c7db90e9c9f2c1ff12a7429509742ff553a26054f217efaad34e7",
-      "size": 133120
+      "sha256": "0e6e07faa469d9e3835a53db9ac38181e08d0821b8d3045d9bcc754fb8a0ff18",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar98.txd",
-      "sha256": "0e1cd721f3d4b017828fa032d0538d20ffc60ed73ec77bad3b8948a49993242f",
-      "size": 133120
+      "sha256": "0291b3efd029d484bb5c101dce0c397e8637661ffd9bf081114aa875c2631205",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radar99.txd",
-      "sha256": "11ec9ace70e206d93f21478a43c87ee3227536320913139c56e812071662cd69",
-      "size": 133120
+      "sha256": "efa14a7ff475cf2eb6f5a243e2eba84a425556ab4ededa4bfe493e5ca4ae7382",
+      "size": 1398304
     },
     {
       "path": "modloader/Map/radarrect.asi",
@@ -4191,6 +4296,331 @@
       "path": "modloader/Modelos armas con icono LSSD/tec9.txd",
       "sha256": "5c45136c0724972472aa764bbcf9227b6f6d1b2496ebd2b161b2e66f3bc5bf6b",
       "size": 69032
+    },
+    {
+      "path": "modloader/Neon objects/data/maps/neonobj.ide",
+      "sha256": "6b976d13a4059de4d94c5a0ce74892067787c663da9c5a660b22e2bcdaf54139",
+      "size": 433
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LAn2_gm1.dff",
+      "sha256": "526755afee4d6ec951bcf97d7fc0f893dee551f7a54cb1e5049248c45fd04dbb",
+      "size": 521104
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODLAn2_gm1.dff",
+      "sha256": "00769d44f97fe7ce7ccaf364a5d01b797149f43620d48420ed71e3ba47245a0d",
+      "size": 171016
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODLacmaBs1_LAn.dff",
+      "sha256": "44c9fc119fc41e8562377ac63c923845ea6177789bbad6fd7ec607e487287c1e",
+      "size": 578764
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODavenBase_LAn.dff",
+      "sha256": "ca188e180db4d846c00732f1bc03f7275c056ce203d2eae72bb3c8a0d3a94a60",
+      "size": 229016
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODcapital.dff",
+      "sha256": "299d1018e9e6e5f1ea6b27a2244b093036e72e1220adc50c4da981c5abb683b1",
+      "size": 168028
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODcmEntr1_LAn.dff",
+      "sha256": "b02dc148f5bd02d94adfbc4dee5aa54d20bf128c01c34741cbb26b4b4fe632ca",
+      "size": 18984
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODtBldg1_LAwN.dff",
+      "sha256": "023973014e0ada127ff3ae08c1122841ee8e7f7fdc6a9a0672b1db3d06582831",
+      "size": 34544
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODtwintjail1_LAn.dff",
+      "sha256": "2992de046a3813fcde5c96023f723c38dd25f5fcc65c6e4b7eb3e9249521f5b4",
+      "size": 215404
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LODxskateparkLA.dff",
+      "sha256": "bce98cc79bf69c914d5a4363dede04ae491f98faea52616eebe63f904a82cde2",
+      "size": 95252
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/LacmaBase1_LAn.dff",
+      "sha256": "d8dee058950ccf0ee6f020718b65a67435cbcd227db56681ec0b49e85df58286",
+      "size": 1197580
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/TaftBldg1_LAwN.dff",
+      "sha256": "64a67ad0f6f4727a25d4b829d6448203a31a5076a4a1398089734d475e1246bb",
+      "size": 75272
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/bonaventura_lan.dff",
+      "sha256": "aebbd8c3f5dee2bd1c94d80f7290b0ce419020e98b119a91a6b76e2dc6759c5e",
+      "size": 265792
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/bonaventuragl_lan.dff",
+      "sha256": "7a9a04716466fed3ba84ee6626700d221611ba928d9780874ee872cb9c323fab",
+      "size": 17804
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/bventuraenv_lan.dff",
+      "sha256": "2ca9fa9ccf1957d099f10249a202cad3890cfbd726aa93fd44680863213e5851",
+      "size": 15420
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/capitRec1_LAwN.dff",
+      "sha256": "0b1d10f6af56712699751299abe04d1470682c680777aaa62f262a3e48cf240c",
+      "size": 340064
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/civic01_lan.txd",
+      "sha256": "a38f0b56512fb521e60f21b8a5cbab3117ae672b217a9a9bf26389de8f11f440",
+      "size": 795584
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/lacmentr1_lan.dff",
+      "sha256": "222348ccd991f5fa535721dcdff8ec4db9e6dbcbf54e0956ff9081dd88ff9d43",
+      "size": 104368
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/laeskateparkLA.dff",
+      "sha256": "ee82f3df5e62500f8d7410ec0d80f8fb462b9f6817794df5bce88f2878aa7144",
+      "size": 95952
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/laeskatetube1.dff",
+      "sha256": "59f0991a4fecbf301679a9bedfff8a018148c18d93dcd6237f386796666a83b2",
+      "size": 217116
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/lodmallb_law.dff",
+      "sha256": "b5072a3af049078e8df90fa3f5dd196ff9c2b9f563060b530070aca0d0952da8",
+      "size": 16608
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/mallb_laW.dff",
+      "sha256": "4de82b8c8e80fd094f3096e23686c494ba4ac7bb8d04115f971233b87533bd42",
+      "size": 139616
+    },
+    {
+      "path": "modloader/Neon objects/files/LS/twintjail1_LAn.dff",
+      "sha256": "5390b8196b4a5a12633b79bc9c8604ef70bdc5b6faf0108c00ed5072305bb22a",
+      "size": 302772
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/ballys02_lvs.dff",
+      "sha256": "e86b2bd21dfeafa3ba0212f2fca274867b2d724b6010054233b2f41ad6bf5eea",
+      "size": 116156
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/ballys03_lvs.dff",
+      "sha256": "e2c503374842f8a28dd4e6f884507e446f598927fafc3e23ecd3cbe67fed1384",
+      "size": 133040
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/casinoblock3.dff",
+      "sha256": "f08446183b67700d06e3f18c3d9ff7f57bd756fe58f73f10672d9e5705bc873e",
+      "size": 176960
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/casinoblock4.dff",
+      "sha256": "9156916f653018402c439a139e0ea1c481a6dcfa88633757297a3dd585487158",
+      "size": 112616
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/excalibur02_lvS.dff",
+      "sha256": "42ec8cab5c2c4ed82d1e1ab6df1c86ea0f95864315e0c6b1cdae1eabb4b5bb98",
+      "size": 491824
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/excalibur03_lvS.dff",
+      "sha256": "5ae05e965f144c007bd75c48749969bef2fba80a7a9e17c25c2cd53855437b3e",
+      "size": 568276
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/excalibur04_lvS.dff",
+      "sha256": "885c9526506031a0d927e8582308f7270592989f08ba9d4ba3fd8c5a53e9bf04",
+      "size": 179444
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/exclbr_hotl01_lvS.dff",
+      "sha256": "cb164bebf52cb8e1881e29ae44a6ed25340436336d22c406f5b4a45abc9f7ed7",
+      "size": 393688
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/exclbr_hotl02_lvS.dff",
+      "sha256": "4d5ecb58b1510c244e5802fab54bbd1e443dbbb1f77888ed1947f51a347d0721",
+      "size": 182176
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/exclbrsign01_lvS.dff",
+      "sha256": "b41fc365076130928098daf8ff0d661e99f7eac41b8f60b4d350d2401180da4e",
+      "size": 230984
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/flamingo01_lvs.dff",
+      "sha256": "5b42b9f452a906262266937176b24ff8ad8b84961dc65929c4872e8a3712c3ad",
+      "size": 566716
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodagebuild01.dff",
+      "sha256": "6a467a3ffadbf1a805a95c92a99102ccdc4f85676450427ef39afebfd8f73a67",
+      "size": 151976
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodalibur02_lvS.dff",
+      "sha256": "4698dc92fbb83baed230ec1838d8d57c718643922d8fd6114ec9f1dee2d35997",
+      "size": 164140
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodalibur03_lvS.dff",
+      "sha256": "be18fde69d09267a9927c2f326cce347cb7e9593ef642f81195c6638d7934fb6",
+      "size": 60148
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodalibur04_lvS.dff",
+      "sha256": "7a18fce30976a9d5ca8d924962f70a2c8d6a3476308d6ea137c307568b54d51e",
+      "size": 40928
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodastemp1.dff",
+      "sha256": "914dba86fb00fddf4fedb863c58c73f3c3a6c98d3cb84efa9ac04b5b36344eed",
+      "size": 100900
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodbox10sgn_lvS.dff",
+      "sha256": "abb88d712b92bfa6ac52073e09c9c2ee2295901280895ccbe1373c943e82200d",
+      "size": 46344
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodinoblock3.dff",
+      "sha256": "0fde4e5e7e7d925718f7b8de6a3130e091ed34d1f1a8921ae4b2b794f457e80c",
+      "size": 69108
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodinoblock4.dff",
+      "sha256": "1b9190bf3e7a60a846bfacf1fdfe81d03d36a47c17cefa5684c048fec9d4bf96",
+      "size": 46124
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlbr_hotl01_lvS.dff",
+      "sha256": "6d242b73d7b24c1dee68866e3dab88dbe6079435fa490980840c7e3d72c1348b",
+      "size": 45964
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlbr_hotl02_lvS.dff",
+      "sha256": "ae39945ff907a7a5d0a89d375759ad1dfe85f71d42fe5c1f44e7e7a066257e0c",
+      "size": 45848
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlbrsign01_lvS.dff",
+      "sha256": "49833e4189f3a90f6afdd98a3f3718c5044a6b0142f18ee49ad08460e8bc61f7",
+      "size": 103496
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlowmall2.dff",
+      "sha256": "48591ab101c6591a9e18248adcf77bfb5452264beb1a55b60374c2e3fbb4d3bf",
+      "size": 249144
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlys02_lvs.dff",
+      "sha256": "c00f8860660b9772f2c8d82eff2c803eee1d7b8ccaec557f16dee3b4682c284a",
+      "size": 110400
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodlys03_lvs.dff",
+      "sha256": "92ce081e528a2f926a5befa30925d884e13926bfff2ed696924918da90a698a5",
+      "size": 95860
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodmingo01_lvs.dff",
+      "sha256": "6f8f001db1e14597c27042fd4ec16db7328d36a9fd3217299a1649c988bb42df",
+      "size": 236308
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodorpillar01_lvs.dff",
+      "sha256": "7016aba9a0271af7bdcddebc42901baa9a94ab32f1e82b5adab96bad529d7f96",
+      "size": 53720
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/lodtehtl02_lvS.dff",
+      "sha256": "47023106bb29d3fb104612e00ccec92e2ad404a7dcda1c15b877c793a635f333",
+      "size": 145652
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/luxorpillar01_lvs.dff",
+      "sha256": "36a0b9bb2281cdf89c37f7a009d7db8f9c70652b7df546ff87bfbfaf65fdd493",
+      "size": 53096
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/miragebuild01.dff",
+      "sha256": "461051b67a0ecf243ef4bbcc96046ff0b284082171718d64fc448965d9082eb4",
+      "size": 203124
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/pirtehtl02_lvS.dff",
+      "sha256": "b26911bbe2b1487d05baf22713c527c744e2f9da83d73cd0672045d61aab6909",
+      "size": 152248
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/vegastemp1.dff",
+      "sha256": "b4852b9b54e45e6ad57e711eaa58f51bf1981e41477033f80a67d704aa5bbf4d",
+      "size": 130056
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/vgnlowmall2.dff",
+      "sha256": "f293949585204bc24e6798eed005b3e9eb76ff43b46afe11d2d1c0c47f4ac2cb",
+      "size": 327596
+    },
+    {
+      "path": "modloader/Neon objects/files/LV/vgsbox10sgn_lvS.dff",
+      "sha256": "175a6d0f50e4d6eda86711edc81b3785719ec9c272011525e63778409d6366a0",
+      "size": 50360
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/LOD_sfs002.dff",
+      "sha256": "90620e313083794fe3f7f6b37c53d2e8c51e890db8558d6e8ca7207cab462b53",
+      "size": 263524
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/LOD_sfs010.dff",
+      "sha256": "5b454bdb775f91e3e50a9b833e736db9281906b08399909a37cb0488090cc8f2",
+      "size": 140548
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/LODp_SFW35.dff",
+      "sha256": "a57ed323f8b5b9bbd766e096cb344f644cefb0953c38a89c7dd229b418961789",
+      "size": 164772
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/skyscrap_SFS.dff",
+      "sha256": "ad1da085d89318d49337004b5d45641aac48393aa47a86b44e0ed1a357867eb5",
+      "size": 356204
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/skyscrapper_SFS.dff",
+      "sha256": "8774d2b0585c916eb5200e566b52599fa2778f0c18e09d10966753441da8c6ea",
+      "size": 221612
+    },
+    {
+      "path": "modloader/Neon objects/files/SF/temp_SFW35.dff",
+      "sha256": "1b77277a2682ccfa50fc71b732f2842765964b0f3d9a65d3431a2b0ed441b56b",
+      "size": 706792
+    },
+    {
+      "path": "modloader/Neon objects/files/neonobj.txd",
+      "sha256": "5f0b2f7911f1972c1e0f050a0bce6d09e3953f1a823a66ebfa56baa3bf6f447e",
+      "size": 4325800
+    },
+    {
+      "path": "modloader/Neon objects/loader.txt",
+      "sha256": "77a00a11d8c5d81e13bdeb3b359d760e8fb196265aa9d50e9fa8aae3ee175e56",
+      "size": 25
     },
     {
       "path": "modloader/Objects/Civi Vest/ConstructionVest1.dff",
@@ -4598,79 +5028,79 @@
       "size": 655656
     },
     {
-      "path": "modloader/Skins/Cross_Marod/Cross_Marod.png",
-      "sha256": "e1118dd70945572877756bffe73b7320899e8e023fbb1d593aaad4f345ce5bdb",
-      "size": 249335
+      "path": "modloader/SA GRAFFITI HD/gta.int/lee_bdupsmain.txd",
+      "sha256": "46963cf41b805b6020af94487d65d3b0d78931c538e7c1b3b81364edb4c5060e",
+      "size": 1897948
     },
     {
-      "path": "modloader/Skins/Cross_Marod/bikera.dff",
-      "sha256": "f1bb2be27388ff2baf92bc888d7127a3badd49343198e069837870c9935348f8",
-      "size": 108257
+      "path": "modloader/SA GRAFFITI HD/gta3.img/beach_las2.txd",
+      "sha256": "99336e6a9b6aaabb99da920ef4f927b1ac34aa678765e2c1ca3564dfc4ea1c2a",
+      "size": 1182248
     },
     {
-      "path": "modloader/Skins/Cross_Marod/bikera.txd",
-      "sha256": "073819f978668e80af3937126d29e6d740e869036e90b3cf939bf91a0b57f63e",
-      "size": 7430024
+      "path": "modloader/SA GRAFFITI HD/gta3.img/contachou1_lae2.txd",
+      "sha256": "27533cbb816f5f5d8c6d601e92615ad47f57788dfaf3b4571f9e2475d45a12c6",
+      "size": 1483556
     },
     {
-      "path": "modloader/Skins/Dex_West/Dex_West.png",
-      "sha256": "412e80dabb86898c160aa0209679100733d7e1bca620885ce674584c3f479da7",
-      "size": 484709
+      "path": "modloader/SA GRAFFITI HD/gta3.img/ctscene_las.txd",
+      "sha256": "e7701981489f3763d15f1e67778cbc133d9f7b17a2652f35a469815f965f1725",
+      "size": 1781492
     },
     {
-      "path": "modloader/Skins/Dex_West/paul.dff",
-      "sha256": "e4b49c17578152d0692ba83930ffddcbad23cf09e5906d734e90d2256ec68ead",
-      "size": 102735
+      "path": "modloader/SA GRAFFITI HD/gta3.img/glenpark7_lae.txd",
+      "sha256": "05e26ed5c5b06dfd44f80560e33321bc69d2705f5116462f44cf86692cd3ac09",
+      "size": 2676108
     },
     {
-      "path": "modloader/Skins/Dex_West/paul.txd",
-      "sha256": "1bf87bbb95b5b30f7599ad1a38c07c551fa90cdc0fa06ecffa73b831643e8ec2",
-      "size": 59131228
+      "path": "modloader/SA GRAFFITI HD/gta3.img/graffiti_lan01.txd",
+      "sha256": "8ce393c8b66c932b2a4d1fc233b7d91c79d3e9c4c72995f416d2d30367501a29",
+      "size": 1398584
     },
     {
-      "path": "modloader/Skins/Ethan_West/Ethan_West.png",
-      "sha256": "79d78850ab17a6d583c444e032e127a598b52ce674ee6ad3d865bf452d554287",
-      "size": 114737
+      "path": "modloader/SA GRAFFITI HD/gta3.img/idlewood6_detail.txd",
+      "sha256": "18500679c07fb73b0ee7849cf6bb8a434242ea912dd6e63d1ceb90ea01a0e897",
+      "size": 2185484
     },
     {
-      "path": "modloader/Skins/Ethan_West/wmycr.dff",
-      "sha256": "124cdcda32f112fd0e6075be95d25c1b61e0b00c9098db3c585180095a71e392",
-      "size": 228493
+      "path": "modloader/SA GRAFFITI HD/gta3.img/idlewood6_tr.txd",
+      "sha256": "9be2fbc7bad9154477c074cbea67e0af9eb9d7386b376b572cb17bde09c37bd7",
+      "size": 4214676
     },
     {
-      "path": "modloader/Skins/Ethan_West/wmycr.txd",
-      "sha256": "11933e813f96d012277c603f1b6088354d7e76c46d9f2ad126f04677fd5289d4",
-      "size": 11246448
+      "path": "modloader/SA GRAFFITI HD/gta3.img/stormd_fill.txd",
+      "sha256": "e78603319adb9e51ff98b4d5d5b2647eeb13bff369f9b9ac24ef87791f479080",
+      "size": 940624
     },
     {
-      "path": "modloader/Skins/Henry_Dylan/Henry_Dylan.png",
-      "sha256": "c0ccb86d6d3d7fa381711b7427ce9ecb7ee52b0a389c65f6a24f0897a6206798",
-      "size": 353083
+      "path": "modloader/SA GRAFFITI HD/gta3.img/stormd_filllas2.txd",
+      "sha256": "2cda472d074b06f42482e0dd67fa20f7f19352deab79c965480b1b58afbc57da",
+      "size": 1508408
     },
     {
-      "path": "modloader/Skins/Henry_Dylan/maffa.dff",
-      "sha256": "610c6d2711a673fe6ef2d05352a11ac1aae162b5d9805912f0611fd1bfcd86ea",
-      "size": 656655
+      "path": "modloader/SA GRAFFITI HD/gta3.img/sunstr_lawn.txd",
+      "sha256": "b469467615f72b8b30c44de60f9d2d02e09d6c7d557bd77704bfdefcc652c9f4",
+      "size": 3053940
     },
     {
-      "path": "modloader/Skins/Henry_Dylan/maffa.txd",
-      "sha256": "627b4f8e595f962b8970905d25db3cef495544c3b95ec77125b0c5f99e05ac73",
-      "size": 1500088
+      "path": "modloader/SA GRAFFITI HD/gta3.img/warehus_las2.txd",
+      "sha256": "ce02ba4c1b990a028c9be2b2d698952b3e37cb90b439a97e33ccdb83cf1e87d2",
+      "size": 4907108
     },
     {
-      "path": "modloader/Skins/Jim_Core/20250829_224002.png",
-      "sha256": "30a9d763c4e04f9ba9a0420a52e148f39ae9813b22fb773a8c69a1302a8485a9",
-      "size": 378641
+      "path": "modloader/SA GRAFFITI HD/gta3.img/wiresetc2_las.txd",
+      "sha256": "198255a7a9e03d63817240edb11e560ef59168b4b53696bef7cd174a3c7b00aa",
+      "size": 2673740
     },
     {
-      "path": "modloader/Skins/Jim_Core/bikdrug.dff",
-      "sha256": "1b760654d9c9c4f585d1aabb1acdd9eab8a97c5100a2e54149e39050fb431fe2",
-      "size": 157047
+      "path": "modloader/SA GRAFFITI HD/gta3.img/wiresetc_las.txd",
+      "sha256": "bd983d89162849dbedc90075879e55baf37abd37ea12ce4be3d23a8220f4c8a5",
+      "size": 3460604
     },
     {
-      "path": "modloader/Skins/Jim_Core/bikdrug.txd",
-      "sha256": "3e3410c8508eaa064cb8670984173d0e452d42e393d6c9679138cdeb20265f36",
-      "size": 9048108
+      "path": "modloader/SA GRAFFITI HD/gta3.img/wiresetc_las2.txd",
+      "sha256": "31094c7982095c2ffa0c32743d1be367922bda2631b1d8f557226e4f7deae143",
+      "size": 7041340
     },
     {
       "path": "modloader/Skins/LSPD/army.dff",
@@ -5003,44 +5433,254 @@
       "size": 13501224
     },
     {
-      "path": "modloader/Skins/Other/bb.dff",
+      "path": "modloader/Skins/crips/bb.dff",
       "sha256": "70a0a97641ae3e0de983ae5fb86e12e18875c3d563ff5de1071018bb122446e5",
       "size": 180182
     },
     {
-      "path": "modloader/Skins/Other/bb.txd",
+      "path": "modloader/Skins/crips/bb.txd",
       "sha256": "3ecc57b38bfe1dc028341c73eb77c8dc7d4a7f52beda8e43a5672327aa3c49ca",
       "size": 540968
     },
     {
-      "path": "modloader/Skins/Other/hmycr.dff",
+      "path": "modloader/Skins/crips/sbmycr.dff",
+      "sha256": "e2e7f3e0bbcff87a17c92d954385b251e038d0a05b0b2c11003a33bcd3dbf685",
+      "size": 87181
+    },
+    {
+      "path": "modloader/Skins/crips/sbmycr.txd",
+      "sha256": "1485e121d0747cde21256f0040489925bca03a8edaaa1fc91e475abefa74f013",
+      "size": 524456
+    },
+    {
+      "path": "modloader/Skins/crips/sfr1.dff",
+      "sha256": "fcc4d693f61e85f595b4de9cdbffa06ade9453d33852c99b44023d49004983ac",
+      "size": 227192
+    },
+    {
+      "path": "modloader/Skins/crips/sfr1.txd",
+      "sha256": "906093d3b72766a7233aca6c1f135bd71441c1cc4a067a4bd0ebfeba05a75b6d",
+      "size": 557608
+    },
+    {
+      "path": "modloader/Skins/crips/sfr3.dff",
+      "sha256": "993020eadbac940484913410a968c9bf11786147a4373a973965c4d72bb90128",
+      "size": 282371
+    },
+    {
+      "path": "modloader/Skins/crips/sfr3.txd",
+      "sha256": "35f614ae311015c3db9f54ad4c2819106c1d9e793a7da370934c1f7718d193d4",
+      "size": 262312
+    },
+    {
+      "path": "modloader/Skins/crips/vla1.dff",
+      "sha256": "be216a3bc35590f53a76d43ecf6301a91d9aadb43becccbdf77b06b0145464e6",
+      "size": 186534
+    },
+    {
+      "path": "modloader/Skins/crips/vla1.txd",
+      "sha256": "a5e46cf4cb4e23fcf365b5001cc7e26fd1cc2795df77ce6ffa4b99377b817e27",
+      "size": 328104
+    },
+    {
+      "path": "modloader/Skins/crips/vla2.dff",
+      "sha256": "b2effe27e39f4d27edd2f7d9ad150b08c0e099442eb84defa238a6d3097a6eee",
+      "size": 812510
+    },
+    {
+      "path": "modloader/Skins/crips/vla2.txd",
+      "sha256": "b35ee51d29155817dfee16ea5d5760bf511dbf3e69ca7de98100c9488a6dddc4",
+      "size": 688552
+    },
+    {
+      "path": "modloader/Skins/mongols/bikdrug.dff",
+      "sha256": "fa391a84865d1b29f8ee97672ed68950b0c55487dac78035825e72757fd8f3cd",
+      "size": 221660
+    },
+    {
+      "path": "modloader/Skins/mongols/bikdrug.txd",
+      "sha256": "927cbae20a16bc7a02dd3ba0e0e814911042af477564300c21147217f459d5d4",
+      "size": 788480
+    },
+    {
+      "path": "modloader/Skins/mongols/bikera.dff",
+      "sha256": "f1bb2be27388ff2baf92bc888d7127a3badd49343198e069837870c9935348f8",
+      "size": 108257
+    },
+    {
+      "path": "modloader/Skins/mongols/bikera.txd",
+      "sha256": "073819f978668e80af3937126d29e6d740e869036e90b3cf939bf91a0b57f63e",
+      "size": 7430024
+    },
+    {
+      "path": "modloader/Skins/mongols/bikerb.dff",
+      "sha256": "610c6d2711a673fe6ef2d05352a11ac1aae162b5d9805912f0611fd1bfcd86ea",
+      "size": 656655
+    },
+    {
+      "path": "modloader/Skins/mongols/bikerb.txd",
+      "sha256": "627b4f8e595f962b8970905d25db3cef495544c3b95ec77125b0c5f99e05ac73",
+      "size": 1500088
+    },
+    {
+      "path": "modloader/Skins/mongols/hmycr.dff",
       "sha256": "60eb4801bc6d53bcf9b4c6ad73e66aa778d53a10ce1f3bd43559adeab95ad4b0",
       "size": 148734
     },
     {
-      "path": "modloader/Skins/Other/hmycr.txd",
+      "path": "modloader/Skins/mongols/hmycr.txd",
       "sha256": "81623ea5569af4176b0599957586321cfd64c84c5450ac2405f508c99ea02e86",
       "size": 885544
     },
     {
-      "path": "modloader/Skins/Other/wmoice.dff",
+      "path": "modloader/Skins/mongols/maffa.dff",
+      "sha256": "610c6d2711a673fe6ef2d05352a11ac1aae162b5d9805912f0611fd1bfcd86ea",
+      "size": 656655
+    },
+    {
+      "path": "modloader/Skins/mongols/maffa.txd",
+      "sha256": "627b4f8e595f962b8970905d25db3cef495544c3b95ec77125b0c5f99e05ac73",
+      "size": 1500088
+    },
+    {
+      "path": "modloader/Skins/mongols/paul.dff",
+      "sha256": "f4757f94c655ef7904d30ea510fe7dc1b76b412dd8bec81b32cf9821b3084241",
+      "size": 196360
+    },
+    {
+      "path": "modloader/Skins/mongols/paul.txd",
+      "sha256": "e58728f56e64110c868040a0ff2ee6218d5c54267b59950de5cc2b254daf3360",
+      "size": 459176
+    },
+    {
+      "path": "modloader/Skins/mongols/swmyhp1.dff",
+      "sha256": "1b760654d9c9c4f585d1aabb1acdd9eab8a97c5100a2e54149e39050fb431fe2",
+      "size": 157047
+    },
+    {
+      "path": "modloader/Skins/mongols/swmyhp1.txd",
+      "sha256": "ba242847b3a7c2b4805914b648f88be310e9acfbba7a0c742333d7b009d68414",
+      "size": 353684
+    },
+    {
+      "path": "modloader/Skins/mongols/wmoice.dff",
       "sha256": "f4a2d29317e4c1e976f06b1830bce5a4a41ddfa7d9507986675d354ea02e5c83",
       "size": 115468
     },
     {
-      "path": "modloader/Skins/Other/wmoice.txd",
+      "path": "modloader/Skins/mongols/wmoice.txd",
       "sha256": "cae44748db349a9c3fe3f8cbe333588073baf4e9c520286675d279d7f6b9fc28",
       "size": 6620028
     },
     {
-      "path": "modloader/Skins/Owen_Donovan/bikerb.dff",
-      "sha256": "6cb946409d0eb1100a360b4afbb5673db3e6baadd1b8cfa647828184c6c7c905",
-      "size": 287789
+      "path": "modloader/Skins/mongols/wmycr.dff",
+      "sha256": "b0369838d345573a829d4d5b1a4fc8ca2eacc2f741fc7d5b50fdef4a5d1a348f",
+      "size": 133120
     },
     {
-      "path": "modloader/Skins/Owen_Donovan/bikerb.txd",
-      "sha256": "6b1c569a780b1eba9b452433288468982ef06c394f2cd01bbac81b12b656abc6",
-      "size": 9978816
+      "path": "modloader/Skins/mongols/wmycr.txd",
+      "sha256": "122d11ea94bd409ed12297b008d644bdda49e485776daeac799b3bf1e1d139d4",
+      "size": 1048744
+    },
+    {
+      "path": "modloader/Skins/pagan/maccer.dff",
+      "sha256": "1e6e8ca05403a407ac9abf33f6ad822e296a9af233c17d6e7578c7fc651d2fe0",
+      "size": 87697
+    },
+    {
+      "path": "modloader/Skins/pagan/maccer.txd",
+      "sha256": "0089492099737e552464dae8af19ef9d5cec1bb6e6e08cac891c2506f951c1ef",
+      "size": 408996
+    },
+    {
+      "path": "modloader/Skins/pagan/swmycr.dff",
+      "sha256": "a38ff6fa662de3bfa02546d119946917324f3931875ae974de356bab8052a20a",
+      "size": 321143
+    },
+    {
+      "path": "modloader/Skins/pagan/swmycr.txd",
+      "sha256": "a7986b70752d711d568a041544afcb92d9901a448a7bbf4dcc384ce89629a869",
+      "size": 1824692
+    },
+    {
+      "path": "modloader/Skins/pagan/wmybmx.dff",
+      "sha256": "351f38646e2c6715682aa9179f66940a5bdc19ee1270ca7da93e2c2d5279882b",
+      "size": 116343
+    },
+    {
+      "path": "modloader/Skins/pagan/wmybmx.txd",
+      "sha256": "c5c89cbaf2dc7e312bd270610f09f6b68740fc6a2a3568b1c3fe70bc715b5e5e",
+      "size": 1675776
+    },
+    {
+      "path": "modloader/Skins/pagan/wmydrug.dff",
+      "sha256": "30dfb67627c08550a8b38f829dfdae669e4927319b58235bb0dfeb707f162bdf",
+      "size": 78679
+    },
+    {
+      "path": "modloader/Skins/pagan/wmydrug.txd",
+      "sha256": "06a793556bf0016cd9aeedd45bbf93eefced1662e616869fb06a67fba56342ec",
+      "size": 1093268
+    },
+    {
+      "path": "modloader/Skins/pagan/wmyst.dff",
+      "sha256": "be5cfe1d7c3c06e860fdf7d14994a4067f34bc4bd8eb830b2c615a367a7cd069",
+      "size": 193007
+    },
+    {
+      "path": "modloader/Skins/pagan/wmyst.txd",
+      "sha256": "0e3e0084c9a1775588298d239e13b917b1c528989ee6fe464324a6746be98bcd",
+      "size": 1147816
+    },
+    {
+      "path": "modloader/Skins/vagos/hmydrug.dff",
+      "sha256": "6623709b9bc51a8ae89ee87393ac1d46d6945c1938cd30e3e6f39a71377ff58b",
+      "size": 811250
+    },
+    {
+      "path": "modloader/Skins/vagos/hmydrug.txd",
+      "sha256": "2c47a4451ea4ad282c43790c88c2c2def99c7adf9f694c8bfaf9cb07b956c542",
+      "size": 9458924
+    },
+    {
+      "path": "modloader/Skins/vagos/swmyhp2.dff",
+      "sha256": "947528bea4c00e425b0aba237541899f56dea9380aa9a8b9dfc76833e18c5c67",
+      "size": 199979
+    },
+    {
+      "path": "modloader/Skins/vagos/swmyhp2.txd",
+      "sha256": "a559e2eb68aefdd5d502a0e18102b76d58ef90612729265ecff4eff30f0e0b42",
+      "size": 1849876
+    },
+    {
+      "path": "modloader/Skins/vagos/vhmycr.dff",
+      "sha256": "966d6629264559ef13158b731d28c85c960f5f9e824f8fff08449f887ef1b7ba",
+      "size": 167032
+    },
+    {
+      "path": "modloader/Skins/vagos/vhmycr.txd",
+      "sha256": "fab5d525343898e26939a1b5b8c172deee9a5cd1ca48afaf98d4f57d1399d5cc",
+      "size": 8491892
+    },
+    {
+      "path": "modloader/Skins/vagos/wmyammo.dff",
+      "sha256": "b0af7b5e86b3b4df1a770f0b33537301d36934999f58ebe2c5515cee7983b6b0",
+      "size": 262947
+    },
+    {
+      "path": "modloader/Skins/vagos/wmyammo.txd",
+      "sha256": "6f575f6860bd57849f4118d4596c28e7fc3ddebf5eb3a6c7e11c0a8e3912887c",
+      "size": 11357860
+    },
+    {
+      "path": "modloader/Skins/wmymech.dff",
+      "sha256": "01d01122ddba79771456439f928cb3e09012ddb0666cd2da76a164712e8661aa",
+      "size": 145299
+    },
+    {
+      "path": "modloader/Skins/wmymech.txd",
+      "sha256": "0db9bd134552d7cde61012af06d72228a5b22405917b10fe70237a6dc534b783",
+      "size": 2384452
     },
     {
       "path": "modloader/Sound Mods/EXTRAS/sports_handbrake.wav",
@@ -9028,6 +9668,51 @@
       "size": 23926
     },
     {
+      "path": "modloader/Vanilla Graffiti HQ/tags2_lalae.txd",
+      "sha256": "bc0e6a2269eb8d0f8949364960e410fad9b202e379875d82577c0cd3612cdc70",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_laazteca.txd",
+      "sha256": "74e438109b6b508ad0de2956be45611bfc5360fedd152e1c06443b0bbe585036",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_lafront.txd",
+      "sha256": "bc0e6a2269eb8d0f8949364960e410fad9b202e379875d82577c0cd3612cdc70",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_lakilo.txd",
+      "sha256": "2ebf6f5a98a79367087d4150c5c639779fa88a251d26f2d562954d1adbd5e347",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_larifa.txd",
+      "sha256": "cd6ff1f3438a367621961e47fb8a40bbc813a0185fd7d2eb446803b6e36b5219",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_larollin.txd",
+      "sha256": "b3551433ed4e3b23a77fd46378c00f3b5aefbdfff3e2354af5043452e64e54fe",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_laseville.txd",
+      "sha256": "662477d43b536a27ec6b3fd5f3aa79c7bc9db3ede91e2e472d7135bcaf2dc23e",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_latemple.txd",
+      "sha256": "ec19eb045fc9d12479b1ed8fe7c80e2b956e693b1b51aa706f7aa9892e458343",
+      "size": 526336
+    },
+    {
+      "path": "modloader/Vanilla Graffiti HQ/tags_lavagos.txd",
+      "sha256": "43f7c3086ef8de421017aaa97fd3677c7bf4f5f81ffec2fba913674f716ed624",
+      "size": 524584
+    },
+    {
       "path": "modloader/Vehicle/Fire Department/ambulan.dff",
       "sha256": "c43c879888a1d5d86bd1b14f832c61b716a73f7d767ada2f4f55229a44a79da2",
       "size": 773176
@@ -9608,6 +10293,26 @@
       "size": 1032872
     },
     {
+      "path": "modloader/green/Liquorstore03_LAe2.dff",
+      "sha256": "5b9432b36edae5a0afaf2c007b05c5bf399318177b232190a8a8d36f35e4f394",
+      "size": 566
+    },
+    {
+      "path": "modloader/green/ganton02_lae2.txd",
+      "sha256": "04ebcc942f39837ff38b5adf041ec7aa0a4bef0f6a5af174b9cffb612f570756",
+      "size": 1027564
+    },
+    {
+      "path": "modloader/green/liquorstore01_lae2.dff",
+      "sha256": "6bec6f507828110511bc81e812b7b9fc30326723e3450fe6e0aed5c706be5367",
+      "size": 308466
+    },
+    {
+      "path": "modloader/green/liquorstore02_lae2.dff",
+      "sha256": "04f808bc65ece058b5051101ad8b3db8533530e899f1d12fab9375286ee68a00",
+      "size": 1402
+    },
+    {
       "path": "modloader/modloader.ini",
       "sha256": "2aac15d6bae1413652afcd2aef1b253687c19d7b4972e9a9d84396be04b7dddd",
       "size": 1095
@@ -9973,6 +10678,21 @@
       "size": 1379390
     },
     {
+      "path": "modloader/plaz/LAbeach_03bx.dff",
+      "sha256": "58de841fd55ce36fa36a5637f4851a75558b91bf6e35b00ba378b70ebc1583e4",
+      "size": 2067588
+    },
+    {
+      "path": "modloader/plaz/beafron2_law2.txd",
+      "sha256": "908bc6b260f4d3653fcb7fbc3a784921a1c084063549e2aaa7684c88277080e1",
+      "size": 4347432
+    },
+    {
+      "path": "modloader/plaz/law_beach1.txd",
+      "sha256": "793273a9a315b3e5441a55e727caf1734ff93d404a0e77ee3f9c5fece13d49ca",
+      "size": 557352
+    },
+    {
       "path": "mouse.png",
       "sha256": "2bbcaf4629f9077bcdf847f912cbe76d20c4428d710bcf76211ead1dccbd08f1",
       "size": 784
@@ -10138,5 +10858,987 @@
       "size": 65536
     }
   ],
-  "schemaVersion": 2
+  "prerequisites": [
+    {
+      "baseUrl": "http://168.222.28.116/Launcher/directx/",
+      "check": "dx9-legacy-components",
+      "downloadMode": "file-set",
+      "files": [
+        {
+          "path": "Apr2005_d3dx9_25_x64.cab",
+          "sha256": "b4188ce988af9c4771ae0abcc7edc42a091133f9f20196564f51755dc55ea85d",
+          "size": 1347354
+        },
+        {
+          "path": "Apr2005_d3dx9_25_x86.cab",
+          "sha256": "6ebfb6ed6ac0b69502a5b74e2edca188872fe767269c4ebf62f174157d198de4",
+          "size": 1078962
+        },
+        {
+          "path": "Apr2006_d3dx9_30_x64.cab",
+          "sha256": "079f61e155695a61a0ce009ee00cf76fbf6b2b9b412c1a5b4a2035d4b5c90a5b",
+          "size": 1397830
+        },
+        {
+          "path": "Apr2006_d3dx9_30_x86.cab",
+          "sha256": "4b5da79e14ef58f2608fc5ccedfc7c6c6f782291aa5573f36af76f2903173db5",
+          "size": 1115221
+        },
+        {
+          "path": "Apr2006_MDX1_x86.cab",
+          "sha256": "0e3b4b9d5a45884620820d0e9cfed852b03dfb44e443179a35e93f3183384db3",
+          "size": 916430
+        },
+        {
+          "path": "Apr2006_MDX1_x86_Archive.cab",
+          "sha256": "0a051a9b50f58dc631254102ac885942ced67c2911950de0cdd93cd1cd9453ec",
+          "size": 4162630
+        },
+        {
+          "path": "Apr2006_XACT_x64.cab",
+          "sha256": "002f45af20e43a24abee7a79c5add11987c88140b84e2ecd33c0c67259c7f71b",
+          "size": 179133
+        },
+        {
+          "path": "Apr2006_XACT_x86.cab",
+          "sha256": "875662d0fc1fe865bf43e7279fd391e88f96b3141c1a829ab3080d547501ff8f",
+          "size": 133103
+        },
+        {
+          "path": "Apr2006_xinput_x64.cab",
+          "sha256": "48da57aa045a877053a481802fdb3ec5782615d9ad85a8c06612bd80272e75d7",
+          "size": 87101
+        },
+        {
+          "path": "Apr2006_xinput_x86.cab",
+          "sha256": "a9b3dd45926364d79b42b75d8064c814ff428437143c59b1c703ec8323305fbb",
+          "size": 46010
+        },
+        {
+          "path": "APR2007_d3dx10_33_x64.cab",
+          "sha256": "1bed02f304d495c2769debff315ae3f017c7e9907d85138996554e8e61a61e91",
+          "size": 698612
+        },
+        {
+          "path": "APR2007_d3dx10_33_x86.cab",
+          "sha256": "6aca96d6aa400d8ad07d2fb1c4aa94c62d261b9370cbf01d2acce24e489038ba",
+          "size": 695865
+        },
+        {
+          "path": "APR2007_d3dx9_33_x64.cab",
+          "sha256": "387c63928479e0ad138fa154f9f291821275f6fdf122aac8ace87f0d2033e77c",
+          "size": 1607358
+        },
+        {
+          "path": "APR2007_d3dx9_33_x86.cab",
+          "sha256": "9a7e65d97910b2038bb01a640a86c2ebf62ab7b36a50f349e71ec901b206f0ee",
+          "size": 1606039
+        },
+        {
+          "path": "APR2007_XACT_x64.cab",
+          "sha256": "0e1042d91b755a36e7dfca480bb3f868cb23f5438dd1415fd3fcfb13b27d761e",
+          "size": 195766
+        },
+        {
+          "path": "APR2007_XACT_x86.cab",
+          "sha256": "9dee9f2b720b0fc90b8ebdac22d20f2008e58f16f354b9a967526c439bf0b9a3",
+          "size": 151225
+        },
+        {
+          "path": "APR2007_xinput_x64.cab",
+          "sha256": "e7a09f8235cc587cc63f583e39fbc75008d9677c8bb4dcc11cb8d0178a5153ac",
+          "size": 96817
+        },
+        {
+          "path": "APR2007_xinput_x86.cab",
+          "sha256": "2acea6c8b9f6f7f89ec51365a1e49fbd0d8c42c53418bd0783dbf3f74a744e6d",
+          "size": 53302
+        },
+        {
+          "path": "Aug2005_d3dx9_27_x64.cab",
+          "sha256": "281d20c56caa3a2851199c028d4d20ef0a862cc3f84b165eb200da573d9e4401",
+          "size": 1350542
+        },
+        {
+          "path": "Aug2005_d3dx9_27_x86.cab",
+          "sha256": "7a10900872ecd9bdbc8f7beb7869a260fa4b25e34084f237f1b096df5371c273",
+          "size": 1077644
+        },
+        {
+          "path": "AUG2006_XACT_x64.cab",
+          "sha256": "beaac99fd17bc9fa85a2a220a13d8c13bd90f66eee595cbd27ab9aaadc234b03",
+          "size": 182903
+        },
+        {
+          "path": "AUG2006_XACT_x86.cab",
+          "sha256": "cd2e1256efa1723eb77c77440f7b72f0eed8c0df17677cd4cc5a95a65a0f4849",
+          "size": 137235
+        },
+        {
+          "path": "AUG2006_xinput_x64.cab",
+          "sha256": "a54c7820f37b5e70068b801263c7efcc26b6404555a968094227e8bbaf5c22c5",
+          "size": 87142
+        },
+        {
+          "path": "AUG2006_xinput_x86.cab",
+          "sha256": "ad2b521d1a7abca6314eaeacb23690b63b2a17adbb2a47d3d69cc4660c7d2152",
+          "size": 46058
+        },
+        {
+          "path": "AUG2007_d3dx10_35_x64.cab",
+          "sha256": "edbdcb1fa651ec3c8a505a0bb8570b6147ed89ca372e3e6ea86dc6876d6a72f5",
+          "size": 852286
+        },
+        {
+          "path": "AUG2007_d3dx10_35_x86.cab",
+          "sha256": "a574ecb764861fc40301ebb65fb0bde10fc904ac6eea0580c325dd0c561ff35b",
+          "size": 796867
+        },
+        {
+          "path": "AUG2007_d3dx9_35_x64.cab",
+          "sha256": "6a637ef67615722156fe3fd57ef7581d4ac85ee237d445975b6a20c7a76bd7e3",
+          "size": 1800160
+        },
+        {
+          "path": "AUG2007_d3dx9_35_x86.cab",
+          "sha256": "6891a70890d5b0bed82a41c47211690a73b24b6df331b83135ed647ff13b1aca",
+          "size": 1708152
+        },
+        {
+          "path": "AUG2007_XACT_x64.cab",
+          "sha256": "35f09b0727ee1ab9116166c512c08886623a67939b2e0d841efdee689b6e0f84",
+          "size": 198096
+        },
+        {
+          "path": "AUG2007_XACT_x86.cab",
+          "sha256": "b39c1b8483111be11cd4c10ef2d18ec8f0b23ff13b628482507076ede9fa9bd1",
+          "size": 153012
+        },
+        {
+          "path": "Aug2008_d3dx10_39_x64.cab",
+          "sha256": "ae64328b9a02a47c5ad429b9fba47b9228ab1a1e7d4e00e5d24087f2772d0b80",
+          "size": 867612
+        },
+        {
+          "path": "Aug2008_d3dx10_39_x86.cab",
+          "sha256": "8c0643efa8d113fc5ef0a0e98d9a2cc0e32cb8d4219ca0bc7e57cf710fd4fdad",
+          "size": 849167
+        },
+        {
+          "path": "Aug2008_d3dx9_39_x64.cab",
+          "sha256": "e0c5dc6a375a70ac6c8cea9193b76db241dad8e754702d57fd20765b55b30798",
+          "size": 1794084
+        },
+        {
+          "path": "Aug2008_d3dx9_39_x86.cab",
+          "sha256": "87d672f2ea01ef2123fe5c92da82a988cd964ca55ad660cc073d78d8151a7d84",
+          "size": 1464672
+        },
+        {
+          "path": "Aug2008_XACT_x64.cab",
+          "sha256": "c49e261887fefc13cc914590e33faec10316641bf683a121901c302a7a9efab4",
+          "size": 121772
+        },
+        {
+          "path": "Aug2008_XACT_x86.cab",
+          "sha256": "913f67e5daeb61d872392f2951e13ecfacef572ad4bb1731f7bbefa1ab314a24",
+          "size": 92996
+        },
+        {
+          "path": "Aug2008_XAudio_x64.cab",
+          "sha256": "5320967b14b8f7ad95973a26d3cb9de645acc663d3c3d1fce7d6464abe7e0d78",
+          "size": 271412
+        },
+        {
+          "path": "Aug2008_XAudio_x86.cab",
+          "sha256": "d26eff418f73c878a174c69a12dff08323df617526e8c5d8439e975f083db63b",
+          "size": 271038
+        },
+        {
+          "path": "Aug2009_D3DCompiler_42_x64.cab",
+          "sha256": "d2e14fc8cb9410caad5bd17c4acff2b6e060c552c432d11946a6905aee216931",
+          "size": 919044
+        },
+        {
+          "path": "Aug2009_D3DCompiler_42_x86.cab",
+          "sha256": "36c9be8c55f721c38110d56a6ccada672e7566d89f77c738c94fcdf1a584ecf4",
+          "size": 900598
+        },
+        {
+          "path": "Aug2009_d3dcsx_42_x64.cab",
+          "sha256": "b53bb3ed6f56702672f9f0201f6399b28f8c012ac7f1a604fb13b32a10a40dab",
+          "size": 3112111
+        },
+        {
+          "path": "Aug2009_d3dcsx_42_x86.cab",
+          "sha256": "a66fd98a1f746698848a4a7eb5ae69dac8ff2654b56c7decebb03cdca8dc7c85",
+          "size": 3319740
+        },
+        {
+          "path": "Aug2009_d3dx10_42_x64.cab",
+          "sha256": "2cfd51f0115c048ed432522d387167e46b2a2929524dcbd08b91c07705d5da27",
+          "size": 232635
+        },
+        {
+          "path": "Aug2009_d3dx10_42_x86.cab",
+          "sha256": "eef0244674e44a4131f12243a11badf3e9c7a24efdca73dd26cf75f24d902597",
+          "size": 192131
+        },
+        {
+          "path": "Aug2009_d3dx11_42_x64.cab",
+          "sha256": "0b91a568769bf0f89658ffb4eff9eacdc5debbe4ddc2d94da6f7068237c94c86",
+          "size": 136301
+        },
+        {
+          "path": "Aug2009_d3dx11_42_x86.cab",
+          "sha256": "e8c845fc2cf746ba07f8921a09dc533973621d6f8a015342e2b078d11815b121",
+          "size": 105044
+        },
+        {
+          "path": "Aug2009_d3dx9_42_x64.cab",
+          "sha256": "832f6a4415c873ed8acca0d5c9e65fe163d9567f0ce29fb3fda11d7afd1e11c7",
+          "size": 930116
+        },
+        {
+          "path": "Aug2009_d3dx9_42_x86.cab",
+          "sha256": "0adc71e37869f12b4806321f40c25dad3d5f8ad372eb35e0bcbaacf60408eb45",
+          "size": 728456
+        },
+        {
+          "path": "Aug2009_XACT_x64.cab",
+          "sha256": "69dab3f80a58912fbee51934d1e6da8d0432efa7577810600dfd168d4a52d637",
+          "size": 122408
+        },
+        {
+          "path": "Aug2009_XACT_x86.cab",
+          "sha256": "7c4bab445d4666965019b6084c23e4b9ae9e34b14898d01debc0101ddb9e12e4",
+          "size": 93106
+        },
+        {
+          "path": "Aug2009_XAudio_x64.cab",
+          "sha256": "1269f085046694d1466a4b75386ec30dd0564949db4fa90df366983f860acb97",
+          "size": 273264
+        },
+        {
+          "path": "Aug2009_XAudio_x86.cab",
+          "sha256": "b8e0c1022a42156c4239aea081f3abb0bf45ef61f30413df182e422e26435714",
+          "size": 272642
+        },
+        {
+          "path": "Dec2005_d3dx9_28_x64.cab",
+          "sha256": "8231b38a0ab70018f15d7239ed96e5f2bc89ddae6cf9650c9d7bd052b96877e3",
+          "size": 1357976
+        },
+        {
+          "path": "Dec2005_d3dx9_28_x86.cab",
+          "sha256": "bdee0708db956a4ce59220626106a2df70ede2e1e32f29e432254b04876fa7b9",
+          "size": 1079456
+        },
+        {
+          "path": "DEC2006_d3dx10_00_x64.cab",
+          "sha256": "d926d1381f1949754f5e6d597c4ab49e3f350312b2e426effafeed22ba9ced91",
+          "size": 212807
+        },
+        {
+          "path": "DEC2006_d3dx10_00_x86.cab",
+          "sha256": "07fe66373868c32de3f4a4097bd3834ac98018f490f5bf08f02f559c48dbf985",
+          "size": 191720
+        },
+        {
+          "path": "DEC2006_d3dx9_32_x64.cab",
+          "sha256": "473c0111f5a1efb6791575c5f769431fa2affd76813aaf9d476a571e26cd3fed",
+          "size": 1571154
+        },
+        {
+          "path": "DEC2006_d3dx9_32_x86.cab",
+          "sha256": "81251ebd8ee94f108807e32e04dea544c3937a5f870bc6ccb917d059e70b1838",
+          "size": 1574376
+        },
+        {
+          "path": "DEC2006_XACT_x64.cab",
+          "sha256": "b3f65d918e4dc0e84ce5d0add6d0d46425c58de19fddfbc7b996ff357caac3b2",
+          "size": 192475
+        },
+        {
+          "path": "DEC2006_XACT_x86.cab",
+          "sha256": "3d9b905fce31b42c47be263165d71c346b5d47abdabbfe6e9a87fd5a89b0b9f5",
+          "size": 145599
+        },
+        {
+          "path": "DSETUP.dll",
+          "sha256": "2a61679eeedabf7d0d0ac14e5447486575622d6b7cfa56f136c1576ff96da21f",
+          "size": 95576
+        },
+        {
+          "path": "dsetup32.dll",
+          "sha256": "fb0e534f9b0926e518f1c2980640dfd29f14217cdfa37cf3a0c13349127ed9a8",
+          "size": 1566040
+        },
+        {
+          "path": "dxdllreg_x86.cab",
+          "sha256": "4afe0249a13868b7c4a92b4d53c998adf6053eb5e2c47fd81020fd8d4bb11150",
+          "size": 44624
+        },
+        {
+          "path": "DXSETUP.exe",
+          "sha256": "8f47d7121ef6532ad9ad9901e44e237f5c30448b752028c58a9d19521414e40d",
+          "size": 517976
+        },
+        {
+          "path": "dxupdate.cab",
+          "sha256": "e18a5404b612e88fa8b403c9b33f064c0a89528db7ef9a79aa116908d0e6afed",
+          "size": 97152
+        },
+        {
+          "path": "Feb2005_d3dx9_24_x64.cab",
+          "sha256": "48eeeecd6411039b23f32b7b22c8d40bce45280af5f8b066edd6cf30284b90ca",
+          "size": 1247499
+        },
+        {
+          "path": "Feb2005_d3dx9_24_x86.cab",
+          "sha256": "12e2aab3dbaee503724a5505a6f6951f07306578801a4b5b6b9b54514275ce79",
+          "size": 1013225
+        },
+        {
+          "path": "Feb2006_d3dx9_29_x64.cab",
+          "sha256": "405bd17fe25128a91693807a6008031d87c005ba93d016cbab6276891d3bc6bb",
+          "size": 1362796
+        },
+        {
+          "path": "Feb2006_d3dx9_29_x86.cab",
+          "sha256": "20231448d5d74b7df1e43d796d76381d563699f81944c7ad9ccbcc1a77a5591e",
+          "size": 1084720
+        },
+        {
+          "path": "Feb2006_XACT_x64.cab",
+          "sha256": "ea39caab8e071df53c2f44c19fb2ff6e2f6af4ef47f0c66d8e7b1b0918d6745f",
+          "size": 178359
+        },
+        {
+          "path": "Feb2006_XACT_x86.cab",
+          "sha256": "633a1fe357e57bbb8e058e1e029f61f379ab936a85c5d30ee442d804a1806868",
+          "size": 132409
+        },
+        {
+          "path": "FEB2007_XACT_x64.cab",
+          "sha256": "85d3279df02904f161f62f7a529911e135439ae26f4aa4984be439a4ac1768ab",
+          "size": 194675
+        },
+        {
+          "path": "FEB2007_XACT_x86.cab",
+          "sha256": "d2446c0478d0087250c2f4f4cbdec7bdc9aec7ac92ca37b874c96aa3a3275dcd",
+          "size": 147983
+        },
+        {
+          "path": "Feb2010_X3DAudio_x64.cab",
+          "sha256": "832b6d48e169b4725ae482ea4d1c3360a09631a89b2fac3aba81a50805a50adc",
+          "size": 54678
+        },
+        {
+          "path": "Feb2010_X3DAudio_x86.cab",
+          "sha256": "acba5c4d4ac90e1df1c8404be5ff780e24238153cb410af909cd4364d213f2a9",
+          "size": 20713
+        },
+        {
+          "path": "Feb2010_XACT_x64.cab",
+          "sha256": "42d7936ca7520a8092ccb82612d0217c755ecf619251fd2aa0c37ccfd8c49807",
+          "size": 122446
+        },
+        {
+          "path": "Feb2010_XACT_x86.cab",
+          "sha256": "d168fcdd6b63c24f6f6d2851ad1d0d977146edd9f6377b46d8f87bf5a92a0693",
+          "size": 93180
+        },
+        {
+          "path": "Feb2010_XAudio_x64.cab",
+          "sha256": "038a01a9b3ba4ceb4df4726a5704a5b325871c07e3714913c3a9ff4184a50df6",
+          "size": 276960
+        },
+        {
+          "path": "Feb2010_XAudio_x86.cab",
+          "sha256": "86a653d6a77bad77df48a19669eb41dc402297b42d6f9ee239b39735be409d31",
+          "size": 277191
+        },
+        {
+          "path": "Jun2005_d3dx9_26_x64.cab",
+          "sha256": "7237630b897ce760948d9144151ef27c0699fb76150b5f157676fa2d220a236f",
+          "size": 1336002
+        },
+        {
+          "path": "Jun2005_d3dx9_26_x86.cab",
+          "sha256": "b448d7ba5b6fe1dc27639d42eb6ba0a997a793135678c729ba6756cfe4efc38b",
+          "size": 1064925
+        },
+        {
+          "path": "JUN2006_XACT_x64.cab",
+          "sha256": "e7bddd9db994cbb19671d45216edf40ffb3a77068cc97fbeb4c4e41e0d073501",
+          "size": 180785
+        },
+        {
+          "path": "JUN2006_XACT_x86.cab",
+          "sha256": "c1a1348611259756b5921d43f9fd9f2a5b40a48af88ea679a40263a2aca029ec",
+          "size": 133671
+        },
+        {
+          "path": "JUN2007_d3dx10_34_x64.cab",
+          "sha256": "3ef426fdd89840ead821ee8fe7a6f470ad8bf06dbcf2ac7cc8e8a0dd0a55622d",
+          "size": 699044
+        },
+        {
+          "path": "JUN2007_d3dx10_34_x86.cab",
+          "sha256": "47b355fb5324776370e2bd27ca2df982a516611fc1e702d75a829b207b3b80f6",
+          "size": 698472
+        },
+        {
+          "path": "JUN2007_d3dx9_34_x64.cab",
+          "sha256": "c28c2018fcc72a9548a752e2917284320fc1a8848ae9d92bf3513aa312cafc29",
+          "size": 1607774
+        },
+        {
+          "path": "JUN2007_d3dx9_34_x86.cab",
+          "sha256": "9c3507b1dd4a81651a5013cb7ecb552932ce5989cbaadd4024f02918f55276ac",
+          "size": 1607286
+        },
+        {
+          "path": "JUN2007_XACT_x64.cab",
+          "sha256": "0e08de538c217d80b19bd56066a269ca9b388e63ff6f3807b369d7b6a7fe794f",
+          "size": 197122
+        },
+        {
+          "path": "JUN2007_XACT_x86.cab",
+          "sha256": "e28d18ef520ca81ff7d33dad80b6144771cb82516f01739cef8d3b813c74643d",
+          "size": 152909
+        },
+        {
+          "path": "JUN2008_d3dx10_38_x64.cab",
+          "sha256": "781eb9276ea0d737d82dc60753c6d6ff89e92d016b48a60e9b21d1a66b8eb545",
+          "size": 867828
+        },
+        {
+          "path": "JUN2008_d3dx10_38_x86.cab",
+          "sha256": "b9b4110bd8004f83c0bfcef378071fd49c895294f4583e0b164317a692d9783c",
+          "size": 849919
+        },
+        {
+          "path": "JUN2008_d3dx9_38_x64.cab",
+          "sha256": "72e7f92c20462c4746ce000bc909ed6b3f71467f9e5593ba7c074be47553596d",
+          "size": 1792608
+        },
+        {
+          "path": "JUN2008_d3dx9_38_x86.cab",
+          "sha256": "5906932933e363acb1651a6b1f252662fb3512ed54dd6b0b87baa141ed6fb21a",
+          "size": 1463878
+        },
+        {
+          "path": "JUN2008_X3DAudio_x64.cab",
+          "sha256": "627c66ed6f3b82c8a90f549584c324e33f039f397f196ce9eccb86de76efb574",
+          "size": 55154
+        },
+        {
+          "path": "JUN2008_X3DAudio_x86.cab",
+          "sha256": "151d0be9d3fa6ce37f7aa8e047b8cc449e86398ed0623c3cc0e203ec221ebc2a",
+          "size": 21905
+        },
+        {
+          "path": "JUN2008_XACT_x64.cab",
+          "sha256": "f0736b0ab6eb8c91682f6934c9d4306fc134c65066f70f7f5f80031a927baa8d",
+          "size": 121054
+        },
+        {
+          "path": "JUN2008_XACT_x86.cab",
+          "sha256": "f06de1eef8043f7919a50972df7d0653f9439b725769dae93536dea749b8e2d6",
+          "size": 93128
+        },
+        {
+          "path": "JUN2008_XAudio_x64.cab",
+          "sha256": "9b15a27080204b3c36b787f919cefbf9d441f0b0b616f8b944feb42dc4eb2ff1",
+          "size": 269628
+        },
+        {
+          "path": "JUN2008_XAudio_x86.cab",
+          "sha256": "564696443875b094baafb5f4a151c25876ca537c1834356eddb979be0ca247ac",
+          "size": 269024
+        },
+        {
+          "path": "Jun2010_D3DCompiler_43_x64.cab",
+          "sha256": "213ad66ab9e469db1e6a49a646d082bfc3700db94172984e7e36801612af50c6",
+          "size": 944460
+        },
+        {
+          "path": "Jun2010_D3DCompiler_43_x86.cab",
+          "sha256": "417eebd5b19f45c67c94c2d2ba8b774c0fc6d958b896d7b1ac12cf5a0ea06e0e",
+          "size": 931471
+        },
+        {
+          "path": "Jun2010_d3dcsx_43_x64.cab",
+          "sha256": "cdbec7e3a5a0fef016eb294b036f93c75e45c6ead8d99397f859a32d23fe20cc",
+          "size": 752783
+        },
+        {
+          "path": "Jun2010_d3dcsx_43_x86.cab",
+          "sha256": "e2c5a2cbba7f211b6ca72ff8e5f69cba1f83be06357311b19e64f582fd3d14e4",
+          "size": 762188
+        },
+        {
+          "path": "Jun2010_d3dx10_43_x64.cab",
+          "sha256": "efce48d425c07f1faad4a55d7061a01ed6245aac17f43163cf2a23cbc9a3054b",
+          "size": 235955
+        },
+        {
+          "path": "Jun2010_d3dx10_43_x86.cab",
+          "sha256": "a8cf71ffb80b683616d0621be96d3795b0ffda3877ed2d80cd958bfa393ddcfc",
+          "size": 197283
+        },
+        {
+          "path": "Jun2010_d3dx11_43_x64.cab",
+          "sha256": "c1d0d56b83bfb09a5e1a89e1898bb74446a847b30a968f3664ec2d87368eb63e",
+          "size": 138205
+        },
+        {
+          "path": "Jun2010_d3dx11_43_x86.cab",
+          "sha256": "a58cefe822e371d078eaf89319f832693352ba7d62079320074397f0f3425961",
+          "size": 109445
+        },
+        {
+          "path": "Jun2010_d3dx9_43_x64.cab",
+          "sha256": "9b98a1269af7f3a0007bfdc73206a47a6ee158d34ba8a87009396c18186bb06a",
+          "size": 937246
+        },
+        {
+          "path": "Jun2010_d3dx9_43_x86.cab",
+          "sha256": "fcc6cf0966b4853d6fa3d32ab299cde5a9824feaecb0d4f34ea452fb9fd1c867",
+          "size": 768036
+        },
+        {
+          "path": "Jun2010_XACT_x64.cab",
+          "sha256": "06251ab76450feb7dc2ffb9be7615f5eb56960cefa4c990ef560f2c6f2a7551b",
+          "size": 124596
+        },
+        {
+          "path": "Jun2010_XACT_x86.cab",
+          "sha256": "354c2e579ed00b391dd5d8be91b0f45115e7c232ed1b842747830be0fd26e915",
+          "size": 93686
+        },
+        {
+          "path": "Jun2010_XAudio_x64.cab",
+          "sha256": "51500283f69e97f5beddb073ba2a9017de3d30379c0dcc4d11dd2236ce07b317",
+          "size": 277338
+        },
+        {
+          "path": "Jun2010_XAudio_x86.cab",
+          "sha256": "7b4332207563beba1103744b6db5399ad150e9e6838f9d5a71497e7eb3645ebf",
+          "size": 278060
+        },
+        {
+          "path": "Mar2008_d3dx10_37_x64.cab",
+          "sha256": "9eaba54ab5392802bee889982c585707797ae7810c1e7a66f98903fc963a9eab",
+          "size": 844884
+        },
+        {
+          "path": "Mar2008_d3dx10_37_x86.cab",
+          "sha256": "de438d52b5f1141be26f7d06f283699d96827129da524a412e1605bd9c8e6b6a",
+          "size": 818260
+        },
+        {
+          "path": "Mar2008_d3dx9_37_x64.cab",
+          "sha256": "33ed3e21fe9118bad3e11ee13a3f0b31c52ae7e22378ebf96de590b114c2ca02",
+          "size": 1769862
+        },
+        {
+          "path": "Mar2008_d3dx9_37_x86.cab",
+          "sha256": "0be4fe173c7becbab42a25421f28d54629479e240a3378b37ac4b657bf60e128",
+          "size": 1443282
+        },
+        {
+          "path": "Mar2008_X3DAudio_x64.cab",
+          "sha256": "b0209ae7c140b3b3a7635a00d7364591d6b3d017d6bb007f9e347767b00b1671",
+          "size": 55058
+        },
+        {
+          "path": "Mar2008_X3DAudio_x86.cab",
+          "sha256": "15e0dcefc22fb6a09e3d8724fa5c17c23db01f10879f343e7da22938f568abd7",
+          "size": 21867
+        },
+        {
+          "path": "Mar2008_XACT_x64.cab",
+          "sha256": "221a6a70898c8d513fac732dfa0ada137b268cffc90875c05d1049ba8f2e3e5b",
+          "size": 122336
+        },
+        {
+          "path": "Mar2008_XACT_x86.cab",
+          "sha256": "d1a429a0725765a5b302b83af062d2780859f0a52369b200d1b031e14f030ea0",
+          "size": 93734
+        },
+        {
+          "path": "Mar2008_XAudio_x64.cab",
+          "sha256": "35d20903b1b246afda8c5205bfa3b253fbad5d3255ce14b5a8d5aaa6b6909dbc",
+          "size": 251194
+        },
+        {
+          "path": "Mar2008_XAudio_x86.cab",
+          "sha256": "786e6417d105b1dedcb502a799d7cd30a65cbe59a2b41a411781bdafa7fb1917",
+          "size": 226250
+        },
+        {
+          "path": "Mar2009_d3dx10_41_x64.cab",
+          "sha256": "4e78a01a3a5d236f27cda4a66a9d8a59c06e8a9779fd2f2a3e1f9b416d2c4213",
+          "size": 1067160
+        },
+        {
+          "path": "Mar2009_d3dx10_41_x86.cab",
+          "sha256": "80736b3fe97947507a32bf7cd744e01a86424c4cc9977f7b4a7404268e83f8c1",
+          "size": 1040745
+        },
+        {
+          "path": "Mar2009_d3dx9_41_x64.cab",
+          "sha256": "218929568334f78c93d3a111ad268ff56ed4a6fee83ce26dce0a2619a092f46b",
+          "size": 1973702
+        },
+        {
+          "path": "Mar2009_d3dx9_41_x86.cab",
+          "sha256": "74ff3ac77380b3a7271f22b21e019c50f6caa8585f0b59cca094e76ce170a28b",
+          "size": 1612446
+        },
+        {
+          "path": "Mar2009_X3DAudio_x64.cab",
+          "sha256": "5fcb6f2d1dbf278c14813812448026a8d2bf2179bb4c2e807b9167fdb7966290",
+          "size": 54600
+        },
+        {
+          "path": "Mar2009_X3DAudio_x86.cab",
+          "sha256": "fd713dc9d50cb72508f0c416f6861588f1227bb9f2e1a40a6f0e774be248bb8d",
+          "size": 21298
+        },
+        {
+          "path": "Mar2009_XACT_x64.cab",
+          "sha256": "63721ba32053e4f2b0905aab8e68fe63eadaae53543be89b2d5f082b10edf6a2",
+          "size": 121506
+        },
+        {
+          "path": "Mar2009_XACT_x86.cab",
+          "sha256": "ba7f2b4e34c355dae4ca2aeae585985f2626c69e4cf857b9db009d50a23b620c",
+          "size": 92740
+        },
+        {
+          "path": "Mar2009_XAudio_x64.cab",
+          "sha256": "e470186155459daf0674a30450a4887f941ca7dbdf9aa311fc4d4c87352529ba",
+          "size": 275044
+        },
+        {
+          "path": "Mar2009_XAudio_x86.cab",
+          "sha256": "7c360b93d3e799d3502f0b6acf4139c058d7d47e63d41f4af0f2bff59b4742b2",
+          "size": 273018
+        },
+        {
+          "path": "Nov2007_d3dx10_36_x64.cab",
+          "sha256": "0847e4034d70ccbea527e04d14d8d60c9854ecc89cb29b3e07139e65962fbce9",
+          "size": 864600
+        },
+        {
+          "path": "Nov2007_d3dx10_36_x86.cab",
+          "sha256": "0da883c82456a5340411f222af5891fd370bf7efd919e90a48aec0f67f01ec80",
+          "size": 803884
+        },
+        {
+          "path": "Nov2007_d3dx9_36_x64.cab",
+          "sha256": "39afab1a89bcf46806b422837da35ddc1b8eedf0393d875a89b47cde5fed79d4",
+          "size": 1802058
+        },
+        {
+          "path": "Nov2007_d3dx9_36_x86.cab",
+          "sha256": "89026e7e14fff8164de3c13a774d539e789637104d7bc84b8bb4e059b76a9679",
+          "size": 1709360
+        },
+        {
+          "path": "NOV2007_X3DAudio_x64.cab",
+          "sha256": "f954abaf7966b409d3db339f5dc491e103365f47b23faffca25d85ea3728f12f",
+          "size": 46144
+        },
+        {
+          "path": "NOV2007_X3DAudio_x86.cab",
+          "sha256": "74a6d31a4c54d8c0fb2dcde922409c05db3219b7dcffa44c16f603ba054fb922",
+          "size": 18496
+        },
+        {
+          "path": "NOV2007_XACT_x64.cab",
+          "sha256": "d01b468ec66b36bea0e20503c01b93ac64d9e001c20d28cf7c71293e9f874af0",
+          "size": 196762
+        },
+        {
+          "path": "NOV2007_XACT_x86.cab",
+          "sha256": "c888a8a79249ab284a918c371f2fe6da81fdf432e65d3da3cd24fecede267aed",
+          "size": 148264
+        },
+        {
+          "path": "Nov2008_d3dx10_40_x64.cab",
+          "sha256": "a318a71b953f87ef0f5fad91a153f7ee251c8f895581950022f38f63d5f66cba",
+          "size": 994154
+        },
+        {
+          "path": "Nov2008_d3dx10_40_x86.cab",
+          "sha256": "4d7805c3db9fe72978fdd4c0c8ff973eed07ca6619d1c988cd01e08b70e1d137",
+          "size": 965421
+        },
+        {
+          "path": "Nov2008_d3dx9_40_x64.cab",
+          "sha256": "723e8fcfe969493e6c4f79d2634c052eed9cd1e7051cfbf4466643b964fea29c",
+          "size": 1906878
+        },
+        {
+          "path": "Nov2008_d3dx9_40_x86.cab",
+          "sha256": "a259dd75611610bc0fd9c874e68ec89bbae4ac5f8db0857705a35de616604641",
+          "size": 1550796
+        },
+        {
+          "path": "Nov2008_X3DAudio_x64.cab",
+          "sha256": "8de7aedf7f823e455c663cec42b158f6d5308efd356a9cf9295ae49f7c8a3fdb",
+          "size": 54522
+        },
+        {
+          "path": "Nov2008_X3DAudio_x86.cab",
+          "sha256": "f2264f092313682f4e274ad71030248fa2e23d202abc2d46ab09c7d6b580b81b",
+          "size": 21851
+        },
+        {
+          "path": "Nov2008_XACT_x64.cab",
+          "sha256": "9dda7b01517451b9ca53abc3a4e61277481c4e8a6404d15450b5a416416b8016",
+          "size": 121794
+        },
+        {
+          "path": "Nov2008_XACT_x86.cab",
+          "sha256": "7b5594c1146a7753e8aeb0d235a060360b3072ba7b0fa122536d85b42df73a2e",
+          "size": 92684
+        },
+        {
+          "path": "Nov2008_XAudio_x64.cab",
+          "sha256": "980e6bb91d20d90225405887ebec47a7b1deee21faab4c561faae323007f6c98",
+          "size": 273960
+        },
+        {
+          "path": "Nov2008_XAudio_x86.cab",
+          "sha256": "00c28cd39034f7e1d434adc0bd39e4be29eabe8b73a2f3eaca6de11d2d22be95",
+          "size": 272611
+        },
+        {
+          "path": "Oct2005_xinput_x64.cab",
+          "sha256": "10f2bcfcc38d3150bc80eb0030a1cd40084f1ec028dc927543c485d54ec35022",
+          "size": 86037
+        },
+        {
+          "path": "Oct2005_xinput_x86.cab",
+          "sha256": "f2d475864e34409fb586093f92390e1f47403867c39ac30918941f19f3fccb0f",
+          "size": 45359
+        },
+        {
+          "path": "OCT2006_d3dx9_31_x64.cab",
+          "sha256": "3cf78eeedcddddaf131af35cc68c218685c133326ff2876cb821096ed7ebf0c8",
+          "size": 1412902
+        },
+        {
+          "path": "OCT2006_d3dx9_31_x86.cab",
+          "sha256": "fd8c9c23aea007aa92eca130446913ef04d9fc78e0e6fc3c49c25d210889de61",
+          "size": 1127217
+        },
+        {
+          "path": "OCT2006_XACT_x64.cab",
+          "sha256": "db037f2b07f00a7aa481b12ed35d52e3b7c18bb786590eb444b27cf69a675f0f",
+          "size": 182361
+        },
+        {
+          "path": "OCT2006_XACT_x86.cab",
+          "sha256": "65916ca9db2d3eeb6a44f19a19c4254ca4fc1795bad81fda35e028d9b62e1d3d",
+          "size": 138017
+        }
+      ],
+      "id": "directx-9.0c-june-2010",
+      "installOrder": 1,
+      "installer": {
+        "arguments": [
+          "/silent"
+        ],
+        "file": "DXSETUP.exe"
+      },
+      "name": "DirectX 9.0c / DirectX End-User Runtimes (June 2010)",
+      "required": true,
+      "version": "June 2010"
+    },
+    {
+      "baseUrl": "http://168.222.28.116/Launcher/vc/",
+      "check": "vc-runtimes-x86-x64",
+      "downloadMode": "packages",
+      "id": "visual-cpp-runtimes-all-in-one-jun-2026",
+      "installOrder": 2,
+      "name": "Visual C++ Redistributable Runtimes",
+      "packages": [
+        {
+          "arch": "x86",
+          "arguments": [
+            "/q"
+          ],
+          "fileName": "vcredist2005_x86.exe",
+          "id": "vc2005_x86",
+          "name": "Microsoft Visual C++ 2005 x86",
+          "sha256": "4ee4da0fe62d5fa1b5e80c6e6d88a4a2f8b3b140c35da51053d0d7b72a381d29",
+          "size": 2707352,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2005_x86.exe",
+          "version": "2005"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/q"
+          ],
+          "fileName": "vcredist2005_x64.exe",
+          "id": "vc2005_x64",
+          "name": "Microsoft Visual C++ 2005 x64",
+          "sha256": "0551a61c85b718e1fa015b0c3e3f4c4eea0637055536c00e7969286b4fa663e0",
+          "size": 3175832,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2005_x64.exe",
+          "version": "2005"
+        },
+        {
+          "arch": "x86",
+          "arguments": [
+            "/qb"
+          ],
+          "fileName": "vcredist2008_x86.exe",
+          "id": "vc2008_x86",
+          "name": "Microsoft Visual C++ 2008 x86",
+          "sha256": "6b3e4c51c6c0e5f68c8a72b497445af3dbf976394cbb62aa23569065c28deeb6",
+          "size": 4479832,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2008_x86.exe",
+          "version": "2008"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/qb"
+          ],
+          "fileName": "vcredist2008_x64.exe",
+          "id": "vc2008_x64",
+          "name": "Microsoft Visual C++ 2008 x64",
+          "sha256": "b811f2c047a3e828517c234bd4aa4883e1ec591d88fad21289ae68a6915a6665",
+          "size": 5207896,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2008_x64.exe",
+          "version": "2008"
+        },
+        {
+          "arch": "x86",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2010_x86.exe",
+          "id": "vc2010_x86",
+          "name": "Microsoft Visual C++ 2010 x86",
+          "sha256": "67313b3d1bc86e83091e8de22981f14968f1a7fb12eb7ad467754c40cd94cc3d",
+          "size": 8990552,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2010_x86.exe",
+          "version": "2010"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2010_x64.exe",
+          "id": "vc2010_x64",
+          "name": "Microsoft Visual C++ 2010 x64",
+          "sha256": "cc7ec044218c72a9a15fca2363baed8fc51095ee3b2a7593476771f9eba3d223",
+          "size": 10274136,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2010_x64.exe",
+          "version": "2010"
+        },
+        {
+          "arch": "x86",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2012_x86.exe",
+          "id": "vc2012_x86",
+          "name": "Microsoft Visual C++ 2012 x86",
+          "sha256": "b924ad8062eaf4e70437c8be50fa612162795ff0839479546ce907ffa8d6e386",
+          "size": 6554576,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2012_x86.exe",
+          "version": "2012"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2012_x64.exe",
+          "id": "vc2012_x64",
+          "name": "Microsoft Visual C++ 2012 x64",
+          "sha256": "681be3e5ba9fd3da02c09d7e565adfa078640ed66a0d58583efad2c1e3cc4064",
+          "size": 7186992,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2012_x64.exe",
+          "version": "2012"
+        },
+        {
+          "arch": "x86",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2013_x86.exe",
+          "id": "vc2013_x86",
+          "name": "Microsoft Visual C++ 2013 x86",
+          "sha256": "53b605d1100ab0a88b867447bbf9274b5938125024ba01f5105a9e178a3dcdbd",
+          "size": 6510136,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2013_x86.exe",
+          "version": "2013"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist2013_x64.exe",
+          "id": "vc2013_x64",
+          "name": "Microsoft Visual C++ 2013 x64",
+          "sha256": "a4bba7701e355ae29c403431f871a537897c363e215cafe706615e270984f17c",
+          "size": 7200744,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist2013_x64.exe",
+          "version": "2013"
+        },
+        {
+          "arch": "x86",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist_v14.x86.exe",
+          "id": "vc_v14_x86",
+          "name": "Microsoft Visual C++ v14 x86 (2015-2026)",
+          "sha256": "f0bab33a302b3cdb2e11113760d016f54fd3d2632c65ba7834fac4f0abd7f1a3",
+          "size": 6941536,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist_v14.x86.exe",
+          "version": "2015-2026"
+        },
+        {
+          "arch": "x64",
+          "arguments": [
+            "/passive",
+            "/norestart"
+          ],
+          "fileName": "vcredist_v14.x64.exe",
+          "id": "vc_v14_x64",
+          "name": "Microsoft Visual C++ v14 x64 (2015-2026)",
+          "sha256": "843068991daaa1f73ad9f6239bce4d0f6a07a51f18c37ea2a867e9beca71295c",
+          "size": 18731856,
+          "url": "http://168.222.28.116/Launcher/vc/vcredist_v14.x64.exe",
+          "version": "2015-2026"
+        }
+      ],
+      "required": true,
+      "sourcePage": "https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/",
+      "version": "Jun 2026"
+    }
+  ],
+  "schemaVersion": 4
 }
