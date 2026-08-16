@@ -2693,6 +2693,91 @@
       "size": 16594192
     },
     {
+      "path": "modloader/18mapp/barrio1_lae2.txd",
+      "sha256": "ab3dd794211d58181f592e9ab7e9770f3dccc4b5cca7a8edf773d3dd156e06b7",
+      "size": 34662112
+    },
+    {
+      "path": "modloader/18mapp/blockk_lae2.dff",
+      "sha256": "5fb1602996b36ec19b948ee8324efaf3f510e16438f9ee7b515f6d5ab4fe6aff",
+      "size": 354383
+    },
+    {
+      "path": "modloader/18mapp/eastlstr_lae2.txd",
+      "sha256": "b572e40bf1356c059e4082b8d01e027c5ec4724df6f3eea36544fd54a4d610f1",
+      "size": 577048
+    },
+    {
+      "path": "modloader/18mapp/furniture_lae.dff",
+      "sha256": "efc19d821d3fc7808751aad884bedc76a3e4965a5ef3c7d251698f4076c55dac",
+      "size": 343585
+    },
+    {
+      "path": "modloader/18mapp/furniture_lae2.txd",
+      "sha256": "73e99a8e1716e4eed54ea8d4d4c8ade35fdded574b150202699a5a4756290428",
+      "size": 32778468
+    },
+    {
+      "path": "modloader/18mapp/lae2roads.txd",
+      "sha256": "55a0c62d97ec27f798f7703dc49471ba5857ab4af4d0a363f345641a69b551a6",
+      "size": 3229048
+    },
+    {
+      "path": "modloader/18mapp/tags2_lalae.txd",
+      "sha256": "7609cc533bfa7eef5ed51c8504881e2aac32453b96bbca3017efb32bec4fb6b7",
+      "size": 175112
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/holbuild04_law.dff",
+      "sha256": "64354f9ff911fafa50caea5623bafbfed2a383c017c568a785fe318a5ee706da",
+      "size": 14646
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/holbuild10_law.dff",
+      "sha256": "db8c1fe3a806187c3d830ed31fd1bdcc90e078f149205f9858800bd8a82dddc1",
+      "size": 258662
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/manns04_LAwN.dff",
+      "sha256": "b89aa04e92ab970419074aa0f274f6fa5edb660696759ed7a6d91d2d473924fb",
+      "size": 50720
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/sunrise01_lawn.txd",
+      "sha256": "0152c230da051025ea3a47f928251b56dbd1ec330c6ac7265bb1dbaf54e7dd13",
+      "size": 690696
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/sunrise04_lawn.txd",
+      "sha256": "09104a797155d72d62b2e682ea5ef6d08c7fd9bd733689d9c5f033fe30fa429f",
+      "size": 14895756
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/sunrise09_lawn.txd",
+      "sha256": "ff4844f1de53bb3fa0798b0bcbea74d738e86557e35ade9061cf91672541eec3",
+      "size": 856232
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Grafitis/sunrise10_lawn.txd",
+      "sha256": "4908e1dc51c086fb9eeab20c46630ca7d2475733de4e5e0d35ebb190936726c2",
+      "size": 1166820
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/Hollywood Land Cleaners/VineBlock1_LAwN.dff",
+      "sha256": "37e4e0f0218d49601ebb57bd6a9dd7fc7c540fd105e29620c42c46b4e2cd6f42",
+      "size": 77403
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/W. Hollywood Park/FredBlock_LAwN.dff",
+      "sha256": "f57b715a7f6fce8afcd37c6ea1046e9d14d7c36dc6d4cf317bf61a19dba0ad12",
+      "size": 1293270
+    },
+    {
+      "path": "modloader/AP13 (Armenian Power Tags)/sunrise09_lawn.txd",
+      "sha256": "5b6a6f74334be14ea42926e717b8ce6ef3ac38ef33757032f8b87fe38e5767b6",
+      "size": 20444980
+    },
+    {
       "path": "modloader/Animaciones/baseball.ifp",
       "sha256": "7a21928e46d727d4482b9b45b41e91e3da18ee137172a57de47c63a79e5b9be5",
       "size": 68492
@@ -3173,6 +3258,271 @@
       "size": 266664
     },
     {
+      "path": "modloader/Boyle Heights & East Los Angeles/arch_sign.dff",
+      "sha256": "e35df80893562bb391c9fbe14f278d579c93c65b3fe4b374a8ae8c647ea8b78d",
+      "size": 159909
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/archlax.txd",
+      "sha256": "315140030c26c0409465ab286dd9eac1aec1efe00571b615a2259eff7a8d1da5",
+      "size": 286772
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/barrio3b_lae.dff",
+      "sha256": "2a2391472f85d2b5a95a2ae92201bed0bfca593ea8363b5620d1c1d73da9ed3b",
+      "size": 854460
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/burnhous1_lae2.dff",
+      "sha256": "622ba76b7d01377dfb18f7d9458a1324a33843be010d9d79f6d99febec5c80f9",
+      "size": 40362
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/burnsground.txd",
+      "sha256": "e9b45280f63d1ffd4af3cf8e7d48479f68c7e2944ed912624ad8e83fe8494085",
+      "size": 5361288
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/comedbarrio1_la.txd",
+      "sha256": "8d0dd1597b975e427bfdfe9a89fba2f8c3387bbe85ba4c64fe7bef359c13ce13",
+      "size": 510128
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/comedprj1_la.txd",
+      "sha256": "d901b4055d4ace51c5bf7c7703dfac0e510c7cda7640c866bb848272cc89416c",
+      "size": 628656
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/eastls1_lae2.txd",
+      "sha256": "075568a33df8c26afe7715b5b06ff8be53f854af58c2d3f6bd8aaab77fa9c513",
+      "size": 710216
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/eastls1b_lae2.txd",
+      "sha256": "34277697ad523d13ec22105f6e928bb9d63a7bfad2f98b7eb91a1946728375ac",
+      "size": 10820900
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/eastls3_lae2.txd",
+      "sha256": "3e34e8b4365a2c78d399e8d008db5004b02a26d7b62c0490d21500f403777db3",
+      "size": 282792
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/eastlstr_lae2.txd",
+      "sha256": "6033ab4dc51b949099742f1feec7668ac55ba6d7061bc5da88fbafaeffacf617",
+      "size": 512552
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/furniture_lae.dff",
+      "sha256": "20480ebabe2eb3deadbc2a691caf33abcb7ca5c4f74dd2592748f2a0a4e18453",
+      "size": 2285093
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/furniture_lae2.txd",
+      "sha256": "684c489ebdd88dbba11e07b8f56a4eb54c2402e9c7b089ae1369ef2b90276d40",
+      "size": 2630080
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangblock1tr_lae.dff",
+      "sha256": "c0ba9e9dbf81533a02e70ca633887c95ccf403fa7b75dde5ea54421891a1268b",
+      "size": 71200
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghous01_lax.dff",
+      "sha256": "58ed6f431a4e72b62a4d1d7fc2f5f71bfcc0c91479c0b6b957b8a906fb0eb2c1",
+      "size": 58214
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghous02_lax.dff",
+      "sha256": "a19257be5b15489c56d0e5eb980e70e350dbc46dcd46e5a4ed315c9eb6834a3b",
+      "size": 29722
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghous03_lax.dff",
+      "sha256": "56846cf38dca03c4f449ea8b8d3d1d2bf89d1727d3b00e7488432b94a0c4f021",
+      "size": 33238
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghous04_lax.dff",
+      "sha256": "bf7164c71443daf23e8b10f8894406a2ecad305a5e381c21922d66d4727aca35",
+      "size": 31702
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghous05_lax.dff",
+      "sha256": "94dba3052f32086cdde58baae326f4651e65d815b421b91195e975ad768e780c",
+      "size": 31154
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/ganghouse1_lax.txd",
+      "sha256": "7aeef127220cfcea72be519ed793dcabc6d5a79bfba4f1939d3420ac703cdd94",
+      "size": 3657272
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangshops1_lae.dff",
+      "sha256": "1c747242cdc67808443bd9557c77cfbbfc314476507ff634792c66e3da12a65c",
+      "size": 27762
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangshops2_lae2.dff",
+      "sha256": "b7d24e9026c0609abcf540ea2d9fe2d030fdd2c8dd5bae7827ed8888870a9a8b",
+      "size": 574587
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangshops4_lae2.dff",
+      "sha256": "ec5609771fb2b132b567f80d8facac1c0db3648a4890b317d69947cbedf433e1",
+      "size": 555859
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangshops5_lae2.dff",
+      "sha256": "d87a91eff60c38e927c3897579785fdd1ded789ef583a4021772f80978675f73",
+      "size": 1457007
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/gangshops6_lae2.dff",
+      "sha256": "b673c1339ce47ee819e81249be3555d407d7cf5d7488a70e43da598a9aaaf572",
+      "size": 214531
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_ground08.dff",
+      "sha256": "001a0d760c062dc2f9668ae5654f1e02ff9124e0e91eda5401e04460ed8237f6",
+      "size": 1100825
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_ground09.dff",
+      "sha256": "bfdc3157b039a712d3167f2b53c4d05ca2d70bfb13d28294261bf82050d5fda8",
+      "size": 393897
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_ground10.dff",
+      "sha256": "d71608ec5257aaa59dd0c215ac07f16eb9fe9ac41b373addf6e3e937eadec144",
+      "size": 12545
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_ground11.dff",
+      "sha256": "66ba62392540f86b2cc6a3e9d94bf90a60ee6a99d4ce1b8b2381985d41307c50",
+      "size": 412849
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_ground12.dff",
+      "sha256": "f0ee227420a7598c922fa620154dfb91e77cfa79f46be67803560ee4f5f66de2",
+      "size": 748693
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads21.dff",
+      "sha256": "96f2ceb5b438dc9a42410ffaf0587f9460773f86cc7f6d37fc7083aa95d881ba",
+      "size": 10300
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads22.dff",
+      "sha256": "f4872d27f3b922eb5248e288e1e2d5492c0a94a25a97a0af5ef2ed39147c9a82",
+      "size": 9300
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads23.dff",
+      "sha256": "a3bd78e2e10793f868f1b3b55f21294fc5b5848ea3a8c3047019c483f8e2a8fc",
+      "size": 8576
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads24.dff",
+      "sha256": "76e8dbce857a96b2ff2fd20c95512ec95ddce445a630ddc95f8b020d86214d52",
+      "size": 40736
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads25.dff",
+      "sha256": "abd26abae575a69cf516c2cb028a26ed0fe924b7791b24e272d3d9632d7e221b",
+      "size": 4936
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads26.dff",
+      "sha256": "91d366bcfc3f4722a61ca700cf0ba1d98c176b85aaf83d1b6390bb4d96f8a759",
+      "size": 405856
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads27.dff",
+      "sha256": "5108ac632f650009a592002f192dbea9f6f9996e1f00f2df93dd6699da6c7285",
+      "size": 11496
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads28.dff",
+      "sha256": "bd04a2a6d40a5f9e9aaff2f273d4a61626d08b3e713cb07f5fddb2dcfd994a06",
+      "size": 8896
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads29.dff",
+      "sha256": "1da06939ba195d6b079fcba060ec1ec81a5e8a1757f70056500aa468820e6410",
+      "size": 8264
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads32.dff",
+      "sha256": "26bb1b111b4fc47b74d2c0760ce7dc31623c5e0f835a07adafb3a8dcdfaa42d9",
+      "size": 20480
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads33.dff",
+      "sha256": "7cdd4f90976f71c79e15c2cd6072d729d3cb26e333eeb7a42430c99850fb48a8",
+      "size": 1282380
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads34.dff",
+      "sha256": "98a6b212b1c0a5a16ee6f33497fd3a8237f63ccdf817c0bc88094c35908874e6",
+      "size": 8756
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads35.dff",
+      "sha256": "a9134e9b645feb624858851823b73b451b151bac63832cedfad7f8646ba2fd25",
+      "size": 10092
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads36.dff",
+      "sha256": "37482935a1669a6fe971da7d0ef4948641e5d576af22f897e51f079eb7d67210",
+      "size": 9704
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads37.dff",
+      "sha256": "f5dcda0117292023b712aa85f56df804bf6805e4fd5c366c8c72ed0d5e62d463",
+      "size": 8660
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2_roads90.dff",
+      "sha256": "6525178aeafa91d2bf0d0e16f68d918755a7398f5177700347edcc7a9942a682",
+      "size": 8420
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lae2roads.txd",
+      "sha256": "0b0910c60da289172b7ebdaeeebed399403bb61b460e698122842c7028fc4035",
+      "size": 5636288
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/landlae2b.txd",
+      "sha256": "529bcc3488501f2dedf1a5904d7b40a0eb2f324e40d9c36515c46428084e9280",
+      "size": 18037104
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/lasbrid1sjm_lae.dff",
+      "sha256": "6a1d31aad02fa327240c975b324faebc9f3e6bab73b5ec2684bb5d069c3d4abd",
+      "size": 72423
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/losflor4_lae2.txd",
+      "sha256": "c1b43b972d28ffbf22c4407cb7cc1693d1c802012639a7070f6e37944525a6c6",
+      "size": 8858152
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/powerstat1_lae2.dff",
+      "sha256": "06e0893c65b2fd5a7aa03d5bf759f96d7dc4b7e2032d513005bde2c24d4a3d6c",
+      "size": 93803
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/project2lae2.dff",
+      "sha256": "7a9e4c45efa9085bc1e2f8f9439aaecf69e7d1de54685003de7b45bc16c648ff",
+      "size": 32232
+    },
+    {
+      "path": "modloader/Boyle Heights & East Los Angeles/railtracklae.txd",
+      "sha256": "40363759a4d378088ee4145919346fd57d6a8b98ef658a16d62f6e8a9b897351",
+      "size": 1244944
+    },
+    {
       "path": "modloader/Casquillos y agujeros de bala/bullet_surface.dat",
       "sha256": "d1195ddfaa03bb24a15086d2f05ef2bde3589debf1e93d1adae7f62c0efea956",
       "size": 258
@@ -3263,6 +3613,716 @@
       "size": 234
     },
     {
+      "path": "modloader/Compton & East Rancho Dominguez/Lae2_landHUB01.dff",
+      "sha256": "a07c35dd47b57b13b4bdbc5926d08b47cc22bc123765be7af8a4060d71208166",
+      "size": 1596490
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/barberblock1_lae.dff",
+      "sha256": "64322f05be8c445e40685549ec6de5b1f7b7d0ef2d93932509387baa0bf095dc",
+      "size": 1238868
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/comedhos1_la.txd",
+      "sha256": "32f53eaf4b79888d6c3941dde6ed78775c7ce0a00107289530f77be0d084be43",
+      "size": 9141432
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/comedprj1_la.txd",
+      "sha256": "ba6bcb5f5c975b664f6f7f936d197b4999be361044afb2bb863d43d1c26e543b",
+      "size": 3908780
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/compfukhouse2.dff",
+      "sha256": "307a9d4a73b13ca8d656a185616dcd8f10641e299337eb8411acd1249b52f353",
+      "size": 39333
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/compproj01_LA.dff",
+      "sha256": "cad3afac6b7cf3056796c1d9dd83a6ab37928776e1a4aede02762e59d225ba4f",
+      "size": 209745
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/contachou1_lae2.txd",
+      "sha256": "24a5f798dfb8adfc9fa5235c3f856c563a41fc1061d0b98572532f663320a6ee",
+      "size": 2507972
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/ganghous01_LAx.DFF",
+      "sha256": "5ada1f95d16119438ddd738a5cccce710fe0243389e3858862a6dd3c33c6d45d",
+      "size": 60618
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/ganghous02_lax.dff",
+      "sha256": "1f574b0d3068f64a0cdf78bba65d8b57449b7ccfe1fa303230b9ae638c624c73",
+      "size": 34350
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/ganghouse1_lax.txd",
+      "sha256": "8e31a9071b3a79000fa6c0775380153d82ba98f5ffb412616c3702b9adabef8f",
+      "size": 4445932
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/ganton01_lae2.txd",
+      "sha256": "430a0e31afcad6d8674da5cf2b933b5eb9f64e079048fa54d12e7f1c47b9ad22",
+      "size": 10422664
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/gta_proc_bush.txd",
+      "sha256": "8c343afb0d8608a149c9a3d53d9f426618f571f5aadde3b5a2a05a530b7adc7d",
+      "size": 87576
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/hub5_grass.dff",
+      "sha256": "5363347b5eb82f927feae562df329789c288ba2674e85e22195641a8b66f2202",
+      "size": 737798
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/hub_alpha.txd",
+      "sha256": "5c4da0c45390f3d7ab73be10ca3822cd0bdee214595ada877aa2bba51d612c4b",
+      "size": 2101696
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/hubst2_alpha.dff",
+      "sha256": "5f397c214e9ab9dbc9e8e8533ad6013a14d299b0b91ffa6a4829c3463981fee0",
+      "size": 51032
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/hubst4alpha.dff",
+      "sha256": "24501184d530429e713f6911440c2876f04ac510e9ca53d770842291bec61c16",
+      "size": 37887
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/lae2_ground05.dff",
+      "sha256": "0fae4bfce7eb97907ed282ee547e98a80c613dfc67f832a50771e7ae0477b8f3",
+      "size": 1035689
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/lae2_landhub03.dff",
+      "sha256": "1311995b80df73c803dbd946a60b898aa4ddbd921af5929a8262dc2042d6a83d",
+      "size": 435102
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/lae2newtempbx.txd",
+      "sha256": "9dcef9b6f606125e9824c5d0590b4c39cb134dd2f09280daa86affd55091e63c",
+      "size": 20490220
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/landhub.txd",
+      "sha256": "23284b3192912837437709b92172b9c61dc6a358b6d53db134bfff4988afc7dd",
+      "size": 58357160
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/landlae2.txd",
+      "sha256": "899b42dc52c517a80b2840e79e7db2d3de1506d5b38599d619088d785ab7bf88",
+      "size": 13911868
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/las2jmscum11.dff",
+      "sha256": "db7cdcd6e3373b45436fbc83922d8ee742a388725a38feced9cbc1cdcca76297",
+      "size": 766160
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/las2jmscum12.dff",
+      "sha256": "235c1503f20ddf190c7b12241e431cca06aeccdc599a79023880d35e868e7c36",
+      "size": 1005916
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/lasground2_las2.txd",
+      "sha256": "f2c75533b565f85a6d4043025ace74041a4c23c6d1956902d792a5395e4fbe05",
+      "size": 1734952
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/lasground_las2.txd",
+      "sha256": "a44ed6e9980f24c1820c1d4b8fd0a940d59061872f297b2c05a3a3b67e256162",
+      "size": 7963504
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/market1_lae.col",
+      "sha256": "fb98638f817d3bb15132a4955b7f4f766f79e0a33ed298745c987901243ae384",
+      "size": 22246
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/market1_lae.dff",
+      "sha256": "f98879ebabcb664802611864cb170ddd445d449bec0ae88a63f5dcd48e4f9639",
+      "size": 756435
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/market2_lae.dff",
+      "sha256": "35ea83ad9b8010ff6ebeb227c79ace50d3e8157d2210de62dd1c1a1bb29e2843",
+      "size": 1239464
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/new_bushtest.dff",
+      "sha256": "ce73ac7b03aacecf9d839248f5cf57de33bcee161a45c8f199961a19b507ecc2",
+      "size": 3020
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/rydbkyar1_lae2.dff",
+      "sha256": "63997c61204477c1a656d93fdefec6a72a2de3c9dd11cff44761e264d2eab60e",
+      "size": 798538
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/ryder_holes.dff",
+      "sha256": "a5acf251890c3545af156995d82624c9f7356ad8694c70686fbb89721b81e46a",
+      "size": 15815
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/scumgym1_LAe.dff",
+      "sha256": "203e5446c25c69c63a511f85857f76e97e34ec9707932751c435d77379870c0a",
+      "size": 311868
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/stormd_fill.txd",
+      "sha256": "e4ee5ad07bd174f6dd932842530947675268b12174a3fd4ac79cfdf19747a47a",
+      "size": 2115624
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/stormd_fillc.dff",
+      "sha256": "abf4ed474977b59d3ae07e61c910e55f23ab6a2267b08288aed127415825ab91",
+      "size": 175540
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/sweetsdoor_lae2.dff",
+      "sha256": "e6a104dbc4844023da0e1079837ef437d17f9d887cac276bb7323e91121330bb",
+      "size": 943
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/sweetshou1_lae2.dff",
+      "sha256": "ea8d6bbe8a51392d699def44a4a333d48622423d10d499c708e464aeb60e53ec",
+      "size": 93455
+    },
+    {
+      "path": "modloader/Compton & East Rancho Dominguez/templae2land.txd",
+      "sha256": "ca0831783a91ec014eb602d41bf7714ed2baea1afecaaab97b6c7961949a5f23",
+      "size": 20395480
+    },
+    {
+      "path": "modloader/DILLIMORE/Data/Dillimore.IDE",
+      "sha256": "8feb0fa45663bfccd8317ad49ec6e677605d7168c8be635cf9689fad3d94f42f",
+      "size": 400
+    },
+    {
+      "path": "modloader/DILLIMORE/Data/Dillimore.IPL",
+      "sha256": "c1005c5a19a3f456092ff43398588d0d56bfc160b2bdfa2159db8d2b7e055649",
+      "size": 13631
+    },
+    {
+      "path": "modloader/DILLIMORE/Data/loader.txt",
+      "sha256": "31694ff6002ca4bcfe74f2d9312cb71d64cf863dfc10bf39728e0f85a086b34b",
+      "size": 76
+    },
+    {
+      "path": "modloader/DILLIMORE/Dillemission.dff",
+      "sha256": "42e65e81cd3fb0bed876db5a0bd0ae6e80735d21d35053797b5f7ff5d926ca47",
+      "size": 10216
+    },
+    {
+      "path": "modloader/DILLIMORE/Dillemission.txd",
+      "sha256": "4604ae0eaace5190b2940acdb136279428a8b22e6139e05dd7bab9347f510a57",
+      "size": 6120084
+    },
+    {
+      "path": "modloader/DILLIMORE/DillemissionX.txd",
+      "sha256": "e38d862062203d03de5eefa69ba08a6386d1756815803d6ced4761ab7343edff",
+      "size": 2273964
+    },
+    {
+      "path": "modloader/DILLIMORE/Dillemission_2.dff",
+      "sha256": "772c254154d1fcb8243b8859d5554e634df2ad3eae5d638eba3efeed5cd3bb76",
+      "size": 3381
+    },
+    {
+      "path": "modloader/DILLIMORE/Dillemission_3.dff",
+      "sha256": "7944514032d073c5020f5c5210deff8e67693302be9fc0dd2cc165d24a7ff4fc",
+      "size": 4156
+    },
+    {
+      "path": "modloader/DILLIMORE/Dillemission_4.dff",
+      "sha256": "2c54740f809527bf252c33f96bd3c3ec944372f0793b5c9119ccee14bce96bce",
+      "size": 6020
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/CJ_BLOCKER_BENCH.dff",
+      "sha256": "cb95f78e13ad78c96ea54d78e5f2b048eb69932ac9b130ce2062efec2002421f",
+      "size": 76188
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/Ce_roadsign1.dff",
+      "sha256": "bcba4b23f8af32541bda014c9fd9e459ee4ada4191b4cd15bfd6c466fb8978c5",
+      "size": 201304
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/Shtroll_01.dff",
+      "sha256": "af5b371b31f633d2b5faf99a449ec89b27bbf7f73634acf84ddb5a7f74bcdc11",
+      "size": 73728
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/break_farm.txd",
+      "sha256": "bea0730d3787aabf1db33f36453986ad480141b656978a9d29e4df73cad388f2",
+      "size": 106420
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/break_s_box.txd",
+      "sha256": "293aa92b577f97b8007dbff16d5945d66d71bda4c990fbcbd1c09c18bd10e931",
+      "size": 1326152
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/ceroadsigns.txd",
+      "sha256": "81b487b236ca29f77484c4949c18d446492838bc2ed6269467c55ab17b31c6ac",
+      "size": 1110128
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/chair_01.dff",
+      "sha256": "88e62ef041feeb5f831e8cd65ed876c32b2308423ca2ba7774051458971ca362",
+      "size": 50308
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_benches.txd",
+      "sha256": "1dc1e310d1d1e38c57a6e547166722bb0c911fbf530d598bebfc9c3ab4848e82",
+      "size": 406376
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_bins.txd",
+      "sha256": "c11f29ce1d83f603e47148a26df9854f54fbb98a2c2fe26be2092a136403d0cb",
+      "size": 3820504
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_dumpster.dff",
+      "sha256": "42a122487aef3295247948756d47f970bf92de56d15c19cdff69b8683ad29735",
+      "size": 155640
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_ext_candy.dff",
+      "sha256": "2fd80bca4cd5cba37c3b7611f529bb011d740661a7dc4a404809c97c2b0594ab",
+      "size": 160540
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_ext_vend2.txd",
+      "sha256": "2142e02377203f8180e5d124314be98707e37d06924d857363263db465521cca",
+      "size": 1879836
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_firebin_(l0).dff",
+      "sha256": "ace49c0fb9cd4816f59ad4a5be1cde60f2b9a0848e7624dc338540b7e150d213",
+      "size": 82490
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_traffic.txd",
+      "sha256": "e80711460c6dec5985ba5a3a5642100d98285408b374cadc42f7b121ba6aa557",
+      "size": 561740
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cj_traffic_light5.dff",
+      "sha256": "ccd5411a642d3500f7d4e80d5ccc7ff5f7aa05372150cf90514e05e307a8bb87",
+      "size": 470612
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/crparkgm_lan2.txd",
+      "sha256": "a3e5f941203481e075bc4b1c06270675361dfe672f93da9cb35cd10ba4c86f9a",
+      "size": 3871708
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/cunte_wires.txd",
+      "sha256": "b786b7ca0683d4cf22d38f2212a9ffae7ce02a75e09993cd2d979e6165d44816",
+      "size": 1080456
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/dyn_box_pile_2.dff",
+      "sha256": "01ac4774c828d477afe349e02be85cefb31bb9755106b90ce610a89d9fde6625",
+      "size": 111898
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/dyn_box_pile_3.dff",
+      "sha256": "042ca6b8e672164c403ef0febe9535dc34381f8a00a93c48b70ea5b66c70fc50",
+      "size": 116338
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/dyn_ramp.dff",
+      "sha256": "bc7f1fa91e7a96288ebc45c5988a721253d091b3ce90e50d26f95ba0d9fc6935",
+      "size": 113013
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/dyn_woodpile2.dff",
+      "sha256": "41c9b58f44816ea5a60c134938d196f370f67b6b9b06052c57eda79477e46314",
+      "size": 27961
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/dynsigns.txd",
+      "sha256": "e1ee0a62036d6c477fa6ddda60b02d03692d76af610d0b7e63676c96ac6c523b",
+      "size": 1142796
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/gen_roofbit1.dff",
+      "sha256": "8861b8c2c03fcf4f200648a33f4f0508f375fbc33b8df8dcf4b1811129825d67",
+      "size": 443564
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/gen_roofbit2.dff",
+      "sha256": "479a62202816e4d9647957452983122f45a6a386ecf40d2cd719494dfd0d13f7",
+      "size": 164289
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/gen_roofbit3.dff",
+      "sha256": "ae8322c5db337ae6abcdbf8ae73be8b9706c71898135017b9c47bb27ed559a3c",
+      "size": 6820
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/gen_roofbit4.dff",
+      "sha256": "252b8c4018757b643e2d78eef2d64c5ea26182dd4273031f5fa640eab8175684",
+      "size": 21949
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/gen_roofbit5.dff",
+      "sha256": "60ddb761af5a89f2891c1f446800233708bc61300649d677b02fd66e29675f78",
+      "size": 48813
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/genroofbits.txd",
+      "sha256": "cd8de290013247adeeed500238df99ac9370050039a1c58bf8875aa78db0ebaf",
+      "size": 2762252
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/int_doors.txd",
+      "sha256": "12685203bfdace8d353ac20e21c8e9ef1056ff3b1db5d4c1f5fe89c6db9f894f",
+      "size": 1281328
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/lampost_coast.dff",
+      "sha256": "a289b62b9aa531d101dbb854e56a09f6c120769cd2eea19238e76ab5baa5b01e",
+      "size": 126601
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/mlamppost.dff",
+      "sha256": "cfc29ed878c781572b0c5c701b852a7261cf6ab8a844abdbadf8fbb169314518",
+      "size": 431920
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/paypark_lan.dff",
+      "sha256": "638e5cca25b4ec72b8f861125119415c9fa7f3e97eb7ee4a22c833c36bbc0d31",
+      "size": 193531
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/phonebooth1.dff",
+      "sha256": "2769c598bda0eee66c6e61c93acf2bf82ce67a7aaaf311c1b7a00a23c6ba24f4",
+      "size": 1506472
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/pot_02.dff",
+      "sha256": "7a1bba2214577ea14b2839705cc133ea14f0e94719f50fc642d6bb8c20c51d1f",
+      "size": 226696
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/ramp1.txd",
+      "sha256": "65faf9514dd0d16531322018cd747fa0d892df9150a8337c18786b6ed695575b",
+      "size": 366560
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/streetlights.txd",
+      "sha256": "490b42fb53c10e0b2cdb8f1fb0e2e65d80fbb58376c8e3a638b32eb528cfcb26",
+      "size": 287788
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/telegraph.txd",
+      "sha256": "7b41bf276b6bb5a2b27082f64770b01cca252b204b3b660808f2f6954a7a15ea",
+      "size": 914544
+    },
+    {
+      "path": "modloader/DILLIMORE/Items/telgrphpole02.dff",
+      "sha256": "611b827a06b665cdd8000422ad3b2f63e7cf1a60ca65c8c83ec38105c625f3b2",
+      "size": 552925
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/LOD03sw_block10.dff",
+      "sha256": "0d0d4a495ec66fded4e1b99a9f1aabcc2fe7a9709f94161c2c8fe20a4e312fc2",
+      "size": 507918
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/LOD04sw_copshop.dff",
+      "sha256": "4da257d2d4038c63e4fe951d9944d28b3e7c413a5258cf7548a31c574f8dcb14",
+      "size": 741818
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/LODcunte_roads80.dff",
+      "sha256": "e6c9f63f39a258a3a2f85a35ed6a395e2a9aad191e544c3f38adb045715ba4c4",
+      "size": 19149
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/ce_lod_07.txd",
+      "sha256": "8cdf7c8d9292d769d9029f02c09193e2964463799d61a0fd4693be58d2ef982f",
+      "size": 378948
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod01sw_block03.dff",
+      "sha256": "521a05084bdc9711c793e59d83d1e7682f62c69853edc2749ed82068db228f9c",
+      "size": 410495
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod02sw_block09.dff",
+      "sha256": "bdb9056694778df8bc54737f7778edfcf63a389864f004e229fb26cb0f7569d2",
+      "size": 131999
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod05sw_diner1.dff",
+      "sha256": "1a66565aec015c1cab953f4fc59e816daca3f96151ef31c4d63860d20c82e9ba",
+      "size": 1025393
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod06sw_fact01.dff",
+      "sha256": "f2cf9321342b3c505988de11997499fdda340f1d1a7364a5e3b58129a83eb6b7",
+      "size": 318705
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod07sw_gas01.dff",
+      "sha256": "7f54234b9909ff67b1f43440565e8ca485c99893cc64d059423709a01303f3b3",
+      "size": 830037
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod08sw_genstore02.dff",
+      "sha256": "3691785c91f169fef1bf6622ceddf68ac68a47193aab6fe7aedd677f7c9aa589",
+      "size": 205490
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod09sw_shopflat02.dff",
+      "sha256": "4f5e3edaeb14706287c40a2d6f0032831abe34e9199b805778523ee2f73fbc00",
+      "size": 422581
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lod10sw_shopflat06.dff",
+      "sha256": "3dab69714d7762287d7d89ebdd65e8b0327eb8afa07b3b712ee884dec4a3419a",
+      "size": 1020309
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads79.dff",
+      "sha256": "2bf02724127b8d4a36a70f719f073c30140a07b8efcf0e1b2f2e6f97f7650142",
+      "size": 153932
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads81.dff",
+      "sha256": "6ba44f9f39a7360235f8df5c1da972f54aa7cb31c0154ffb4e1fa91eb8b6cfa8",
+      "size": 438052
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads82.dff",
+      "sha256": "a88f7858a69f88031c5f7f25c4c44657aea7eb92116803fab8261aec0c9dae78",
+      "size": 29136
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads83.dff",
+      "sha256": "93f49c57c79f1e598063a4eb05d2f9278a6d4b235cb14d5c96b0e8bbf6b50d1a",
+      "size": 16480
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads84.dff",
+      "sha256": "c1571afba7d7e7a46b8c4f5f6e81eebef58fd91b2c03a9415fa4ed76f9ba776d",
+      "size": 33560
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunte_roads85.dff",
+      "sha256": "8016c9475c38c2c27ad2463bcd4c168cfe125afbb564e1a86f5e9f2ae86e26c7",
+      "size": 19257
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunteground06.dff",
+      "sha256": "50195aea3256885e9e1e529b448c8e91fafd3dc291301b1b3d71dce825726f7a",
+      "size": 369761
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodcunteground41.dff",
+      "sha256": "bb388afad4ab588bc755bd229ad352fe282739bf325be812e9cf921e247571ba",
+      "size": 841748
+    },
+    {
+      "path": "modloader/DILLIMORE/LODS/lodsw_shed02.dff",
+      "sha256": "69334381a2dae08062b991bbf53fdd42c94e5ba3290ee8efc782d8c81688e1ed",
+      "size": 82001
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_ground08.txd",
+      "sha256": "7ec326c41c5bccb281a1c44fee2476969cb414bd4d3aa79e88927c4aaf2f793d",
+      "size": 2517540
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_ground09.txd",
+      "sha256": "8a1ab979bc9f87f5048be24c52761b46c4d17b06b6f952775cd473c16867953b",
+      "size": 2289252
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_ground10.txd",
+      "sha256": "74dbd9c49c8c0abec7d3019db09e9704a718e5e3f91e12c1259d8140fa1bb988",
+      "size": 3238184
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_nitelite.txd",
+      "sha256": "f7a4277263376f5ab6acb53d6fcc591109a3d0283271362100626e484b07b3b3",
+      "size": 6471308
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_nitewindows101.dff",
+      "sha256": "3cd0a1dd76bd29d2f7168679b347c6eaff20005b2fb1b7fc7e6e909a7bd2c901",
+      "size": 39033
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_payspray.txd",
+      "sha256": "86f30b7000083f19ad4e10612558e3de504c78118825d4dd267425c90e4a8c6f",
+      "size": 4885480
+    },
+    {
+      "path": "modloader/DILLIMORE/ce_spraydoor1.dff",
+      "sha256": "af1018606b5c0af8b3cfece419a30296dce4619461b368df7a451e8cc97ddbc9",
+      "size": 19051
+    },
+    {
+      "path": "modloader/DILLIMORE/countrye_13.col",
+      "sha256": "33dc262a5f473d847f8d9a8848f8f7e208abcf1e374c38e8b0f3a8408b0cffda",
+      "size": 1766736
+    },
+    {
+      "path": "modloader/DILLIMORE/countrye_stream6.ipl",
+      "sha256": "039131ecb1b20976ae28cc478d3ce57ac2ed01a41e8db01d1d55193a88e4e4dd",
+      "size": 9636
+    },
+    {
+      "path": "modloader/DILLIMORE/counxref.col",
+      "sha256": "9567987ca34cce5a1373374ab299661c1fc5d6a0271319155253200357e836b2",
+      "size": 129116
+    },
+    {
+      "path": "modloader/DILLIMORE/cunte_cop.txd",
+      "sha256": "a0c33617f4d9b39ef2031ebc118c783e83accc1abff42eb251c6785eef781acd",
+      "size": 13534828
+    },
+    {
+      "path": "modloader/DILLIMORE/cunte_gas01.txd",
+      "sha256": "d119aa2cc41c806199051e7f8c3f4ebe183cdc07abf456678baefc2e50fe39cf",
+      "size": 22471804
+    },
+    {
+      "path": "modloader/DILLIMORE/cunteground06.dff",
+      "sha256": "f60c880e3fc4f3468fd1dffee27ac517e42fe32e290d64f64c5516a63df58fa6",
+      "size": 1297133
+    },
+    {
+      "path": "modloader/DILLIMORE/cunteground41.dff",
+      "sha256": "13a9a5a1c9a84b2a213f83f9514e6ebab036f685f7401db4f50df6581683b42c",
+      "size": 918589
+    },
+    {
+      "path": "modloader/DILLIMORE/cuntehil01.dff",
+      "sha256": "b3dd3a52afce240ddd5b80d2e9714dac51956d59049b180c7f5334cc98cf11ca",
+      "size": 220894
+    },
+    {
+      "path": "modloader/DILLIMORE/cunteroads2.txd",
+      "sha256": "c0242186dd709d51d95f15f475e7ef472d3ec8f531ed0a528b579917259edcf5",
+      "size": 9268936
+    },
+    {
+      "path": "modloader/DILLIMORE/int_cont_1.col",
+      "sha256": "874a8db0e6d5dfe656600ec36b85190bd32f01f0dc1b86c6aa1bd3ef1da3a174",
+      "size": 46540
+    },
+    {
+      "path": "modloader/DILLIMORE/lan2_3.col",
+      "sha256": "b393dac00ea7fe55c6ddb79390873f341f8d8aac00db03b614b5c0182fff584b",
+      "size": 82204
+    },
+    {
+      "path": "modloader/DILLIMORE/roadside.txd",
+      "sha256": "6dcf39e7be25492149610f91be8b4e9a4a9d7c6b218bbb98dcc835da93cec50e",
+      "size": 678360
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_apartflatx.txd",
+      "sha256": "420b0a203e55db26061ce1bbab5760ef87b3a7b4bddb4b63af77db96177893d9",
+      "size": 24336640
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block03.dff",
+      "sha256": "748161dc25698f9f6aa85304ee0d89f962d40ab3af0d8859768e6a82ed2cd58f",
+      "size": 1529462
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block03.txd",
+      "sha256": "f6487e8bb3595fa2fcf43b445036e15db14d889a25e473086b2055cb564bb951",
+      "size": 25195328
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block09.dff",
+      "sha256": "2e532200aeef659f203de5063019eaac0ae89bc3d17e7543f018597b1642a372",
+      "size": 2057678
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block10.dff",
+      "sha256": "81f6ede550bb8c927bd4cf3d5bdac2010dc9391a5a3048cb86f49e2f73b10b11",
+      "size": 1466986
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block10.txd",
+      "sha256": "257fb1a1a56be1629119459ac750107c1334718ce792cf29ff624ef7e2a9729c",
+      "size": 10882268
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_block9.txd",
+      "sha256": "02fbe24dc4f4e886f7ea8883bf60f3c1f33caff6c69e2bb9365a517496279073",
+      "size": 11534980
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_fact01.dff",
+      "sha256": "2d8d97666d42d86ca4c66c2ce30b4a2619d94145872af64b6199c57c43da0e6e",
+      "size": 2219659
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_fact01.txd",
+      "sha256": "0733b5715ca714a6ddd0c2ea27c0ce9f177f5033917dc28395e598bbea4284e3",
+      "size": 14622968
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_gas01.dff",
+      "sha256": "920fc236ccab3d18054091d953677c50aee90cc3243379f26ab99c33fc87efb9",
+      "size": 1553960
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_gas01int.dff",
+      "sha256": "d48ea26c53773e1c78ce683ea1e976ccb9d9031fae5db8dd5741ee6e8d318d81",
+      "size": 1391495
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_genstore02.dff",
+      "sha256": "2719da4d1aaa0dfbaa53875c296db9f32016dc985a9fba57f5b9a921dd78c6c2",
+      "size": 1079821
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_genstore1.txd",
+      "sha256": "9d5784a198f59b4279a414f0bd3bb5b15a3ef08566e2274313011b1a12b2d277",
+      "size": 6152884
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_shed02.dff",
+      "sha256": "4dba172e62cae4d1d652789dee02fa0e62e64dfb01f100d86ceaef45c86d4718",
+      "size": 1894581
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_shopflat02.dff",
+      "sha256": "488a880bfb17b1a8e578105fbbfc2d51991578624fd3921414c6d544f25134f5",
+      "size": 2048753
+    },
+    {
+      "path": "modloader/DILLIMORE/sw_shopflat06.dff",
+      "sha256": "4477bbe3bd3738a52af60a0300042d5514528b6905703fce654301b0cfc402ad",
+      "size": 1945463
+    },
+    {
+      "path": "modloader/DILLIMORE/trailer6_01.dff",
+      "sha256": "b3f2c32bbe181d204c23eb8f433ecdecdcb13f1658e77de93a49750328ad1679",
+      "size": 373247
+    },
+    {
+      "path": "modloader/DILLIMORE/trailers.txd",
+      "sha256": "5cdf76c5f067d98d4cb4d6f28cce120c249c1892c39d0a4ffc5accd8fcea31fb",
+      "size": 4317944
+    },
+    {
       "path": "modloader/Distance Changer/sa_draw_distance_changer.asi",
       "sha256": "354474164655ccc86d46ebd13a25c6cf9a2d503b2e8b8905a6506903fac917a3",
       "size": 67584
@@ -3271,6 +4331,226 @@
       "path": "modloader/Distance Changer/sa_draw_distance_changer.ini",
       "sha256": "e43e27974bcf7638bf05e3155edcea7fba9b365548fc17e04200a5feebe06a78",
       "size": 220
+    },
+    {
+      "path": "modloader/Eastside South Central/Furniture_LAe.dff",
+      "sha256": "b15fa6436bca5a012a288ba542ef012e24ac330ac2296692e1fe8cd46f727db9",
+      "size": 1878509
+    },
+    {
+      "path": "modloader/Eastside South Central/barrio02_lae.dff",
+      "sha256": "a5279ce12c9f43122b5c200a4a8fc89a81bd48d461e1e2c7d209a8af9f4e652d",
+      "size": 3832
+    },
+    {
+      "path": "modloader/Eastside South Central/barrio1_lae2.txd",
+      "sha256": "96f64d3334587f07397ac9c0bf0cde91c016882caec5b7e8e8c60219ee395827",
+      "size": 1384744
+    },
+    {
+      "path": "modloader/Eastside South Central/barrio3b_lae.dff",
+      "sha256": "f77cafd7018737d1d1eb79469f94cfe37834d341d88b2e0d10bc8b90ab452697",
+      "size": 41332
+    },
+    {
+      "path": "modloader/Eastside South Central/barriotrans01_lae01.DFF",
+      "sha256": "a047eb98a06d4e155d17f249467b9b1f69429105e3ad0df46eb8bf8f3156ab8b",
+      "size": 345707
+    },
+    {
+      "path": "modloader/Eastside South Central/blockk_lae2.dff",
+      "sha256": "5789054c1a288342a3e40cecd5a7a3e2ab5404e17675e3fab22be86280a637f7",
+      "size": 978799
+    },
+    {
+      "path": "modloader/Eastside South Central/burnsground.txd",
+      "sha256": "832504e1788b519152178856e8cb39909c8516c7e3a7c0e6c8fbf3a9a763c1d8",
+      "size": 16433248
+    },
+    {
+      "path": "modloader/Eastside South Central/comedbarrio1_la.txd",
+      "sha256": "67fff5ca483443ef2c59d6c9e842bcc9968b3dcca9f9916e3d05ad62ff7bbb00",
+      "size": 337448
+    },
+    {
+      "path": "modloader/Eastside South Central/compomark_lae2.dff",
+      "sha256": "2b0a23c357ba11b9f8f3df5e7514335669a830055b2f111fd26f61203c2be04d",
+      "size": 36222
+    },
+    {
+      "path": "modloader/Eastside South Central/compomark_lae2.txd",
+      "sha256": "20dbb1d25d77ede8156721c81f7143df1673db46afd38ac3edcc0f348e7d68bd",
+      "size": 571944
+    },
+    {
+      "path": "modloader/Eastside South Central/desktop.ini",
+      "sha256": "96a50927059ca98f68c175e54d9589bc9ed88ce375febda8b645123153458a7d",
+      "size": 58
+    },
+    {
+      "path": "modloader/Eastside South Central/eastls1_lae2.txd",
+      "sha256": "e4c0a88a7c2c261b3a87ae8d9ebab84a4da1036c842119ee855bb39ee87a0fff",
+      "size": 1104404
+    },
+    {
+      "path": "modloader/Eastside South Central/eastls1b_lae2.txd",
+      "sha256": "5334fa099b8285f35f44e4de16219246e0cda2b76379e6c98991e0433c0f2875",
+      "size": 61098096
+    },
+    {
+      "path": "modloader/Eastside South Central/eastls3_lae2.txd",
+      "sha256": "3e34e8b4365a2c78d399e8d008db5004b02a26d7b62c0490d21500f403777db3",
+      "size": 282792
+    },
+    {
+      "path": "modloader/Eastside South Central/eastlstr2_lae2.txd",
+      "sha256": "bc166031078c3043becc33275904e74eb0820ac4750339493bb476c03c0d3919",
+      "size": 149504
+    },
+    {
+      "path": "modloader/Eastside South Central/eastlstr_lae2.txd",
+      "sha256": "0c764013a9850f49f2d7c9b850e396dfea1edbf706c6e1366593b7b48ee361fe",
+      "size": 8637308
+    },
+    {
+      "path": "modloader/Eastside South Central/furniture_lae2.txd",
+      "sha256": "961abff774c8945374f3f100630b0d94f6c457a26256b10822b5a69704af84c4",
+      "size": 8064692
+    },
+    {
+      "path": "modloader/Eastside South Central/gangblock1tr_lae.dff",
+      "sha256": "8f1fad1de6116820bcd2bc72599999c763352723fc2a94a1f73ed949fee14102",
+      "size": 48192
+    },
+    {
+      "path": "modloader/Eastside South Central/gangblok1_lae2.txd",
+      "sha256": "028ac4547cfa9c464742d26519ce710183f611139839073a5888f3469166ef02",
+      "size": 3789212
+    },
+    {
+      "path": "modloader/Eastside South Central/gangshops1_lae.dff",
+      "sha256": "014a8228bb2842b54ce1f65399aa14f7c3bbe19d905f94700d80b64dc858d764",
+      "size": 308770
+    },
+    {
+      "path": "modloader/Eastside South Central/gangshops4_lae2.dff",
+      "sha256": "e39b62d364d4e5cb5548cc7943369c1e829ee3d25932c30ea3759a482c26237e",
+      "size": 289055
+    },
+    {
+      "path": "modloader/Eastside South Central/grnd02_lae2.dff",
+      "sha256": "71f8ab6b277e47dc27a3fe0811f363e4d6730a7abb4a07e1efa96c94259c2ed1",
+      "size": 247627
+    },
+    {
+      "path": "modloader/Eastside South Central/la_fuckcar2.dff",
+      "sha256": "ebbb08ea49d1569e5be887f90411163ab1e0233640fdb9b4b080cfbbdd16124a",
+      "size": 1195
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_ground08.dff",
+      "sha256": "2dd0cf7f60d1ccb561ba25f1956cde8982ccd3ca8981e2427808734694d8c459",
+      "size": 2192357
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_ground11.dff",
+      "sha256": "75b17574e637d5644e1a44e30bef4cf830a696787585b5aadcd2517edaddbb8b",
+      "size": 598949
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_ground12.DFF",
+      "sha256": "5657aa9a119db5118904bcf900613b2461f4024daddd90244c0af613cad5143d",
+      "size": 3130469
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_ground15b.dff",
+      "sha256": "ac820f98a8463216728d4721290cb6c01f69668c53a06694d7609fe5c02089ba",
+      "size": 728266
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads24.dff",
+      "sha256": "8f71bc007a6585f2496675422f056dc637d9addacd2879570952375c472e0b56",
+      "size": 57992
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads25.dff",
+      "sha256": "4adb59ebf693e61e7f561b9ac6ea7ccde4bb397ee5b0982fb80e044e16f0bd6d",
+      "size": 5288
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads26.dff",
+      "sha256": "7a42edf6d565ceda54f5af0796221174bc48dae09e5bf3ab54941f7bac852d15",
+      "size": 8616
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads27.dff",
+      "sha256": "72ac089333eae424ba460816534a14523e996a444bebd88a2dcef12f165740cd",
+      "size": 293700
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads28.dff",
+      "sha256": "bf2afbb4c9bd6342844e088568badd7936dc21fbd9709536128a441340f3e029",
+      "size": 8928
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads29.dff",
+      "sha256": "298839b1755f2699728fcb93fa628a23b2a6801f6f4bde3c05b5ec9e17aaeedf",
+      "size": 8392
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads30.dff",
+      "sha256": "437291a5dfa58cb091cc32e5123fc2a11a2dc3c070329c6ad6ce2918f56b1d9a",
+      "size": 14292
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads32.dff",
+      "sha256": "a07baaa7acba92b11cf83e4a1d8be82a568c08a882d3b7bd9c04903fdf41c902",
+      "size": 21784
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads33.dff",
+      "sha256": "69e06690e016fd198c0c9d5a1b77b340ddf1617862126aa54594a00b4209fcc5",
+      "size": 48220
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2_roads36.dff",
+      "sha256": "fe6a9c8e28eb828f2defb7a421e29fe9d3bff8e9f0caf0c580fcce33b9087d3e",
+      "size": 16448
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2grnd.txd",
+      "sha256": "528aeb51116f5da24395050735a20005f095bd3d0aeeb7f0591f19bde2c387a7",
+      "size": 21716616
+    },
+    {
+      "path": "modloader/Eastside South Central/lae2roads.txd",
+      "sha256": "c08ee49bc0071a4f8b3fecafcca5bcca82d964b6beb42f70bb21095decb35976",
+      "size": 8305852
+    },
+    {
+      "path": "modloader/Eastside South Central/landlae2b.txd",
+      "sha256": "c67d3e0e59c905084b9af2d0373a0b0a1f4c1eeb5a88e53d96ba9b678072f7e8",
+      "size": 6372592
+    },
+    {
+      "path": "modloader/Eastside South Central/landlae2c.txd",
+      "sha256": "64586cb8e5fd43d5c3bfba86f1312165b7935c2f40a30c643343b7975619acdb",
+      "size": 9287688
+    },
+    {
+      "path": "modloader/Eastside South Central/pigpenblok1_lae2.dff",
+      "sha256": "bf838fea0ad131957f378ab1d5a56425e639c71bd1be002c2df6153bd2173060",
+      "size": 58580
+    },
+    {
+      "path": "modloader/Eastside South Central/splitapts01.dff",
+      "sha256": "42b4a3b4aba59979abeffa0d99fcade85d022ddea16d9cd326d3271b2da488b3",
+      "size": 664523
+    },
+    {
+      "path": "modloader/Eastside South Central/splitapts02.dff",
+      "sha256": "d467e2ba14357e49e98d49670a6ff2f7b701e197b05d8fde7743bec7c4912c1c",
+      "size": 742423
     },
     {
       "path": "modloader/Efectos/Data/object.dat",
@@ -3301,6 +4581,96 @@
       "path": "modloader/Efectos/Models/particle.txd",
       "sha256": "e22b605c7b86a69c46f3635306e2067aea0d526b47ed2755f4cf70435ddb49e7",
       "size": 34873640
+    },
+    {
+      "path": "modloader/El Sereno/Location.jpg",
+      "sha256": "7fc4ebc3a0abe97fe69a2bcd56d8ab9f6dc3cdfb1b500fdb0172ca8fd011dd30",
+      "size": 75000
+    },
+    {
+      "path": "modloader/El Sereno/Promo.jpg",
+      "sha256": "16f13e885a6cad38341d7a40a73433192c4994e81b17cffa2f7c2299e3b7a22b",
+      "size": 792703
+    },
+    {
+      "path": "modloader/El Sereno/ground3_las.txd",
+      "sha256": "fa1b8d1f3b2716272b57135e410a4f6285731c468246b31330a455d2c93ef20a",
+      "size": 5421360
+    },
+    {
+      "path": "modloader/El Sereno/ground4_las.txd",
+      "sha256": "6a44bf1e3439acddd71a27ede21e7ec78820133cb89f62af5e8ed0391376d4ac",
+      "size": 4864264
+    },
+    {
+      "path": "modloader/El Sereno/ground5_las.txd",
+      "sha256": "6b3f4cacb5a048b4525bbd2eb65428350e6fd58ed1f1d8532ac69bf1b5b271d3",
+      "size": 458840
+    },
+    {
+      "path": "modloader/El Sereno/kbgarage_las.txd",
+      "sha256": "3bf84fead6ea497694282ac9aa57910bfa7c70d41655bf610ff8d2df3bee1c27",
+      "size": 3506372
+    },
+    {
+      "path": "modloader/El Sereno/kbsgarage2_las.dff",
+      "sha256": "8a3bcdc65b495803142326d633b604a5ed323f6e236330d2a1b388b4cbf8f486",
+      "size": 44310
+    },
+    {
+      "path": "modloader/El Sereno/oldshops_las.txd",
+      "sha256": "7f6076f8370424c32a78e27ae517f323fbb09c5df7b741f1cba90df9c4c95e13",
+      "size": 2494256
+    },
+    {
+      "path": "modloader/El Sereno/readme.txt",
+      "sha256": "9b2b5c2896bc1553bda6bb7fc2579792c4b0fbb83b40066218fd80eadfa58d62",
+      "size": 1130
+    },
+    {
+      "path": "modloader/El Sereno/sanped_hse1_LAs.dff",
+      "sha256": "9c333e068fc4e2e2dcf8271e3a70aae3fe59b1ec6ab67a39d498191b181f9ad3",
+      "size": 159131
+    },
+    {
+      "path": "modloader/El Sereno/sanpedhse_1x.txd",
+      "sha256": "632b1c5a61bf65cad048bef3b08f4a4c078244cdbdd1e7a4d1b54afa25db779f",
+      "size": 8767236
+    },
+    {
+      "path": "modloader/El Sereno/snpdpess1_las.dff",
+      "sha256": "9ad0d933de4f4d9a453166c47ae839f9e92a1b515f484392907779f16393640b",
+      "size": 45423
+    },
+    {
+      "path": "modloader/El Sereno/snpedhuair2_las.DFF",
+      "sha256": "24e7e0f49a4db6e825e15c0bba200ac5f4313af4b9cb83b8d985a60575c2002a",
+      "size": 73475
+    },
+    {
+      "path": "modloader/El Sereno/snpedmtsp1_las.dff",
+      "sha256": "ff7e20a1b6d80215f06dfe7ce0638b5e677893bd24f407ab2b0e9b14199f9910",
+      "size": 8974
+    },
+    {
+      "path": "modloader/El Sereno/snpedshpblk07.dff",
+      "sha256": "1aefac281623a95285a2ea1e68aa1d5cceb71d0c2243637ba11ddfcbc6c33ca1",
+      "size": 31401
+    },
+    {
+      "path": "modloader/El Sereno/wiresetc2_las.txd",
+      "sha256": "edd384d2d2e6654545e4fbf54c9b6fb19c30e93ecf2942d9c1f03ee7bfa93675",
+      "size": 582416
+    },
+    {
+      "path": "modloader/El Sereno/wiresetc_las.txd",
+      "sha256": "de7eeaba6f9890a6e29560a1af7e4c6aba2b5229098f5a691acf9598d65329ae",
+      "size": 713844
+    },
+    {
+      "path": "modloader/El Sereno/wiresetc_las2.txd",
+      "sha256": "1be4e58d175a60a874d6aa53ab1879aeb64c9c18e1f71095700e3dd253712408",
+      "size": 692720
     },
     {
       "path": "modloader/Final/skyscr1_lan2.txd",
@@ -3336,6 +4706,221 @@
       "path": "modloader/III.VC.SA.LimitAdjuster.ini",
       "sha256": "47c174fbd5329cdb93de63afb38cf0c3b1bf2e080199710ed88778e62a5fc881",
       "size": 7489
+    },
+    {
+      "path": "modloader/Inglewood/glenpark1x_lae.txd",
+      "sha256": "40a2e15f586c52bb84942b4e536610a62805a1e88c9d25c4fb54211f9041e970",
+      "size": 3410784
+    },
+    {
+      "path": "modloader/Inglewood/laelasruff201.dff",
+      "sha256": "fd48440dbd33f30e5d5194d443eca779e6d99b5d56912220b42f6a26786a3efb",
+      "size": 892649
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/bailbonds2_lan.dff",
+      "sha256": "eae6840a4e9a8ed362da42a6af90a57dbd426d5b40aad24d551ae9856a28f92e",
+      "size": 23882
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/bailbonds3_lan.dff",
+      "sha256": "d4c329183c60204e21ccdd7a4470275579a067d507d56b121e37c52181ee1913",
+      "size": 17582
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/civic03_lan.txd",
+      "sha256": "8d2cf233f39f3173f2f9038ea41589cbcadde6458d9a423a1868362048533111",
+      "size": 2429152
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/fighot.txd",
+      "sha256": "955eb7b8b642f90f8b31125cbbbbff096f39eaa355cd77009694ff59c322e15c",
+      "size": 3589588
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/fighotblok3_lan.dff",
+      "sha256": "ffd0ff493bf3cfe86463ff4bd790486adfcdf6ef9bfb182e77f139217b8ec882",
+      "size": 69115
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/fighotblok4_lan.dff",
+      "sha256": "f45249e9be18a483d74c04f1e56bc3ccf63738d04f619c66344988c6fc86be4a",
+      "size": 31879
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/lanroad.txd",
+      "sha256": "5e1a38376ee7dc80fe0c99ab9c6a9779411a0aa2b7e806a29804e5e05273b128",
+      "size": 3639844
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/roads05_lan.dff",
+      "sha256": "6952eee2294414b93108548a58a61e06081b812d058c5ce93d4d61c4fe311a79",
+      "size": 10855
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/roads15_lan.dff",
+      "sha256": "1ae242699db4ca7fa931883978c05d210019b52b53bb05778d2019ebc86e7d02",
+      "size": 169531
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/roads17_lan.dff",
+      "sha256": "361e99933d6c0f610f5f1396a50cb67f2c1eeb331b0fa31d752f9c6631252562",
+      "size": 13507
+    },
+    {
+      "path": "modloader/Little Tokyo (Japantown)/supports04_lan.dff",
+      "sha256": "69179a70c2c27e2580019fd0f4d69446e4de39506daa08b8bc8ebc3a093439c4",
+      "size": 886238
+    },
+    {
+      "path": "modloader/Long Beach/BTOROADxtra_las2.DFF",
+      "sha256": "653e383c3e2dfa5094ca19a3aee06cb87753d61f4d18e232e3cbf1ba2987c623",
+      "size": 83076
+    },
+    {
+      "path": "modloader/Long Beach/BTOROAsp2_las2.DFF",
+      "sha256": "5ea0c4397433f34d808e899d3e4b2884ed09eaa5cf071e418dc52e4ff6b30b01",
+      "size": 9874
+    },
+    {
+      "path": "modloader/Long Beach/Credits.txt",
+      "sha256": "ca16db03733e7fd5b51f228edab1211648f96756296317921408c160b7023959",
+      "size": 31
+    },
+    {
+      "path": "modloader/Long Beach/Roadsbx_las2.DFF",
+      "sha256": "0791fd97f508138e1c75aa064ffe7742a5ec679f4c8fd5168a11f8edbc32a67b",
+      "size": 46948
+    },
+    {
+      "path": "modloader/Long Beach/balcony_kbolt01.dff",
+      "sha256": "457981804a55aebc32fcdcd18ee37d9710a84dedb197c1163a0cc69c9f9060b7",
+      "size": 116591
+    },
+    {
+      "path": "modloader/Long Beach/balcony_kbolt02.dff",
+      "sha256": "5bf5883047816f0ff103471363faa57ca5974802f5e4fb00f126212a24d202ef",
+      "size": 44731
+    },
+    {
+      "path": "modloader/Long Beach/btoroadsp3_las2.dff",
+      "sha256": "6f9590a7e0072d3f1e19b5f0ff1ec41ce1ed785978869fefbdf5f105d3655a15",
+      "size": 46319
+    },
+    {
+      "path": "modloader/Long Beach/carganghud_las2.dff",
+      "sha256": "88ec2b92262c50a825e529135aff31c1b47a80145bd7b6e4894b35b613306da8",
+      "size": 1968899
+    },
+    {
+      "path": "modloader/Long Beach/cluckinbell1_las2.dff",
+      "sha256": "fe8cfcec65ce5f73594de85811593ea5a3ca047d0ab1e6583e5dc2ffa1b7fab9",
+      "size": 37305
+    },
+    {
+      "path": "modloader/Long Beach/cutrdn1_las2.DFF",
+      "sha256": "80d7e3948fffda2b4f2866fa6bdc312c41714d926e2abe480d44ed4e402ff586",
+      "size": 13536
+    },
+    {
+      "path": "modloader/Long Beach/freeway2_las2.txd",
+      "sha256": "8d82b0c03ca4de9783ff091b4e98992d9ddc3ab4cf27a3d87c8a11617ee3c9af",
+      "size": 1055784
+    },
+    {
+      "path": "modloader/Long Beach/ground2_las2.txd",
+      "sha256": "2703ed8745e991c397a0a05d38ada44330a79925136025a1e9170d71732403ce",
+      "size": 6787840
+    },
+    {
+      "path": "modloader/Long Beach/indusland2_las2.dff",
+      "sha256": "7b0843bd6c1690365174f91507ace8da9ff949cbe6567e328ea8c08a6abce029",
+      "size": 1979143
+    },
+    {
+      "path": "modloader/Long Beach/lae2_roads06.dff",
+      "sha256": "14a608d464f34424a808058dd59f055192d12fec0b47b0c9fb3d7ade6b1b2fc4",
+      "size": 27644
+    },
+    {
+      "path": "modloader/Long Beach/las2jmscum11.dff",
+      "sha256": "db7cdcd6e3373b45436fbc83922d8ee742a388725a38feced9cbc1cdcca76297",
+      "size": 766160
+    },
+    {
+      "path": "modloader/Long Beach/las2jmscum12.dff",
+      "sha256": "235c1503f20ddf190c7b12241e431cca06aeccdc599a79023880d35e868e7c36",
+      "size": 1005916
+    },
+    {
+      "path": "modloader/Long Beach/las2lnew3_las2.dff",
+      "sha256": "cc6aa732d2292e92a4ac2f01782930194d194be28f4907f052823ad017e42108",
+      "size": 14390
+    },
+    {
+      "path": "modloader/Long Beach/las2stripbar1.dff",
+      "sha256": "3039b6b8c4d7f1e7e7aa918415a03248ee8733e860bec0bdfd191035d0043d34",
+      "size": 1124273
+    },
+    {
+      "path": "modloader/Long Beach/las2xref01_lax.dff",
+      "sha256": "dea4249e474d2256b76e31d0b72e825b4ab163fe76c43b282321e3b521731868",
+      "size": 21569
+    },
+    {
+      "path": "modloader/Long Beach/lasground2_las2.txd",
+      "sha256": "abaab21a0adfe7dd5ca6c0ec3b58e9b77e7e92eae18145033a2c20e5e640909b",
+      "size": 1718440
+    },
+    {
+      "path": "modloader/Long Beach/lasground_las2.txd",
+      "sha256": "64422db637eaa18426902e2799bf18fe1172050a0d82cddfc9bb6e68bffa9602",
+      "size": 7926256
+    },
+    {
+      "path": "modloader/Long Beach/lashops6_las2.txd",
+      "sha256": "4a4ba1719975f0b72560820c623c21161771255b9f9d021923049f9ff2a5b66d",
+      "size": 419516
+    },
+    {
+      "path": "modloader/Long Beach/lasraodnshops.txd",
+      "sha256": "a8ce4d11a091d0647e8f7c8c578ae1c6cc77f0543ce0407cc6700df0b2fd43a5",
+      "size": 334632
+    },
+    {
+      "path": "modloader/Long Beach/lasroads_las2.txd",
+      "sha256": "75e9ec2297063eec75d28ae96320d8bf7f2550edfa1064049d59d60659863315",
+      "size": 2772792
+    },
+    {
+      "path": "modloader/Long Beach/nwrrdssplt_las2.dff",
+      "sha256": "90661ed5cc06348e3da81a1bc268f7a58dd1a4b8f3d27f2c92ed48d66bf311fe",
+      "size": 278263
+    },
+    {
+      "path": "modloader/Long Beach/sanpedh22_1x.txd",
+      "sha256": "3edf8b67fe146ee7a0a80c72b261664be8e2732bfce4e35019a399c1ba2203e1",
+      "size": 107432
+    },
+    {
+      "path": "modloader/Long Beach/sanpedhse_1x.txd",
+      "sha256": "d7ae393b9dbf7c8493e4f95a3c0220e1472671ca3bbda707de01bf588900287a",
+      "size": 2488320
+    },
+    {
+      "path": "modloader/Long Beach/smallprosjmt_las.dff",
+      "sha256": "c8ea635952cc49baf2c5851547fdc6e6f1b37d6a77a651a64767e90b87c40eea",
+      "size": 33524
+    },
+    {
+      "path": "modloader/Long Beach/warehus_las2.txd",
+      "sha256": "1a612595747fe0d9451f745a7cb414fd007c6455b1390ba39ffed773976e9c8c",
+      "size": 719888
+    },
+    {
+      "path": "modloader/Long Beach/wiresetc_las2.txd",
+      "sha256": "3ba32d39517b302dd9e41563be20b51cfe54bf3e0195e381fafcda689d0c3c41",
+      "size": 516904
     },
     {
       "path": "modloader/Map/radar00.txd",
@@ -5103,6 +6688,21 @@
       "size": 7041340
     },
     {
+      "path": "modloader/Skid Row/figfree4_lan.dff",
+      "sha256": "816db570e83ee8dc7564b728ca34c064eb8dd7c0c7365e6d84139726ba059435",
+      "size": 2383652
+    },
+    {
+      "path": "modloader/Skid Row/roadlan2.txd",
+      "sha256": "bc900152537e39c2ea806a5f4426f8e026b13714284cb1b9c56c606e635eafd3",
+      "size": 10702288
+    },
+    {
+      "path": "modloader/Skid Row/sunset1_lan2.txd",
+      "sha256": "6c7b40be794ab64cb90f87b1e5af7d3fd7aed0565987b85bf7c1fc37df11b223",
+      "size": 7687672
+    },
+    {
       "path": "modloader/Skins/LSPD/army.dff",
       "sha256": "e0f2553f307eb060df2cb4ee008c64f928919dc03f556ef0a4420e43420429f2",
       "size": 374784
@@ -5519,8 +7119,8 @@
     },
     {
       "path": "modloader/Skins/mongols/bikerb.txd",
-      "sha256": "627b4f8e595f962b8970905d25db3cef495544c3b95ec77125b0c5f99e05ac73",
-      "size": 1500088
+      "sha256": "e99b6df215b5e075b17c1ef9fb0c6159bd26d972f99c15960c72ed9f04931d9e",
+      "size": 530384
     },
     {
       "path": "modloader/Skins/mongols/hmycr.dff",
@@ -5679,8 +7279,8 @@
     },
     {
       "path": "modloader/Skins/wmymech.txd",
-      "sha256": "0db9bd134552d7cde61012af06d72228a5b22405917b10fe70237a6dc534b783",
-      "size": 2384452
+      "sha256": "b43fb5f4982d8edc580d7ff0bfdda2c6c90456877c55a9f2cf1a5efdbce6bd7f",
+      "size": 1923492
     },
     {
       "path": "modloader/Sound Mods/EXTRAS/sports_handbrake.wav",
@@ -9388,6 +10988,211 @@
       "size": 3560
     },
     {
+      "path": "modloader/South Central/MicrophoneStand1.dff.dff",
+      "sha256": "03262bc688a10fd083b9f3f1371710cfb5e1b35113fc12564508e080a24d5704",
+      "size": 77380
+    },
+    {
+      "path": "modloader/South Central/cj_furniture.txd",
+      "sha256": "98aa87cc88c409beedde6ee68e9cb6db2a442c823e9a378ceaf27c05439a0f37",
+      "size": 5558272
+    },
+    {
+      "path": "modloader/South Central/eastshops1_lae.txd",
+      "sha256": "a91c9b1fc7b5b097ff1a56ee2ff14c9ac74f1ecb21447d8531c28b3ed0204808",
+      "size": 11701544
+    },
+    {
+      "path": "modloader/South Central/glenpark1_lae.txd",
+      "sha256": "67d6580a1eb8d83761084ca83f4a71c04129fe83d06f22a90362fef7074e58a6",
+      "size": 447016
+    },
+    {
+      "path": "modloader/South Central/jeffers4_lae.txd",
+      "sha256": "34316b964339729a576b5330c513a1a9a9ccd366a7e38772bf27e8f6a8247c5b",
+      "size": 33185192
+    },
+    {
+      "path": "modloader/South Central/jeffers5a_lae.txd",
+      "sha256": "e864ba476ea6421dd8808d42a10694cc0e00d158bc5ac4063ad4617c7d670bc6",
+      "size": 2311336
+    },
+    {
+      "path": "modloader/South Central/kbtgr_rug.txd",
+      "sha256": "84ace13e66f01919a1238530f42e335755ee77fc4f1406b267c26a1f294aeef7",
+      "size": 165888
+    },
+    {
+      "path": "modloader/South Central/lacmabase1_lan.dff",
+      "sha256": "1a1b166eb9bbfbfdafe6d7150b8eebe425ce698677d622c5531a49c6e4623c85",
+      "size": 1207343
+    },
+    {
+      "path": "modloader/South Central/lae2tempshit.txd",
+      "sha256": "c02c5c436a41f8849cc784da3c27d9ee08d2f5015f97258ed62140526d19d8f3",
+      "size": 2643144
+    },
+    {
+      "path": "modloader/South Central/laealpha.txd",
+      "sha256": "9cf329351e00629ea6028f63288a1439835c1d48ff0a62fed83631c8331cdf31",
+      "size": 1183240
+    },
+    {
+      "path": "modloader/South Central/laealpha7.dff",
+      "sha256": "4cd267de236baf84c2b3a20ad35da18f8e8b88b13c4da328adc466a3133fdde7",
+      "size": 342109
+    },
+    {
+      "path": "modloader/South Central/laecrackmotel1.dff",
+      "sha256": "dc5c8f320f3ba6887001072e12730c05d9115aa626c2d77832b311a7b6a69918",
+      "size": 110922
+    },
+    {
+      "path": "modloader/South Central/laecrackmotel4.dff",
+      "sha256": "1553699d033451e3b34f0c987dbc66dce19a3ab9ad7e1a162cd6940f1b05c219",
+      "size": 312602
+    },
+    {
+      "path": "modloader/South Central/laejeffers01.dff",
+      "sha256": "0c1f78e6a4a830f15ce6c252a7ccea4ff4ddb27f3491a9518c919f8957756a81",
+      "size": 82332
+    },
+    {
+      "path": "modloader/South Central/laejeffers02.dff",
+      "sha256": "f9eaa209d3de2fb9e7070cb4b8e8f0fc68fca086386079746adffc2d6643a87d",
+      "size": 103684
+    },
+    {
+      "path": "modloader/South Central/laejeffers03.dff",
+      "sha256": "95b0c51c6023add4364b28e9b7fb5014148aff598c5744e8f9fba372db33445a",
+      "size": 931552
+    },
+    {
+      "path": "modloader/South Central/laejeffers04.dff",
+      "sha256": "1c89d4ce86784c26d895920afbb9a309f28f03a016688a816d4c395189089b80",
+      "size": 488484
+    },
+    {
+      "path": "modloader/South Central/laejeffers06.dff",
+      "sha256": "07402b11a63d42e1b0de99efafedf98ae2c750a5d7ee8b2cfa84799caacecddd",
+      "size": 257012
+    },
+    {
+      "path": "modloader/South Central/laemacpark01.dff",
+      "sha256": "eea9d7879a9edcd3013f53b9ec51b2c5dd1f3bcd938a9a7d913afe6c2c41104c",
+      "size": 47194
+    },
+    {
+      "path": "modloader/South Central/laeroad03.dff",
+      "sha256": "03c78584b77ba6c0ea111cd0a44416226519cd45227fdd63bebbd0f5e507ee4c",
+      "size": 34765
+    },
+    {
+      "path": "modloader/South Central/laeroad03b.dff",
+      "sha256": "0809f7fdafdd64be32278b3ea1eb2905d586186dc73828eb42f2e7dda45825a1",
+      "size": 12702
+    },
+    {
+      "path": "modloader/South Central/laeroad06.dff",
+      "sha256": "607104ca0cfc1a2e816449af404ed6c073d99be40f55164bae707714c175df09",
+      "size": 30909
+    },
+    {
+      "path": "modloader/South Central/laeroad08.dff",
+      "sha256": "847d2c32e8ae67dacfc9cdb9550c9275c08868658498b1279740fd6591bcb850",
+      "size": 19277
+    },
+    {
+      "path": "modloader/South Central/laeroad16.dff",
+      "sha256": "d8e7a21bac3a18b10e9c91f0674578fb1a73038aff046b1005fdf6c47ae1e9ac",
+      "size": 9509
+    },
+    {
+      "path": "modloader/South Central/laeroad17.dff",
+      "sha256": "1d9d9fc9ee562126c9f4c982ecb9d0647624012037e758f406ea142d4dd9f110",
+      "size": 28297
+    },
+    {
+      "path": "modloader/South Central/laeroad25.dff",
+      "sha256": "80ac76c295ecf9119a6d334abc524fe890a2aa90f8be50c150f0a03258fc7ac3",
+      "size": 32985
+    },
+    {
+      "path": "modloader/South Central/laeroad26.dff",
+      "sha256": "004a76981eae2dc3410a159d95f18e47e613b1d2a62d7c24c53000163855c858",
+      "size": 41213
+    },
+    {
+      "path": "modloader/South Central/laeroad27.dff",
+      "sha256": "ad102f28ded4ced3f3ac8333bbf6157c28ee22b6de3bb4f71dfb5b8978992390",
+      "size": 11349
+    },
+    {
+      "path": "modloader/South Central/laeroad28.dff",
+      "sha256": "c2c3d120920ac1c1b684453ce15ca6708e148a49629c29c0217fa1325cf784a7",
+      "size": 4733
+    },
+    {
+      "path": "modloader/South Central/laeroads2s.txd",
+      "sha256": "698aae69fba7c41df0193cc31adda21c51d8a2d0929182f620cf10a3f50dea93",
+      "size": 735784
+    },
+    {
+      "path": "modloader/South Central/laeshop1.dff",
+      "sha256": "dca3ccd9a51cb2c97ff5e253af56ef2104ed927509c5e4fb77c286a1ec5c2016",
+      "size": 161472
+    },
+    {
+      "path": "modloader/South Central/laestripmall1.dff",
+      "sha256": "05b2e54a11718b1b8f0a206831cb1aa30bb457a74dbb20ecb98a07b94cee8e46",
+      "size": 18757
+    },
+    {
+      "path": "modloader/South Central/lanlacma_lan2.txd",
+      "sha256": "a2b1ed80e6f8e400f3d9cf32df13e1286fbe587df18bbaf9aa7dd8b2f34eca18",
+      "size": 4200616
+    },
+    {
+      "path": "modloader/South Central/macpark1tr_lae.txd",
+      "sha256": "0e3a787db4f99ca1ff0218bc6f2d51bea749f19b3f0d21759d9a899f5af0fd0a",
+      "size": 304936
+    },
+    {
+      "path": "modloader/South Central/man_sdr_rug.dff",
+      "sha256": "ad678d93b1dde1f6dd3bc824cca40ba1a3ab4a3beda7cc2e0909e3579bd787ea",
+      "size": 1038336
+    },
+    {
+      "path": "modloader/South Central/motel_lae.txd",
+      "sha256": "cb7b49784d1859399c25a5aab20d46d9c62c1d6d4a012879d2bbade3848f8165",
+      "size": 667944
+    },
+    {
+      "path": "modloader/South Central/motelalpha.txd",
+      "sha256": "52bbaf47360ad04208e9d296587f6b3beb2692dbb56a3943735f1d93076f2f17",
+      "size": 166440
+    },
+    {
+      "path": "modloader/South Central/telegraph.txd",
+      "sha256": "ad93a2a1f2cfd9f186b1c5a16967a1bc26d69494ca63f447178bc165df004684",
+      "size": 275024
+    },
+    {
+      "path": "modloader/South Central/telgrphpole02.dff",
+      "sha256": "1f8ac82e3fbd1ecbdfc52447844decb90147871f213e149eb556f12d9a3f31aa",
+      "size": 15965
+    },
+    {
+      "path": "modloader/South Central/tv_unit_1.dff",
+      "sha256": "0734ed1ccc17b2f46ad755a1b3551ef07380beff2bb59533b1cc3c1f0a4988f3",
+      "size": 607757
+    },
+    {
+      "path": "modloader/South Central/wattspark1_lae2.dff",
+      "sha256": "3e3807527667f7dfe97adf6c4efff7b5c58348fc473c6e512311534c188ca58d",
+      "size": 416123
+    },
+    {
       "path": "modloader/Texturas GTA V/airoads_las.txd",
       "sha256": "784b7b4fd6ef79d041913faf4e00bf5f196af249cf9f911f788c33911ea67bc3",
       "size": 970752
@@ -9908,6 +11713,81 @@
       "size": 9344476
     },
     {
+      "path": "modloader/Venice/badlands.txd",
+      "sha256": "fbc31e365801925f0150ed4cd167494a1adb2601da880e66d40b90050cb5644a",
+      "size": 33064
+    },
+    {
+      "path": "modloader/Venice/canaleast01_law.dff",
+      "sha256": "463f4d5410d0972d61da8af0ffb93978a37de5e5e4974f99fe657211b6a120f1",
+      "size": 1662591
+    },
+    {
+      "path": "modloader/Venice/canalroad01_law.dff",
+      "sha256": "4acec36cc8e6e43fe24b097eaf708fa634e5f5d7250eb7937858ec32c5da64f0",
+      "size": 1527975
+    },
+    {
+      "path": "modloader/Venice/canalsg_law.txd",
+      "sha256": "86f392a7b6f99f6fcbccec7952200fc5193b26fae0b7c4f60da927395c51bb83",
+      "size": 8048124
+    },
+    {
+      "path": "modloader/Venice/canalwest01_law.dff",
+      "sha256": "cab34f2f40dd83c2f2b38c2e4bd3ddff7bb1a8ed7fc1ddd2637df86f5963e4c4",
+      "size": 1524911
+    },
+    {
+      "path": "modloader/Venice/gaz16_law.dff",
+      "sha256": "33e05418223bb763fa6fcd080701d6c3569b7de2bb3c459d476d9cd57a765d6a",
+      "size": 588433
+    },
+    {
+      "path": "modloader/Venice/gaz26_law.dff",
+      "sha256": "41a84e7c4d61ca74476b8dd3496a3eba56020bb488c5b6d4f6639e4bde409ff1",
+      "size": 843505
+    },
+    {
+      "path": "modloader/Venice/glenphouse03_lax.dff",
+      "sha256": "475460fe8df7fa1564b063dcd06a502fbb5372a644780f75ffbfd3d08098f4e8",
+      "size": 54920
+    },
+    {
+      "path": "modloader/Venice/glenphouse_lax.txd",
+      "sha256": "8a53fb99b4b3c856d2e171c87ee0889a7aab42393b00e2ecae884515f2816cfb",
+      "size": 531368
+    },
+    {
+      "path": "modloader/Venice/gta_proc_bush.txd",
+      "sha256": "756545a202b5eca21c8f594d8cdc0bdadfef49af19d4221bb33a6c26a4c0b206",
+      "size": 1192
+    },
+    {
+      "path": "modloader/Venice/labeach_04bx.dff",
+      "sha256": "67ce652f344815796267cb7bec022db678c4913207bbc4deb9a569083f0d5739",
+      "size": 1581364
+    },
+    {
+      "path": "modloader/Venice/law_beach2.txd",
+      "sha256": "3065d87fd2e18d74e48bf8d78b6f2e17ec4fa1109a5c8b8fd24454aa7b67f550",
+      "size": 3370280
+    },
+    {
+      "path": "modloader/Venice/law_cnrtplaz.txd",
+      "sha256": "29d2e8f126106411467c7530bb71dd7c8a85cc766abfe59c745b3fbda6772136",
+      "size": 1505916
+    },
+    {
+      "path": "modloader/Venice/venice_law.txd",
+      "sha256": "6b0ddb71c891a103eb688c5f5d042a09ea401374a567c1b1ce107a92dd4a3b87",
+      "size": 8236780
+    },
+    {
+      "path": "modloader/Venice/wilshire7_law.dff",
+      "sha256": "b6b64ac618c49617326555708bfd3cb12775133c66ee8199c121dfbeb36656ec",
+      "size": 1075157
+    },
+    {
       "path": "modloader/Weapons/Camera/camera.dff",
       "sha256": "4dc149c737fb5f5383cdd87f812d3f8ec2345acea43010064566cbc17dc4d648",
       "size": 24576
@@ -10276,6 +12156,206 @@
       "path": "modloader/Weapons/Teargas/teargas.txd",
       "sha256": "0f188983e151da5fdc743440046f9880b326a7dcedd2fb5bad8411809bdfb77b",
       "size": 266664
+    },
+    {
+      "path": "modloader/Westside South Central/MicrophoneStand1.dff.dff",
+      "sha256": "03262bc688a10fd083b9f3f1371710cfb5e1b35113fc12564508e080a24d5704",
+      "size": 77380
+    },
+    {
+      "path": "modloader/Westside South Central/cj_furniture.txd",
+      "sha256": "98aa87cc88c409beedde6ee68e9cb6db2a442c823e9a378ceaf27c05439a0f37",
+      "size": 5558272
+    },
+    {
+      "path": "modloader/Westside South Central/eastshops1_lae.txd",
+      "sha256": "a91c9b1fc7b5b097ff1a56ee2ff14c9ac74f1ecb21447d8531c28b3ed0204808",
+      "size": 11701544
+    },
+    {
+      "path": "modloader/Westside South Central/glenpark1_lae.txd",
+      "sha256": "67d6580a1eb8d83761084ca83f4a71c04129fe83d06f22a90362fef7074e58a6",
+      "size": 447016
+    },
+    {
+      "path": "modloader/Westside South Central/jeffers4_lae.txd",
+      "sha256": "e1038c38561cb369369ab9809c3ae63f9f53142d512f188e125420e7cdfa236d",
+      "size": 3944484
+    },
+    {
+      "path": "modloader/Westside South Central/jeffers5a_lae.txd",
+      "sha256": "e864ba476ea6421dd8808d42a10694cc0e00d158bc5ac4063ad4617c7d670bc6",
+      "size": 2311336
+    },
+    {
+      "path": "modloader/Westside South Central/kbtgr_rug.txd",
+      "sha256": "84ace13e66f01919a1238530f42e335755ee77fc4f1406b267c26a1f294aeef7",
+      "size": 165888
+    },
+    {
+      "path": "modloader/Westside South Central/lae2tempshit.txd",
+      "sha256": "c02c5c436a41f8849cc784da3c27d9ee08d2f5015f97258ed62140526d19d8f3",
+      "size": 2643144
+    },
+    {
+      "path": "modloader/Westside South Central/laealpha.txd",
+      "sha256": "9cf329351e00629ea6028f63288a1439835c1d48ff0a62fed83631c8331cdf31",
+      "size": 1183240
+    },
+    {
+      "path": "modloader/Westside South Central/laealpha7.dff",
+      "sha256": "4cd267de236baf84c2b3a20ad35da18f8e8b88b13c4da328adc466a3133fdde7",
+      "size": 342109
+    },
+    {
+      "path": "modloader/Westside South Central/laecrackmotel1.dff",
+      "sha256": "dc5c8f320f3ba6887001072e12730c05d9115aa626c2d77832b311a7b6a69918",
+      "size": 110922
+    },
+    {
+      "path": "modloader/Westside South Central/laecrackmotel4.dff",
+      "sha256": "1553699d033451e3b34f0c987dbc66dce19a3ab9ad7e1a162cd6940f1b05c219",
+      "size": 312602
+    },
+    {
+      "path": "modloader/Westside South Central/laejeffers01.dff",
+      "sha256": "0c1f78e6a4a830f15ce6c252a7ccea4ff4ddb27f3491a9518c919f8957756a81",
+      "size": 82332
+    },
+    {
+      "path": "modloader/Westside South Central/laejeffers02.dff",
+      "sha256": "f9eaa209d3de2fb9e7070cb4b8e8f0fc68fca086386079746adffc2d6643a87d",
+      "size": 103684
+    },
+    {
+      "path": "modloader/Westside South Central/laejeffers03.dff",
+      "sha256": "f22b4fba8b8f8e6629724e7bd319be3f3f392d67b32ebb96c028dea1efeb959e",
+      "size": 911200
+    },
+    {
+      "path": "modloader/Westside South Central/laejeffers04.dff",
+      "sha256": "748f184d54d212b15ad717e2684a0d6b52067518357a1d99989df53bf22b6c8a",
+      "size": 499112
+    },
+    {
+      "path": "modloader/Westside South Central/laejeffers06.dff",
+      "sha256": "dfae160bc93d23b3c8d68e5590c2244339ea74528e0450af81cc76f2407c8a28",
+      "size": 2217836
+    },
+    {
+      "path": "modloader/Westside South Central/laemacpark01.dff",
+      "sha256": "eea9d7879a9edcd3013f53b9ec51b2c5dd1f3bcd938a9a7d913afe6c2c41104c",
+      "size": 47194
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad03.dff",
+      "sha256": "03c78584b77ba6c0ea111cd0a44416226519cd45227fdd63bebbd0f5e507ee4c",
+      "size": 34765
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad03b.dff",
+      "sha256": "0809f7fdafdd64be32278b3ea1eb2905d586186dc73828eb42f2e7dda45825a1",
+      "size": 12702
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad06.dff",
+      "sha256": "607104ca0cfc1a2e816449af404ed6c073d99be40f55164bae707714c175df09",
+      "size": 30909
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad08.dff",
+      "sha256": "847d2c32e8ae67dacfc9cdb9550c9275c08868658498b1279740fd6591bcb850",
+      "size": 19277
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad16.dff",
+      "sha256": "d8e7a21bac3a18b10e9c91f0674578fb1a73038aff046b1005fdf6c47ae1e9ac",
+      "size": 9509
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad17.dff",
+      "sha256": "1d9d9fc9ee562126c9f4c982ecb9d0647624012037e758f406ea142d4dd9f110",
+      "size": 28297
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad25.dff",
+      "sha256": "80ac76c295ecf9119a6d334abc524fe890a2aa90f8be50c150f0a03258fc7ac3",
+      "size": 32985
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad26.dff",
+      "sha256": "004a76981eae2dc3410a159d95f18e47e613b1d2a62d7c24c53000163855c858",
+      "size": 41213
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad27.dff",
+      "sha256": "ad102f28ded4ced3f3ac8333bbf6157c28ee22b6de3bb4f71dfb5b8978992390",
+      "size": 11349
+    },
+    {
+      "path": "modloader/Westside South Central/laeroad28.dff",
+      "sha256": "c2c3d120920ac1c1b684453ce15ca6708e148a49629c29c0217fa1325cf784a7",
+      "size": 4733
+    },
+    {
+      "path": "modloader/Westside South Central/laeroads2s.txd",
+      "sha256": "698aae69fba7c41df0193cc31adda21c51d8a2d0929182f620cf10a3f50dea93",
+      "size": 735784
+    },
+    {
+      "path": "modloader/Westside South Central/laeshop1.dff",
+      "sha256": "dca3ccd9a51cb2c97ff5e253af56ef2104ed927509c5e4fb77c286a1ec5c2016",
+      "size": 161472
+    },
+    {
+      "path": "modloader/Westside South Central/laestripmall1.dff",
+      "sha256": "05b2e54a11718b1b8f0a206831cb1aa30bb457a74dbb20ecb98a07b94cee8e46",
+      "size": 18757
+    },
+    {
+      "path": "modloader/Westside South Central/lanlacma_lan2.txd",
+      "sha256": "a2b1ed80e6f8e400f3d9cf32df13e1286fbe587df18bbaf9aa7dd8b2f34eca18",
+      "size": 4200616
+    },
+    {
+      "path": "modloader/Westside South Central/macpark1tr_lae.txd",
+      "sha256": "0e3a787db4f99ca1ff0218bc6f2d51bea749f19b3f0d21759d9a899f5af0fd0a",
+      "size": 304936
+    },
+    {
+      "path": "modloader/Westside South Central/man_sdr_rug.dff",
+      "sha256": "ad678d93b1dde1f6dd3bc824cca40ba1a3ab4a3beda7cc2e0909e3579bd787ea",
+      "size": 1038336
+    },
+    {
+      "path": "modloader/Westside South Central/motel_lae.txd",
+      "sha256": "cb7b49784d1859399c25a5aab20d46d9c62c1d6d4a012879d2bbade3848f8165",
+      "size": 667944
+    },
+    {
+      "path": "modloader/Westside South Central/motelalpha.txd",
+      "sha256": "52bbaf47360ad04208e9d296587f6b3beb2692dbb56a3943735f1d93076f2f17",
+      "size": 166440
+    },
+    {
+      "path": "modloader/Westside South Central/telegraph.txd",
+      "sha256": "ad93a2a1f2cfd9f186b1c5a16967a1bc26d69494ca63f447178bc165df004684",
+      "size": 275024
+    },
+    {
+      "path": "modloader/Westside South Central/telgrphpole02.dff",
+      "sha256": "1f8ac82e3fbd1ecbdfc52447844decb90147871f213e149eb556f12d9a3f31aa",
+      "size": 15965
+    },
+    {
+      "path": "modloader/Westside South Central/tv_unit_1.dff",
+      "sha256": "0734ed1ccc17b2f46ad755a1b3551ef07380beff2bb59533b1cc3c1f0a4988f3",
+      "size": 607757
+    },
+    {
+      "path": "modloader/Westside South Central/wattspark1_lae2.dff",
+      "sha256": "3e3807527667f7dfe97adf6c4efff7b5c58348fc473c6e512311534c188ca58d",
+      "size": 416123
     },
     {
       "path": "modloader/Widescreen fix/sa_widescreenfix_lite.asi",
